@@ -1,0 +1,5357 @@
+miRNA,drug
+hsa-mir-200b,Gemcitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-24-1,Methotrexate
+hsa-mir-214,Cisplatin
+hsa-mir-100,TRAIL therapy
+hsa-mir-125b-1,TRAIL therapy
+hsa-mir-15b,TRAIL therapy
+hsa-mir-221,TRAIL therapy
+hsa-mir-222,TRAIL therapy
+hsa-mir-9-1,TRAIL therapy
+hsa-mir-96,TRAIL therapy
+hsa-mir-15b,Vincristine
+hsa-mir-16-1,Vincristine
+hsa-mir-17,Chemotherapy
+hsa-mir-27a,Hydroxyurea
+hsa-mir-27a,Hydroxyurea
+hsa-mir-27a,Vinblastine
+hsa-mir-27a,Vinblastine
+hsa-mir-451a,Hydroxyurea
+hsa-mir-451a,Hydroxyurea
+hsa-mir-451a,Vinblastine
+hsa-mir-451a,Vinblastine
+hsa-let-7a-1,Doxorubicin (Adriamycin)
+hsa-let-7b,Doxorubicin (Adriamycin)
+hsa-let-7d,Doxorubicin (Adriamycin)
+hsa-let-7f-1,Doxorubicin (Adriamycin)
+hsa-let-7g,Doxorubicin (Adriamycin)
+hsa-let-7i,Doxorubicin (Adriamycin)
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-103a-1,Doxorubicin (Adriamycin)
+hsa-mir-106a,Doxorubicin (Adriamycin)
+hsa-mir-106b,Doxorubicin (Adriamycin)
+hsa-mir-107,Doxorubicin (Adriamycin)
+hsa-mir-10a,Doxorubicin (Adriamycin)
+hsa-mir-125a,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-127,Doxorubicin (Adriamycin)
+hsa-mir-128-2,Doxorubicin (Adriamycin)
+hsa-mir-130a,Doxorubicin (Adriamycin)
+hsa-mir-132,Doxorubicin (Adriamycin)
+hsa-mir-133a-1,Doxorubicin (Adriamycin)
+hsa-mir-133b,Doxorubicin (Adriamycin)
+hsa-mir-140,Doxorubicin (Adriamycin)
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-146b,Doxorubicin (Adriamycin)
+hsa-mir-148a,Doxorubicin (Adriamycin)
+hsa-mir-149,Doxorubicin (Adriamycin)
+hsa-mir-152,Doxorubicin (Adriamycin)
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-15a,Doxorubicin (Adriamycin)
+hsa-mir-15b,Doxorubicin (Adriamycin)
+hsa-mir-16-1,Doxorubicin (Adriamycin)
+hsa-mir-17,Doxorubicin (Adriamycin)
+hsa-mir-181b-1,Doxorubicin (Adriamycin)
+hsa-mir-181d,Doxorubicin (Adriamycin)
+hsa-mir-182,Doxorubicin (Adriamycin)
+hsa-mir-185,Doxorubicin (Adriamycin)
+hsa-mir-186,Doxorubicin (Adriamycin)
+hsa-mir-187,Doxorubicin (Adriamycin)
+hsa-mir-18a,Doxorubicin (Adriamycin)
+hsa-mir-18b,Doxorubicin (Adriamycin)
+hsa-mir-191,Doxorubicin (Adriamycin)
+hsa-mir-192,Doxorubicin (Adriamycin)
+hsa-mir-193b,Doxorubicin (Adriamycin)
+hsa-mir-194-1,Doxorubicin (Adriamycin)
+hsa-mir-195,Doxorubicin (Adriamycin)
+hsa-mir-196b,Doxorubicin (Adriamycin)
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-200a,Doxorubicin (Adriamycin)
+hsa-mir-200a,Doxorubicin (Adriamycin)
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-203a,Doxorubicin (Adriamycin)
+hsa-mir-205,Doxorubicin (Adriamycin)
+hsa-mir-206,Doxorubicin (Adriamycin)
+hsa-mir-20a,Doxorubicin (Adriamycin)
+hsa-mir-20b,Doxorubicin (Adriamycin)
+hsa-mir-210,Doxorubicin (Adriamycin)
+hsa-mir-212,Doxorubicin (Adriamycin)
+hsa-mir-214,Doxorubicin (Adriamycin)
+hsa-mir-215,Doxorubicin (Adriamycin)
+hsa-mir-22,Doxorubicin (Adriamycin)
+hsa-mir-221,Doxorubicin (Adriamycin)
+hsa-mir-222,Doxorubicin (Adriamycin)
+hsa-mir-224,Doxorubicin (Adriamycin)
+hsa-mir-23a,Doxorubicin (Adriamycin)
+hsa-mir-23b,Doxorubicin (Adriamycin)
+hsa-mir-25,Doxorubicin (Adriamycin)
+hsa-mir-26a-1,Doxorubicin (Adriamycin)
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-28,Doxorubicin (Adriamycin)
+hsa-mir-29a,Doxorubicin (Adriamycin)
+hsa-mir-29b-1,Doxorubicin (Adriamycin)
+hsa-mir-301a,Doxorubicin (Adriamycin)
+hsa-mir-30a,Doxorubicin (Adriamycin)
+hsa-mir-30e,Doxorubicin (Adriamycin)
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-320a,Doxorubicin (Adriamycin)
+hsa-mir-323a,Doxorubicin (Adriamycin)
+hsa-mir-324,Doxorubicin (Adriamycin)
+hsa-mir-328,Doxorubicin (Adriamycin)
+hsa-mir-331,Doxorubicin (Adriamycin)
+hsa-mir-339,Doxorubicin (Adriamycin)
+hsa-mir-342,Doxorubicin (Adriamycin)
+hsa-mir-345,Doxorubicin (Adriamycin)
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-34c,Doxorubicin (Adriamycin)
+hsa-mir-362,Doxorubicin (Adriamycin)
+hsa-mir-373,Doxorubicin (Adriamycin)
+hsa-mir-374a,Doxorubicin (Adriamycin)
+hsa-mir-375,Doxorubicin (Adriamycin)
+hsa-mir-376a-1,Doxorubicin (Adriamycin)
+hsa-mir-378a,Doxorubicin (Adriamycin)
+hsa-mir-409,Doxorubicin (Adriamycin)
+hsa-mir-410,Doxorubicin (Adriamycin)
+hsa-mir-411,Doxorubicin (Adriamycin)
+hsa-mir-421,Doxorubicin (Adriamycin)
+hsa-mir-422a,Doxorubicin (Adriamycin)
+hsa-mir-424,Doxorubicin (Adriamycin)
+hsa-mir-429,Doxorubicin (Adriamycin)
+hsa-mir-431,Doxorubicin (Adriamycin)
+hsa-mir-432,Doxorubicin (Adriamycin)
+hsa-mir-433,Doxorubicin (Adriamycin)
+hsa-mir-450a-1,Doxorubicin (Adriamycin)
+hsa-mir-451a,Doxorubicin (Adriamycin)
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-484,Doxorubicin (Adriamycin)
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-486-1,Doxorubicin (Adriamycin)
+hsa-mir-487a,Doxorubicin (Adriamycin)
+hsa-mir-487b,Doxorubicin (Adriamycin)
+hsa-mir-489,Doxorubicin (Adriamycin)
+hsa-mir-493,Doxorubicin (Adriamycin)
+hsa-mir-495,Doxorubicin (Adriamycin)
+hsa-mir-503,Doxorubicin (Adriamycin)
+hsa-mir-532,Doxorubicin (Adriamycin)
+hsa-mir-542,Doxorubicin (Adriamycin)
+hsa-mir-550a-1,Doxorubicin (Adriamycin)
+hsa-mir-557,Doxorubicin (Adriamycin)
+hsa-mir-574,Doxorubicin (Adriamycin)
+hsa-mir-584,Doxorubicin (Adriamycin)
+hsa-mir-590,Doxorubicin (Adriamycin)
+hsa-mir-615,Doxorubicin (Adriamycin)
+hsa-mir-637,Doxorubicin (Adriamycin)
+hsa-mir-654,Doxorubicin (Adriamycin)
+hsa-mir-660,Doxorubicin (Adriamycin)
+hsa-mir-7-1,Doxorubicin (Adriamycin)
+hsa-mir-9-1,Doxorubicin (Adriamycin)
+hsa-mir-93,Doxorubicin (Adriamycin)
+hsa-mir-96,Doxorubicin (Adriamycin)
+hsa-mir-99b,Doxorubicin (Adriamycin)
+hsa-let-7a-1,Capecitabine
+hsa-mir-198,Capecitabine
+hsa-mir-33a,Capecitabine
+hsa-mir-203a,Tamoxifen
+hsa-mir-21,Tamoxifen
+hsa-mir-181a-1,Tamoxifen
+hsa-mir-221,Tamoxifen
+hsa-mir-222,Tamoxifen
+hsa-mir-23a,Tamoxifen
+hsa-mir-24-1,Tamoxifen
+hsa-mir-27a,Tamoxifen
+hsa-mir-32,Tamoxifen
+hsa-mir-342,Tamoxifen
+hsa-mir-375,Tamoxifen
+hsa-mir-489,Tamoxifen
+hsa-let-7a-1,Doxorubicin (Adriamycin)
+hsa-let-7a-1,Doxorubicin (Adriamycin)
+hsa-let-7a-1,Interferon-gamma
+hsa-let-7a-1,Interferon-gamma
+hsa-let-7a-1,Paclitaxel
+hsa-let-7a-1,Paclitaxel
+hsa-mir-221,Tamoxifen
+hsa-mir-222,Tamoxifen
+hsa-mir-34a,Cisplatin
+hsa-mir-34a,Docetaxel
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-34a,Gemcitabine
+hsa-mir-1-1,Doxorubicin (Adriamycin)
+hsa-let-7e,Cisplatin
+hsa-mir-10a,Cisplatin
+hsa-mir-19b-1,Cisplatin
+hsa-mir-20a,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-23b,Cisplatin
+hsa-mir-26a-1,Cisplatin
+hsa-mir-29c,Cisplatin
+hsa-mir-92a-1,Cisplatin
+hsa-mir-93,Cisplatin
+hsa-mir-99a,Cisplatin
+hsa-mir-100,Cisplatin
+hsa-mir-106a,Paclitaxel
+hsa-mir-106a,Paclitaxel
+hsa-mir-106a,Cisplatin
+hsa-mir-106a,Cisplatin
+hsa-mir-107,Paclitaxel
+hsa-mir-125a,Paclitaxel
+hsa-mir-125b-1,Paclitaxel
+hsa-mir-126,Paclitaxel
+hsa-mir-128-1,Paclitaxel
+hsa-mir-130a,Paclitaxel
+hsa-mir-130b,Paclitaxel
+hsa-mir-137,Paclitaxel
+hsa-mir-182,Paclitaxel
+hsa-mir-197,Paclitaxel
+hsa-mir-199a-1,Paclitaxel
+hsa-mir-204,Paclitaxel
+hsa-mir-20b,Paclitaxel
+hsa-mir-21,Paclitaxel
+hsa-mir-218-1,Paclitaxel
+hsa-mir-30c-2,Paclitaxel
+hsa-mir-335,Paclitaxel
+hsa-mir-34a,Camptothecin
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-106a,Doxorubicin (Adriamycin)
+hsa-mir-106b,Doxorubicin (Adriamycin)
+hsa-mir-125a,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-130a,Doxorubicin (Adriamycin)
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-183,Doxorubicin (Adriamycin)
+hsa-mir-193a,Doxorubicin (Adriamycin)
+hsa-mir-200a,Doxorubicin (Adriamycin)
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-203a,Doxorubicin (Adriamycin)
+hsa-mir-20b,Doxorubicin (Adriamycin)
+hsa-mir-210,Doxorubicin (Adriamycin)
+hsa-mir-22,Doxorubicin (Adriamycin)
+hsa-mir-221,Doxorubicin (Adriamycin)
+hsa-mir-222,Doxorubicin (Adriamycin)
+hsa-mir-23a,Doxorubicin (Adriamycin)
+hsa-mir-25,Doxorubicin (Adriamycin)
+hsa-mir-301a,Doxorubicin (Adriamycin)
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-339,Doxorubicin (Adriamycin)
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-421,Doxorubicin (Adriamycin)
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-590,Doxorubicin (Adriamycin)
+hsa-mir-92a-1,Doxorubicin (Adriamycin)
+hsa-mir-93,Doxorubicin (Adriamycin)
+hsa-let-7i,Cisplatin
+hsa-mir-126,Cisplatin
+hsa-mir-152,Cisplatin
+hsa-mir-196a-1,Cisplatin
+hsa-mir-198,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-216a,Cisplatin
+hsa-mir-22,Cisplatin
+hsa-mir-223,Cisplatin
+hsa-mir-370,Cisplatin
+hsa-mir-509-1,Cisplatin
+hsa-mir-520e,Cisplatin
+hsa-mir-521-1,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-21,Hydrogen Peroxide (H2O2)
+hsa-let-7e,Doxorubicin (Adriamycin)
+hsa-mir-106a,Doxorubicin (Adriamycin)
+hsa-mir-126,Doxorubicin (Adriamycin)
+hsa-mir-132,Doxorubicin (Adriamycin)
+hsa-mir-142,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181b-1,Gemcitabine
+hsa-mir-185,Gemcitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-181a-1,Paclitaxel
+hsa-mir-23b,Paclitaxel
+hsa-mir-330,Paclitaxel
+hsa-mir-331,Paclitaxel
+hsa-mir-339,Docetaxel
+hsa-mir-340,Docetaxel
+hsa-mir-34b,Docetaxel
+hsa-mir-371a,Docetaxel
+hsa-mir-381,Docetaxel
+hsa-mir-431,Docetaxel
+hsa-mir-502,Topotecan
+hsa-mir-514a-1,Topotecan
+hsa-mir-515-1,Topotecan
+hsa-mir-518a-1,Cisplatin
+hsa-mir-520f,Cisplatin
+hsa-mir-520f,Cisplatin
+hsa-mir-99b,Cisplatin
+hsa-mir-328,Mitoxantrone
+hsa-mir-205,Gefitinib
+hsa-mir-205,Lapatinib
+hsa-mir-221,Dihydrotestosterone
+hsa-mir-222,Dihydrotestosterone
+hsa-let-7e,Doxorubicin (Adriamycin)
+hsa-let-7e,Verapamil
+hsa-let-7e,Doxorubicin (Adriamycin)
+hsa-let-7e,Verapamil
+hsa-let-7f-1,Doxorubicin (Adriamycin)
+hsa-let-7f-1,Verapamil
+hsa-let-7g,Doxorubicin (Adriamycin)
+hsa-let-7g,Verapamil
+hsa-let-7i,Doxorubicin (Adriamycin)
+hsa-let-7i,Verapamil
+hsa-mir-1-1,Doxorubicin (Adriamycin)
+hsa-mir-1-1,Verapamil
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-100,Verapamil
+hsa-mir-101-1,Doxorubicin (Adriamycin)
+hsa-mir-101-1,Verapamil
+hsa-mir-10a,Doxorubicin (Adriamycin)
+hsa-mir-10a,Verapamil
+hsa-mir-10b,Doxorubicin (Adriamycin)
+hsa-mir-10b,Verapamil
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Verapamil
+hsa-mir-128-1,Doxorubicin (Adriamycin)
+hsa-mir-128-1,Verapamil
+hsa-mir-130b,Doxorubicin (Adriamycin)
+hsa-mir-130b,Verapamil
+hsa-mir-132,Doxorubicin (Adriamycin)
+hsa-mir-132,Verapamil
+hsa-mir-135a-1,Doxorubicin (Adriamycin)
+hsa-mir-135a-1,Verapamil
+hsa-mir-135b,Doxorubicin (Adriamycin)
+hsa-mir-135b,Verapamil
+hsa-mir-140,Doxorubicin (Adriamycin)
+hsa-mir-140,Verapamil
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-141,Verapamil
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-141,Verapamil
+hsa-mir-142,Doxorubicin (Adriamycin)
+hsa-mir-142,Verapamil
+hsa-mir-143,Doxorubicin (Adriamycin)
+hsa-mir-143,Verapamil
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-145,Verapamil
+hsa-mir-146a,Doxorubicin (Adriamycin)
+hsa-mir-146a,Verapamil
+hsa-mir-146b,Doxorubicin (Adriamycin)
+hsa-mir-146b,Verapamil
+hsa-mir-148a,Doxorubicin (Adriamycin)
+hsa-mir-148a,Verapamil
+hsa-mir-151a,Doxorubicin (Adriamycin)
+hsa-mir-151a,Verapamil
+hsa-mir-153-1,Doxorubicin (Adriamycin)
+hsa-mir-153-1,Verapamil
+hsa-mir-154,Doxorubicin (Adriamycin)
+hsa-mir-154,Verapamil
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-155,Verapamil
+hsa-mir-15a,Doxorubicin (Adriamycin)
+hsa-mir-15a,Verapamil
+hsa-mir-15b,Doxorubicin (Adriamycin)
+hsa-mir-15b,Verapamil
+hsa-mir-16-1,Doxorubicin (Adriamycin)
+hsa-mir-16-1,Verapamil
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Verapamil
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Verapamil
+hsa-mir-181c,Doxorubicin (Adriamycin)
+hsa-mir-181c,Verapamil
+hsa-mir-181d,Doxorubicin (Adriamycin)
+hsa-mir-181d,Verapamil
+hsa-mir-182,Doxorubicin (Adriamycin)
+hsa-mir-182,Verapamil
+hsa-mir-186,Doxorubicin (Adriamycin)
+hsa-mir-186,Verapamil
+hsa-mir-18a,Doxorubicin (Adriamycin)
+hsa-mir-18a,Verapamil
+hsa-mir-190a,Doxorubicin (Adriamycin)
+hsa-mir-190a,Verapamil
+hsa-mir-192,Doxorubicin (Adriamycin)
+hsa-mir-192,Verapamil
+hsa-mir-193a,Doxorubicin (Adriamycin)
+hsa-mir-193a,Verapamil
+hsa-mir-196a-1,Doxorubicin (Adriamycin)
+hsa-mir-196a-1,Verapamil
+hsa-mir-196b,Doxorubicin (Adriamycin)
+hsa-mir-196b,Verapamil
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-199a-1,Verapamil
+hsa-mir-199b,Doxorubicin (Adriamycin)
+hsa-mir-199b,Verapamil
+hsa-mir-19a,Doxorubicin (Adriamycin)
+hsa-mir-19a,Verapamil
+hsa-mir-19b-1,Doxorubicin (Adriamycin)
+hsa-mir-19b-1,Verapamil
+hsa-mir-19b-1,Doxorubicin (Adriamycin)
+hsa-mir-19b-1,Verapamil
+hsa-mir-200a,Doxorubicin (Adriamycin)
+hsa-mir-200a,Verapamil
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-200c,Verapamil
+hsa-mir-205,Doxorubicin (Adriamycin)
+hsa-mir-205,Verapamil
+hsa-mir-206,Doxorubicin (Adriamycin)
+hsa-mir-206,Verapamil
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Verapamil
+hsa-mir-214,Doxorubicin (Adriamycin)
+hsa-mir-214,Verapamil
+hsa-mir-216a,Doxorubicin (Adriamycin)
+hsa-mir-216a,Verapamil
+hsa-mir-216b,Doxorubicin (Adriamycin)
+hsa-mir-216b,Verapamil
+hsa-mir-219a-1,Doxorubicin (Adriamycin)
+hsa-mir-219a-1,Verapamil
+hsa-mir-221,Doxorubicin (Adriamycin)
+hsa-mir-221,Verapamil
+hsa-mir-25,Doxorubicin (Adriamycin)
+hsa-mir-25,Verapamil
+hsa-mir-26a-1,Doxorubicin (Adriamycin)
+hsa-mir-26a-1,Verapamil
+hsa-mir-28,Doxorubicin (Adriamycin)
+hsa-mir-28,Verapamil
+hsa-mir-299,Doxorubicin (Adriamycin)
+hsa-mir-299,Verapamil
+hsa-mir-29a,Doxorubicin (Adriamycin)
+hsa-mir-29a,Verapamil
+hsa-mir-29c,Doxorubicin (Adriamycin)
+hsa-mir-29c,Verapamil
+hsa-mir-301b,Doxorubicin (Adriamycin)
+hsa-mir-301b,Verapamil
+hsa-mir-302a,Doxorubicin (Adriamycin)
+hsa-mir-302a,Verapamil
+hsa-mir-302c,Doxorubicin (Adriamycin)
+hsa-mir-302c,Verapamil
+hsa-mir-302c,Doxorubicin (Adriamycin)
+hsa-mir-302c,Verapamil
+hsa-mir-30a,Doxorubicin (Adriamycin)
+hsa-mir-30a,Verapamil
+hsa-mir-30b,Doxorubicin (Adriamycin)
+hsa-mir-30b,Verapamil
+hsa-mir-30d,Doxorubicin (Adriamycin)
+hsa-mir-30d,Verapamil
+hsa-mir-30e,Doxorubicin (Adriamycin)
+hsa-mir-30e,Verapamil
+hsa-mir-30e,Doxorubicin (Adriamycin)
+hsa-mir-30e,Verapamil
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-31,Verapamil
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-31,Verapamil
+hsa-mir-32,Doxorubicin (Adriamycin)
+hsa-mir-32,Verapamil
+hsa-mir-320a,Doxorubicin (Adriamycin)
+hsa-mir-320a,Verapamil
+hsa-mir-330,Doxorubicin (Adriamycin)
+hsa-mir-330,Verapamil
+hsa-mir-331,Doxorubicin (Adriamycin)
+hsa-mir-331,Verapamil
+hsa-mir-339,Doxorubicin (Adriamycin)
+hsa-mir-339,Verapamil
+hsa-mir-33a,Doxorubicin (Adriamycin)
+hsa-mir-33a,Verapamil
+hsa-mir-33a,Doxorubicin (Adriamycin)
+hsa-mir-33a,Verapamil
+hsa-mir-33b,Doxorubicin (Adriamycin)
+hsa-mir-33b,Verapamil
+hsa-mir-345,Doxorubicin (Adriamycin)
+hsa-mir-345,Verapamil
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-34a,Verapamil
+hsa-mir-34b,Doxorubicin (Adriamycin)
+hsa-mir-34b,Verapamil
+hsa-mir-361,Doxorubicin (Adriamycin)
+hsa-mir-361,Verapamil
+hsa-mir-367,Doxorubicin (Adriamycin)
+hsa-mir-367,Verapamil
+hsa-mir-369,Doxorubicin (Adriamycin)
+hsa-mir-369,Verapamil
+hsa-mir-370,Doxorubicin (Adriamycin)
+hsa-mir-370,Verapamil
+hsa-mir-373,Doxorubicin (Adriamycin)
+hsa-mir-373,Verapamil
+hsa-mir-373,Doxorubicin (Adriamycin)
+hsa-mir-373,Verapamil
+hsa-mir-374a,Doxorubicin (Adriamycin)
+hsa-mir-374a,Verapamil
+hsa-mir-376c,Doxorubicin (Adriamycin)
+hsa-mir-376c,Verapamil
+hsa-mir-410,Doxorubicin (Adriamycin)
+hsa-mir-410,Verapamil
+hsa-mir-412,Doxorubicin (Adriamycin)
+hsa-mir-412,Verapamil
+hsa-mir-425,Doxorubicin (Adriamycin)
+hsa-mir-425,Verapamil
+hsa-mir-429,Doxorubicin (Adriamycin)
+hsa-mir-429,Verapamil
+hsa-mir-431,Doxorubicin (Adriamycin)
+hsa-mir-431,Verapamil
+hsa-mir-448,Doxorubicin (Adriamycin)
+hsa-mir-448,Verapamil
+hsa-mir-450a-1,Doxorubicin (Adriamycin)
+hsa-mir-450a-1,Verapamil
+hsa-mir-451a,Doxorubicin (Adriamycin)
+hsa-mir-451a,Verapamil
+hsa-mir-454,Doxorubicin (Adriamycin)
+hsa-mir-454,Verapamil
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-455,Verapamil
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-485,Verapamil
+hsa-mir-491,Doxorubicin (Adriamycin)
+hsa-mir-491,Verapamil
+hsa-mir-496,Doxorubicin (Adriamycin)
+hsa-mir-496,Verapamil
+hsa-mir-497,Doxorubicin (Adriamycin)
+hsa-mir-497,Verapamil
+hsa-mir-499a,Doxorubicin (Adriamycin)
+hsa-mir-499a,Verapamil
+hsa-mir-502,Doxorubicin (Adriamycin)
+hsa-mir-502,Verapamil
+hsa-mir-505,Doxorubicin (Adriamycin)
+hsa-mir-505,Verapamil
+hsa-mir-509-1,Doxorubicin (Adriamycin)
+hsa-mir-509-1,Verapamil
+hsa-mir-514a-1,Doxorubicin (Adriamycin)
+hsa-mir-514a-1,Verapamil
+hsa-mir-517c,Doxorubicin (Adriamycin)
+hsa-mir-517c,Verapamil
+hsa-mir-519b,Doxorubicin (Adriamycin)
+hsa-mir-519b,Verapamil
+hsa-mir-520a,Doxorubicin (Adriamycin)
+hsa-mir-520a,Verapamil
+hsa-mir-520d,Doxorubicin (Adriamycin)
+hsa-mir-520d,Verapamil
+hsa-mir-526b,Doxorubicin (Adriamycin)
+hsa-mir-526b,Verapamil
+hsa-mir-532,Doxorubicin (Adriamycin)
+hsa-mir-532,Verapamil
+hsa-mir-539,Doxorubicin (Adriamycin)
+hsa-mir-539,Verapamil
+hsa-mir-541,Doxorubicin (Adriamycin)
+hsa-mir-541,Verapamil
+hsa-mir-542,Doxorubicin (Adriamycin)
+hsa-mir-542,Verapamil
+hsa-mir-545,Doxorubicin (Adriamycin)
+hsa-mir-545,Verapamil
+hsa-mir-548a-1,Doxorubicin (Adriamycin)
+hsa-mir-548a-1,Verapamil
+hsa-mir-555,Doxorubicin (Adriamycin)
+hsa-mir-555,Verapamil
+hsa-mir-563,Doxorubicin (Adriamycin)
+hsa-mir-563,Verapamil
+hsa-mir-568,Doxorubicin (Adriamycin)
+hsa-mir-568,Verapamil
+hsa-mir-569,Doxorubicin (Adriamycin)
+hsa-mir-569,Verapamil
+hsa-mir-571,Doxorubicin (Adriamycin)
+hsa-mir-571,Verapamil
+hsa-mir-576,Doxorubicin (Adriamycin)
+hsa-mir-576,Verapamil
+hsa-mir-578,Doxorubicin (Adriamycin)
+hsa-mir-578,Verapamil
+hsa-mir-582,Doxorubicin (Adriamycin)
+hsa-mir-582,Verapamil
+hsa-mir-586,Doxorubicin (Adriamycin)
+hsa-mir-586,Verapamil
+hsa-mir-587,Doxorubicin (Adriamycin)
+hsa-mir-587,Verapamil
+hsa-mir-588,Doxorubicin (Adriamycin)
+hsa-mir-588,Verapamil
+hsa-mir-589,Doxorubicin (Adriamycin)
+hsa-mir-589,Verapamil
+hsa-mir-590,Doxorubicin (Adriamycin)
+hsa-mir-590,Verapamil
+hsa-mir-591,Doxorubicin (Adriamycin)
+hsa-mir-591,Verapamil
+hsa-mir-592,Doxorubicin (Adriamycin)
+hsa-mir-592,Verapamil
+hsa-mir-593,Doxorubicin (Adriamycin)
+hsa-mir-593,Verapamil
+hsa-mir-601,Doxorubicin (Adriamycin)
+hsa-mir-601,Verapamil
+hsa-mir-605,Doxorubicin (Adriamycin)
+hsa-mir-605,Verapamil
+hsa-mir-606,Doxorubicin (Adriamycin)
+hsa-mir-606,Verapamil
+hsa-mir-613,Doxorubicin (Adriamycin)
+hsa-mir-613,Verapamil
+hsa-mir-629,Doxorubicin (Adriamycin)
+hsa-mir-629,Verapamil
+hsa-mir-633,Doxorubicin (Adriamycin)
+hsa-mir-633,Verapamil
+hsa-mir-639,Doxorubicin (Adriamycin)
+hsa-mir-639,Verapamil
+hsa-mir-643,Doxorubicin (Adriamycin)
+hsa-mir-643,Verapamil
+hsa-mir-649,Doxorubicin (Adriamycin)
+hsa-mir-649,Verapamil
+hsa-mir-651,Doxorubicin (Adriamycin)
+hsa-mir-651,Verapamil
+hsa-mir-652,Doxorubicin (Adriamycin)
+hsa-mir-652,Verapamil
+hsa-mir-655,Doxorubicin (Adriamycin)
+hsa-mir-655,Verapamil
+hsa-mir-660,Doxorubicin (Adriamycin)
+hsa-mir-660,Verapamil
+hsa-mir-662,Doxorubicin (Adriamycin)
+hsa-mir-662,Verapamil
+hsa-mir-7-1,Doxorubicin (Adriamycin)
+hsa-mir-7-1,Verapamil
+hsa-mir-758,Doxorubicin (Adriamycin)
+hsa-mir-758,Verapamil
+hsa-mir-760,Doxorubicin (Adriamycin)
+hsa-mir-760,Verapamil
+hsa-mir-765,Doxorubicin (Adriamycin)
+hsa-mir-765,Verapamil
+hsa-mir-767,Doxorubicin (Adriamycin)
+hsa-mir-767,Verapamil
+hsa-mir-769,Doxorubicin (Adriamycin)
+hsa-mir-769,Verapamil
+hsa-mir-876,Doxorubicin (Adriamycin)
+hsa-mir-876,Verapamil
+hsa-mir-888,Doxorubicin (Adriamycin)
+hsa-mir-888,Verapamil
+hsa-mir-92a-1,Doxorubicin (Adriamycin)
+hsa-mir-92a-1,Verapamil
+hsa-mir-93,Doxorubicin (Adriamycin)
+hsa-mir-93,Verapamil
+hsa-mir-96,Doxorubicin (Adriamycin)
+hsa-mir-96,Verapamil
+hsa-mir-99a,Doxorubicin (Adriamycin)
+hsa-mir-99a,Verapamil
+hsa-mir-21,Gemcitabine
+hsa-mir-200c,Epothilone B
+hsa-mir-200c,Paclitaxel
+hsa-mir-200c,Vincristine
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-21,Teniposide
+hsa-mir-27b,Cyclophosphamide
+hsa-mir-122,Doxorubicin (Adriamycin)
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Paclitaxel
+hsa-let-7a-1,Gemcitabine
+hsa-let-7b,Gemcitabine
+hsa-let-7c,Gemcitabine
+hsa-let-7d,Gemcitabine
+hsa-let-7f-1,Gemcitabine
+hsa-mir-200b,Gemcitabine
+hsa-mir-200c,Gemcitabine
+hsa-mir-16-1,Genistein
+hsa-mir-16-1,Nutlin
+hsa-mir-122,Sorafenib
+hsa-mir-140,5-Fluorouracil
+hsa-mir-140,Methotrexate
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-143,5-Fluorouracil
+hsa-mir-17,Etoposide
+hsa-mir-187,Etoposide
+hsa-mir-197,Etoposide
+hsa-mir-19b-1,Etoposide
+hsa-mir-23b,Etoposide
+hsa-mir-26b,Etoposide
+hsa-mir-29a,Etoposide
+hsa-mir-29b-1,Etoposide
+hsa-mir-29c,Etoposide
+hsa-mir-30d,Etoposide
+hsa-mir-320a,Etoposide
+hsa-mir-326,Doxorubicin (Adriamycin)
+hsa-mir-326,Etoposide
+hsa-mir-429,Etoposide
+hsa-mir-7-1,Etoposide
+hsa-mir-9-1,Etoposide
+hsa-mir-92a-2,Etoposide
+hsa-mir-200b,Docetaxel
+hsa-mir-27a,5-Fluorouracil
+hsa-mir-27a,Cisplatin
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-27a,Vincristine
+hsa-mir-181b-1,Doxorubicin (Adriamycin)
+hsa-mir-128-1,Anastrozole
+hsa-mir-128-1,Exemestane
+hsa-mir-128-1,Letrozole
+hsa-mir-128-1,Tamoxifen
+hsa-mir-21,Paclitaxel
+hsa-mir-10a,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-126,Cisplatin
+hsa-mir-127,Cisplatin
+hsa-mir-132,Cisplatin
+hsa-mir-141,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-194-1,Cisplatin
+hsa-mir-196a-1,Cisplatin
+hsa-mir-200b,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-206,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-221,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-29a,Cisplatin
+hsa-mir-29b-1,Cisplatin
+hsa-mir-342,Cisplatin
+hsa-mir-345,Cisplatin
+hsa-mir-429,Cisplatin
+hsa-mir-489,Cisplatin
+hsa-mir-7-1,Cisplatin
+hsa-mir-100,Sorafenib
+hsa-mir-106b,Sorafenib
+hsa-mir-126,Sorafenib
+hsa-mir-130a,Sorafenib
+hsa-mir-130b,Sorafenib
+hsa-mir-135a-1,Sorafenib
+hsa-mir-136,Sorafenib
+hsa-mir-146a,Sorafenib
+hsa-mir-146b,Sorafenib
+hsa-mir-148b,Sorafenib
+hsa-mir-181a-2,Sorafenib
+hsa-mir-181b-1,Sorafenib
+hsa-mir-192,Sorafenib
+hsa-mir-193b,Sorafenib
+hsa-mir-196a-1,Sorafenib
+hsa-mir-206,Sorafenib
+hsa-mir-224,Sorafenib
+hsa-mir-345,Sorafenib
+hsa-mir-425,Sorafenib
+hsa-mir-483,Sorafenib
+hsa-mir-548a-1,Sorafenib
+hsa-mir-548c,Sorafenib
+hsa-mir-551b,Sorafenib
+hsa-mir-570,Sorafenib
+hsa-mir-585,Sorafenib
+hsa-mir-627,Sorafenib
+hsa-mir-657,Sorafenib
+hsa-mir-660,Sorafenib
+hsa-mir-663a,Sorafenib
+hsa-mir-668,Sorafenib
+hsa-mir-99b,Sorafenib
+hsa-mir-21,Paclitaxel
+hsa-mir-21,Arsenic Trioxide
+hsa-mir-21,Arsenic Trioxide
+hsa-mir-181b-1,Cisplatin
+hsa-mir-181b-1,Vincristine
+hsa-let-7c,Cisplatin
+hsa-let-7d,Cisplatin
+hsa-let-7e,Cisplatin
+hsa-let-7g,Cisplatin
+hsa-mir-181d,Cisplatin
+hsa-mir-188,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-30d,Cisplatin
+hsa-mir-342,Cisplatin
+hsa-mir-373,Cisplatin
+hsa-mir-432,Cisplatin
+hsa-mir-498,Cisplatin
+hsa-mir-518c,Cisplatin
+hsa-mir-584,Cisplatin
+hsa-mir-608,Cisplatin
+hsa-mir-628,Cisplatin
+hsa-mir-125a,Doxorubicin (Adriamycin)
+hsa-mir-127,Doxorubicin (Adriamycin)
+hsa-mir-134,Doxorubicin (Adriamycin)
+hsa-mir-143,Doxorubicin (Adriamycin)
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-195,Doxorubicin (Adriamycin)
+hsa-mir-216a,Doxorubicin (Adriamycin)
+hsa-mir-217,Doxorubicin (Adriamycin)
+hsa-mir-299,Doxorubicin (Adriamycin)
+hsa-mir-324,Doxorubicin (Adriamycin)
+hsa-mir-329-1,Doxorubicin (Adriamycin)
+hsa-mir-376a-1,Doxorubicin (Adriamycin)
+hsa-mir-376c,Doxorubicin (Adriamycin)
+hsa-mir-379,Doxorubicin (Adriamycin)
+hsa-mir-382,Doxorubicin (Adriamycin)
+hsa-mir-409,Doxorubicin (Adriamycin)
+hsa-mir-432,Doxorubicin (Adriamycin)
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-487b,Doxorubicin (Adriamycin)
+hsa-mir-494,Doxorubicin (Adriamycin)
+hsa-mir-495,Doxorubicin (Adriamycin)
+hsa-mir-654,Doxorubicin (Adriamycin)
+hsa-mir-99b,Doxorubicin (Adriamycin)
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-155,Etoposide
+hsa-mir-155,Paclitaxel
+hsa-mir-21,Gemcitabine
+hsa-mir-212,TRAIL therapy
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-148a,Paclitaxel
+hsa-mir-215,Methotrexate
+hsa-mir-215,Raltitrexed
+hsa-mir-106b,Temozolomide
+hsa-mir-132,Temozolomide
+hsa-mir-193a,Temozolomide
+hsa-mir-193b,Temozolomide
+hsa-mir-195,Temozolomide
+hsa-mir-210,Temozolomide
+hsa-mir-452,Temozolomide
+hsa-mir-455,Temozolomide
+hsa-mir-500a,Temozolomide
+hsa-mir-502,Temozolomide
+hsa-mir-503,Temozolomide
+hsa-mir-584,Temozolomide
+hsa-mir-100,Paclitaxel
+hsa-mir-100,Paclitaxel
+hsa-mir-106b,Paclitaxel
+hsa-mir-106b,Paclitaxel
+hsa-mir-125b-1,Paclitaxel
+hsa-mir-140,Paclitaxel
+hsa-mir-140,Paclitaxel
+hsa-mir-146a,Paclitaxel
+hsa-mir-146a,Paclitaxel
+hsa-mir-146b,Paclitaxel
+hsa-mir-146b,Paclitaxel
+hsa-mir-15b,Paclitaxel
+hsa-mir-15b,Paclitaxel
+hsa-mir-16-1,Paclitaxel
+hsa-mir-16-1,Paclitaxel
+hsa-mir-17,Paclitaxel
+hsa-mir-17,Paclitaxel
+hsa-mir-20b,Paclitaxel
+hsa-mir-20b,Paclitaxel
+hsa-mir-221,Paclitaxel
+hsa-mir-221,Paclitaxel
+hsa-mir-222,Paclitaxel
+hsa-mir-222,Paclitaxel
+hsa-mir-27a,Paclitaxel
+hsa-mir-27a,Paclitaxel
+hsa-mir-29a,Paclitaxel
+hsa-mir-29a,Paclitaxel
+hsa-mir-29b-1,Paclitaxel
+hsa-mir-29b-1,Paclitaxel
+hsa-mir-30a,Paclitaxel
+hsa-mir-30a,Paclitaxel
+hsa-mir-30b,Paclitaxel
+hsa-mir-30b,Paclitaxel
+hsa-mir-363,Paclitaxel
+hsa-mir-363,Paclitaxel
+hsa-mir-620,Paclitaxel
+hsa-mir-620,Paclitaxel
+hsa-mir-21,Gemcitabine
+hsa-mir-21,Arsenic Trioxide
+hsa-mir-296,5-Fluorouracil
+hsa-mir-296,Cisplatin
+hsa-mir-296,Doxorubicin (Adriamycin)
+hsa-mir-296,Vincristine
+hsa-mir-181a-2,Fludarabine
+hsa-mir-221,Fludarabine
+hsa-mir-29a,Fludarabine
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Gemcitabine
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-92a-2,Carboplatin
+hsa-mir-92a-2,Cisplatin
+hsa-mir-21,Docetaxel
+hsa-mir-27a,Paclitaxel
+hsa-mir-186,Cisplatin
+hsa-mir-21,Temozolomide
+hsa-mir-27a,Paclitaxel
+hsa-mir-21,Cytarabine
+hsa-mir-186,Cisplatin
+hsa-mir-34a,Paclitaxel
+hsa-let-7a-1,Imatinib
+hsa-let-7b,Imatinib
+hsa-let-7d,Imatinib
+hsa-let-7i,Imatinib
+hsa-mir-1-1,Imatinib
+hsa-mir-10a,Imatinib
+hsa-mir-128-1,Imatinib
+hsa-mir-132,Imatinib
+hsa-mir-135b,Imatinib
+hsa-mir-140,Imatinib
+hsa-mir-148a,Imatinib
+hsa-mir-148b,Imatinib
+hsa-mir-150,Imatinib
+hsa-mir-155,Imatinib
+hsa-mir-15a,Imatinib
+hsa-mir-181a-2,Imatinib
+hsa-mir-181b-1,Imatinib
+hsa-mir-181c,Imatinib
+hsa-mir-181d,Imatinib
+hsa-mir-183,Imatinib
+hsa-mir-18b,Imatinib
+hsa-mir-196a-1,Imatinib
+hsa-mir-21,Imatinib
+hsa-mir-210,Imatinib
+hsa-mir-212,Imatinib
+hsa-mir-27b,Imatinib
+hsa-mir-29b-1,Imatinib
+hsa-mir-34c,Imatinib
+hsa-mir-9-1,Imatinib
+hsa-mir-96,Imatinib
+hsa-mir-200c,Cetuximab
+hsa-mir-200c,Cisplatin
+hsa-mir-106b,Cisplatin
+hsa-mir-101-1,ABT-263 (navitoclax)
+hsa-mir-105-1,ABT-263 (navitoclax)
+hsa-mir-1233-1,ABT-263 (navitoclax)
+hsa-mir-148b,ABT-263 (navitoclax)
+hsa-mir-153-1,ABT-263 (navitoclax)
+hsa-mir-193a,ABT-263 (navitoclax)
+hsa-mir-218-1,ABT-263 (navitoclax)
+hsa-mir-29b-1,ABT-263 (navitoclax)
+hsa-mir-29b-2,ABT-263 (navitoclax)
+hsa-mir-380,ABT-263 (navitoclax)
+hsa-mir-518a-1,ABT-263 (navitoclax)
+hsa-mir-582,ABT-263 (navitoclax)
+hsa-mir-605,ABT-263 (navitoclax)
+hsa-mir-661,ABT-263 (navitoclax)
+hsa-mir-744,ABT-263 (navitoclax)
+hsa-mir-876,ABT-263 (navitoclax)
+hsa-mir-892b,ABT-263 (navitoclax)
+hsa-mir-935,ABT-263 (navitoclax)
+hsa-mir-212,Cetuximab
+hsa-mir-15a,Tamoxifen
+hsa-mir-16-1,Tamoxifen
+hsa-mir-143,pegIFN/RBV therapy
+hsa-mir-143,Ribavirin
+hsa-mir-145,pegIFN/RBV therapy
+hsa-mir-145,Ribavirin
+hsa-mir-18a,pegIFN/RBV therapy
+hsa-mir-18a,Ribavirin
+hsa-mir-27b,pegIFN/RBV therapy
+hsa-mir-27b,Ribavirin
+hsa-mir-34b,pegIFN/RBV therapy
+hsa-mir-34b,Ribavirin
+hsa-mir-378a,pegIFN/RBV therapy
+hsa-mir-378a,Ribavirin
+hsa-mir-652,pegIFN/RBV therapy
+hsa-mir-652,Ribavirin
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Interferon-alpha
+hsa-mir-24-1,Docetaxel
+hsa-mir-26a-1,Docetaxel
+hsa-mir-30d,Docetaxel
+hsa-mir-200c,Paclitaxel
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-221,Fulvestrant
+hsa-mir-222,Fulvestrant
+hsa-mir-34a,5-Fluorouracil
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-331,Doxorubicin (Adriamycin)
+hsa-mir-21,5-Fluorouracil
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-200c,Cisplatin
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-200c,Paclitaxel
+hsa-let-7f-1,Doxorubicin (Adriamycin)
+hsa-let-7g,Doxorubicin (Adriamycin)
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-221,Doxorubicin (Adriamycin)
+hsa-mir-424,Doxorubicin (Adriamycin)
+hsa-mir-451a,Doxorubicin (Adriamycin)
+hsa-mir-563,Doxorubicin (Adriamycin)
+hsa-mir-98,Doxorubicin (Adriamycin)
+hsa-mir-21,SP600125
+hsa-mir-342,Tamoxifen
+hsa-mir-34a,Cisplatin
+hsa-mir-34a,Mitomycin C
+hsa-mir-21,Daunorubicin
+hsa-mir-182,Olaparib
+hsa-mir-143,Docetaxel
+hsa-mir-328,Mitoxantrone
+hsa-mir-519c,Mitoxantrone
+hsa-mir-376c,Cisplatin
+hsa-let-7c,Daunorubicin
+hsa-let-7c,L-asparaginase
+hsa-let-7c,Prednisolone
+hsa-let-7c,Vincristine
+hsa-mir-100,Daunorubicin
+hsa-mir-100,L-asparaginase
+hsa-mir-100,Prednisolone
+hsa-mir-100,Vincristine
+hsa-mir-125b-1,Daunorubicin
+hsa-mir-125b-1,Daunorubicin
+hsa-mir-125b-1,L-asparaginase
+hsa-mir-125b-1,L-asparaginase
+hsa-mir-125b-1,Prednisolone
+hsa-mir-125b-1,Prednisolone
+hsa-mir-125b-1,Vincristine
+hsa-mir-125b-1,Vincristine
+hsa-mir-126,Daunorubicin
+hsa-mir-126,L-asparaginase
+hsa-mir-126,Prednisolone
+hsa-mir-126,Vincristine
+hsa-mir-126,Daunorubicin
+hsa-mir-126,L-asparaginase
+hsa-mir-126,Prednisolone
+hsa-mir-126,Vincristine
+hsa-mir-141,Daunorubicin
+hsa-mir-141,L-asparaginase
+hsa-mir-141,Prednisolone
+hsa-mir-141,Vincristine
+hsa-mir-199b,Daunorubicin
+hsa-mir-199b,L-asparaginase
+hsa-mir-199b,Prednisolone
+hsa-mir-199b,Vincristine
+hsa-mir-200c,Daunorubicin
+hsa-mir-200c,L-asparaginase
+hsa-mir-200c,Prednisolone
+hsa-mir-200c,Vincristine
+hsa-mir-203a,Daunorubicin
+hsa-mir-203a,L-asparaginase
+hsa-mir-203a,Prednisolone
+hsa-mir-203a,Vincristine
+hsa-mir-335,Daunorubicin
+hsa-mir-335,L-asparaginase
+hsa-mir-335,Prednisolone
+hsa-mir-335,Vincristine
+hsa-mir-383,Daunorubicin
+hsa-mir-383,L-asparaginase
+hsa-mir-383,Prednisolone
+hsa-mir-383,Vincristine
+hsa-mir-454,Daunorubicin
+hsa-mir-454,L-asparaginase
+hsa-mir-454,Prednisolone
+hsa-mir-454,Vincristine
+hsa-mir-625,Daunorubicin
+hsa-mir-625,L-asparaginase
+hsa-mir-625,Prednisolone
+hsa-mir-625,Vincristine
+hsa-mir-629,Daunorubicin
+hsa-mir-629,L-asparaginase
+hsa-mir-629,Prednisolone
+hsa-mir-629,Vincristine
+hsa-mir-9-1,Daunorubicin
+hsa-mir-9-1,L-asparaginase
+hsa-mir-9-1,Prednisolone
+hsa-mir-9-1,Vincristine
+hsa-mir-99a,Daunorubicin
+hsa-mir-99a,L-asparaginase
+hsa-mir-99a,Prednisolone
+hsa-mir-99a,Vincristine
+hsa-mir-20a,5-Fluorouracil
+hsa-mir-20a,Oxaliplatin
+hsa-mir-20a,Teniposide
+hsa-mir-148a,5-Fluorouracil
+hsa-mir-148a,5-Fluorouracil
+hsa-mir-148a,Cisplatin
+hsa-mir-148a,Cisplatin
+hsa-mir-145,5-Fluorouracil
+hsa-mir-145,Cisplatin
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-200c,Cisplatin
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Cisplatin
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-485,Etoposide
+hsa-mir-497,Cisplatin
+hsa-mir-497,Cisplatin
+hsa-mir-497,Vincristine
+hsa-mir-497,Vincristine
+hsa-mir-153-1,Arsenic Trioxide
+hsa-mir-141,Cisplatin
+hsa-mir-19a,Cisplatin
+hsa-mir-19b-1,Cisplatin
+hsa-mir-200a,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-20a,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-193a,Cisplatin
+hsa-let-7g,10-Hydroxycamptothecin (HCPT)
+hsa-mir-126,10-Hydroxycamptothecin (HCPT)
+hsa-mir-132,10-Hydroxycamptothecin (HCPT)
+hsa-mir-141,10-Hydroxycamptothecin (HCPT)
+hsa-mir-196a-1,10-Hydroxycamptothecin (HCPT)
+hsa-mir-196b,10-Hydroxycamptothecin (HCPT)
+hsa-mir-19b-1,10-Hydroxycamptothecin (HCPT)
+hsa-mir-200a,10-Hydroxycamptothecin (HCPT)
+hsa-mir-200b,10-Hydroxycamptothecin (HCPT)
+hsa-mir-200c,10-Hydroxycamptothecin (HCPT)
+hsa-mir-224,10-Hydroxycamptothecin (HCPT)
+hsa-mir-27a,10-Hydroxycamptothecin (HCPT)
+hsa-mir-31,10-Hydroxycamptothecin (HCPT)
+hsa-mir-338,10-Hydroxycamptothecin (HCPT)
+hsa-mir-365a,10-Hydroxycamptothecin (HCPT)
+hsa-mir-371a,10-Hydroxycamptothecin (HCPT)
+hsa-mir-372,10-Hydroxycamptothecin (HCPT)
+hsa-mir-373,10-Hydroxycamptothecin (HCPT)
+hsa-mir-424,10-Hydroxycamptothecin (HCPT)
+hsa-mir-429,10-Hydroxycamptothecin (HCPT)
+hsa-mir-452,10-Hydroxycamptothecin (HCPT)
+hsa-mir-7-1,10-Hydroxycamptothecin (HCPT)
+hsa-mir-98,10-Hydroxycamptothecin (HCPT)
+hsa-mir-99b,10-Hydroxycamptothecin (HCPT)
+hsa-mir-451a,Cisplatin
+hsa-mir-125a,Gemcitabine
+hsa-mir-142,Gemcitabine
+hsa-mir-152,Gemcitabine
+hsa-mir-181c,Gemcitabine
+hsa-mir-204,Gemcitabine
+hsa-mir-27a,Gemcitabine
+hsa-mir-34a,Gemcitabine
+hsa-mir-424,Gemcitabine
+hsa-mir-449b,Gemcitabine
+hsa-mir-518b,Gemcitabine
+hsa-mir-9-1,Gemcitabine
+hsa-mir-203a,Paclitaxel
+hsa-mir-205,Cisplatin
+hsa-mir-205,Docetaxel
+hsa-mir-31,Cisplatin
+hsa-mir-31,Docetaxel
+hsa-mir-21,Gemcitabine
+hsa-mir-141,Cisplatin
+hsa-mir-125a,Docetaxel
+hsa-mir-126,Docetaxel
+hsa-mir-126,Docetaxel
+hsa-mir-129-1,Docetaxel
+hsa-mir-129-1,Docetaxel
+hsa-mir-138-1,Docetaxel
+hsa-mir-138-1,Docetaxel
+hsa-mir-141,Docetaxel
+hsa-mir-141,Docetaxel
+hsa-mir-149,Docetaxel
+hsa-mir-149,Docetaxel
+hsa-mir-151a,Docetaxel
+hsa-mir-151a,Docetaxel
+hsa-mir-16-1,Docetaxel
+hsa-mir-16-1,Docetaxel
+hsa-mir-190b,Docetaxel
+hsa-mir-190b,Docetaxel
+hsa-mir-195,Docetaxel
+hsa-mir-195,Docetaxel
+hsa-mir-203a,Docetaxel
+hsa-mir-30a,Docetaxel
+hsa-mir-30a,Docetaxel
+hsa-mir-30d,Docetaxel
+hsa-mir-30d,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-361,Docetaxel
+hsa-mir-361,Docetaxel
+hsa-mir-363,Docetaxel
+hsa-mir-363,Docetaxel
+hsa-mir-429,Docetaxel
+hsa-mir-429,Docetaxel
+hsa-mir-532,Docetaxel
+hsa-mir-532,Docetaxel
+hsa-mir-590,Docetaxel
+hsa-mir-590,Docetaxel
+hsa-mir-7-1,Docetaxel
+hsa-mir-7-1,Docetaxel
+hsa-mir-17,Selumetinib
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Trastuzumab
+hsa-mir-9-1,Carmustine
+hsa-mir-100,Docetaxel
+hsa-mir-101-1,Docetaxel
+hsa-mir-130a,Docetaxel
+hsa-mir-181b-1,Docetaxel
+hsa-mir-181d,Docetaxel
+hsa-mir-195,Docetaxel
+hsa-mir-197,Docetaxel
+hsa-mir-27a,5-Fluorouracil
+hsa-mir-27a,Cisplatin
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-27a,Vincristine
+hsa-mir-100,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-125b-1,Cisplatin
+hsa-mir-125b-1,Cisplatin
+hsa-mir-130b,Cisplatin
+hsa-mir-145,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-192,Cisplatin
+hsa-mir-193a,Cisplatin
+hsa-mir-193b,Cisplatin
+hsa-mir-194-1,Cisplatin
+hsa-mir-19b-1,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-218-1,Cisplatin
+hsa-mir-218-1,Cisplatin
+hsa-mir-221,Cisplatin
+hsa-mir-296,Cisplatin
+hsa-mir-302a,Cisplatin
+hsa-mir-302b,Cisplatin
+hsa-mir-302b,Cisplatin
+hsa-mir-302d,Cisplatin
+hsa-mir-335,Cisplatin
+hsa-mir-335,Cisplatin
+hsa-mir-34a,Cisplatin
+hsa-mir-362,Cisplatin
+hsa-mir-362,Cisplatin
+hsa-mir-363,Cisplatin
+hsa-mir-365a,Cisplatin
+hsa-mir-371a,Cisplatin
+hsa-mir-372,Cisplatin
+hsa-mir-373,Cisplatin
+hsa-mir-383,Cisplatin
+hsa-mir-424,Cisplatin
+hsa-mir-450b,Cisplatin
+hsa-mir-455,Cisplatin
+hsa-mir-484,Cisplatin
+hsa-mir-489,Cisplatin
+hsa-mir-512-1,Cisplatin
+hsa-mir-512-1,Cisplatin
+hsa-mir-515-1,Cisplatin
+hsa-mir-516b-1,Cisplatin
+hsa-mir-517a,Cisplatin
+hsa-mir-517b,Cisplatin
+hsa-mir-517c,Cisplatin
+hsa-mir-518a-1,Cisplatin
+hsa-mir-518b,Cisplatin
+hsa-mir-518c,Cisplatin
+hsa-mir-518d,Cisplatin
+hsa-mir-518e,Cisplatin
+hsa-mir-518f,Cisplatin
+hsa-mir-519a-1,Cisplatin
+hsa-mir-519b,Cisplatin
+hsa-mir-519c,Cisplatin
+hsa-mir-519d,Cisplatin
+hsa-mir-520b,Cisplatin
+hsa-mir-520c,Cisplatin
+hsa-mir-520f,Cisplatin
+hsa-mir-520g,Cisplatin
+hsa-mir-520h,Cisplatin
+hsa-mir-522,Cisplatin
+hsa-mir-523,Cisplatin
+hsa-mir-524,Cisplatin
+hsa-mir-525,Cisplatin
+hsa-mir-526a-1,Cisplatin
+hsa-mir-526b,Cisplatin
+hsa-mir-576,Cisplatin
+hsa-mir-582,Cisplatin
+hsa-mir-708,Cisplatin
+hsa-mir-935,Cisplatin
+hsa-mir-99a,Cisplatin
+hsa-mir-22,Paclitaxel
+hsa-mir-21,Chemotherapy
+hsa-mir-10b,Chemotherapy
+hsa-mir-451a,Tamoxifen
+hsa-mir-21,Cisplatin
+hsa-mir-34a,Cisplatin
+hsa-mir-130a,TRAIL therapy
+hsa-mir-221,TRAIL therapy
+hsa-mir-222,TRAIL therapy
+hsa-mir-7-1,Gefitinib
+hsa-mir-15b,Cisplatin
+hsa-mir-200b,Cisplatin
+hsa-let-7d,Cisplatin
+hsa-let-7d,Paclitaxel
+hsa-mir-122,Cisplatin
+hsa-mir-122,Doxorubicin (Adriamycin)
+hsa-mir-1228,Cisplatin
+hsa-mir-1246,Cisplatin
+hsa-mir-1470,Cisplatin
+hsa-mir-149,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-1908,Cisplatin
+hsa-mir-194-1,Cisplatin
+hsa-mir-224,Cisplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-34a,Cisplatin
+hsa-mir-638,Cisplatin
+hsa-mir-663a,Cisplatin
+hsa-mir-122,Doxorubicin (Adriamycin)
+hsa-mir-122,Vincristine
+hsa-mir-199a-1,Docetaxel
+hsa-mir-32,Cytarabine
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Cisplatin
+hsa-let-7b,Tamoxifen
+hsa-let-7i,Tamoxifen
+hsa-mir-149,Methotrexate
+hsa-mir-149,Methotrexate
+hsa-mir-193b,Methotrexate
+hsa-mir-193b,Methotrexate
+hsa-mir-210,Methotrexate
+hsa-mir-210,Methotrexate
+hsa-mir-224,Methotrexate
+hsa-mir-224,Methotrexate
+hsa-mir-27b,Methotrexate
+hsa-mir-27b,Methotrexate
+hsa-mir-320a,Methotrexate
+hsa-mir-320a,Methotrexate
+hsa-mir-361,Methotrexate
+hsa-mir-361,Methotrexate
+hsa-mir-365a,Methotrexate
+hsa-mir-365a,Methotrexate
+hsa-mir-455,Methotrexate
+hsa-mir-455,Methotrexate
+hsa-mir-615,Methotrexate
+hsa-mir-615,Methotrexate
+hsa-mir-125b-1,Temozolomide
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Retinoic Acid
+hsa-mir-193b,ABT-737
+hsa-mir-125b-1,Cisplatin
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-135b,Cisplatin
+hsa-mir-135b,Doxorubicin (Adriamycin)
+hsa-mir-141,Cisplatin
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-182,Cisplatin
+hsa-mir-182,Doxorubicin (Adriamycin)
+hsa-mir-183,Cisplatin
+hsa-mir-183,Doxorubicin (Adriamycin)
+hsa-mir-200b,Cisplatin
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-210,Cisplatin
+hsa-mir-210,Doxorubicin (Adriamycin)
+hsa-mir-27b,Cisplatin
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-30b,Cisplatin
+hsa-mir-30b,Doxorubicin (Adriamycin)
+hsa-mir-30d,Cisplatin
+hsa-mir-30d,Doxorubicin (Adriamycin)
+hsa-mir-429,Cisplatin
+hsa-mir-429,Doxorubicin (Adriamycin)
+hsa-mir-96,Cisplatin
+hsa-mir-96,Doxorubicin (Adriamycin)
+hsa-let-7g,modified ALLIC BFM 2002 protocol
+hsa-mir-130b,modified ALLIC BFM 2002 protocol
+hsa-mir-223,modified ALLIC BFM 2002 protocol
+hsa-mir-23a,modified ALLIC BFM 2002 protocol
+hsa-mir-708,modified ALLIC BFM 2002 protocol
+hsa-mir-15a,Dexamethasone
+hsa-mir-15a,Melphalan
+hsa-mir-16-1,Bortezomib
+hsa-let-7c,Cisplatin
+hsa-mir-1299,Cisplatin
+hsa-mir-193b,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-300,Cisplatin
+hsa-mir-542,Cisplatin
+hsa-mir-625,Cisplatin
+hsa-mir-642a,Cisplatin
+hsa-mir-195,5-Fluorouracil
+hsa-mir-451a,Irinotecan
+hsa-mir-128-1,Doxorubicin (Adriamycin)
+hsa-mir-100,Tamoxifen
+hsa-mir-103a-1,Tamoxifen
+hsa-mir-105-1,Tamoxifen
+hsa-mir-106a,Tamoxifen
+hsa-mir-107,Tamoxifen
+hsa-mir-10a,Tamoxifen
+hsa-mir-125a,Tamoxifen
+hsa-mir-125b-1,Tamoxifen
+hsa-mir-126,Tamoxifen
+hsa-mir-141,Tamoxifen
+hsa-mir-148b,Tamoxifen
+hsa-mir-149,Tamoxifen
+hsa-mir-151a,Tamoxifen
+hsa-mir-17,Tamoxifen
+hsa-mir-181a-2,Tamoxifen
+hsa-mir-182,Tamoxifen
+hsa-mir-183,Tamoxifen
+hsa-mir-185,Tamoxifen
+hsa-mir-18a,Tamoxifen
+hsa-mir-18b,Tamoxifen
+hsa-mir-193a,Tamoxifen
+hsa-mir-193b,Tamoxifen
+hsa-mir-196a-1,Tamoxifen
+hsa-mir-196a-1,Tamoxifen
+hsa-mir-197,Tamoxifen
+hsa-mir-19a,Tamoxifen
+hsa-mir-19b-1,Tamoxifen
+hsa-mir-200a,Tamoxifen
+hsa-mir-200b,Tamoxifen
+hsa-mir-200c,Tamoxifen
+hsa-mir-20a,Tamoxifen
+hsa-mir-20b,Tamoxifen
+hsa-mir-21,Tamoxifen
+hsa-mir-21,Tamoxifen
+hsa-mir-24-1,Tamoxifen
+hsa-mir-29b-1,Tamoxifen
+hsa-mir-324,Tamoxifen
+hsa-mir-331,Tamoxifen
+hsa-mir-339,Tamoxifen
+hsa-mir-342,Tamoxifen
+hsa-mir-345,Tamoxifen
+hsa-mir-34a,Tamoxifen
+hsa-mir-361,Tamoxifen
+hsa-mir-365a,Tamoxifen
+hsa-mir-374a,Tamoxifen
+hsa-mir-374b,Tamoxifen
+hsa-mir-378a,Tamoxifen
+hsa-mir-423,Tamoxifen
+hsa-mir-425,Tamoxifen
+hsa-mir-429,Tamoxifen
+hsa-mir-450a-1,Tamoxifen
+hsa-mir-489,Tamoxifen
+hsa-mir-510,Tamoxifen
+hsa-mir-549a,Tamoxifen
+hsa-mir-550a-1,Tamoxifen
+hsa-mir-615,Tamoxifen
+hsa-mir-625,Tamoxifen
+hsa-mir-628,Tamoxifen
+hsa-mir-665,Tamoxifen
+hsa-mir-7-1,Tamoxifen
+hsa-mir-744,Tamoxifen
+hsa-mir-891a,Tamoxifen
+hsa-mir-939,Tamoxifen
+hsa-mir-96,Tamoxifen
+hsa-mir-99b,Tamoxifen
+hsa-mir-99b,Tamoxifen
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-34a,Vincristine
+hsa-mir-146a,Interferon-alpha
+hsa-mir-200b,Cisplatin
+hsa-mir-200b,Vincristine
+hsa-mir-200c,Cisplatin
+hsa-mir-200c,Vincristine
+hsa-mir-429,Cisplatin
+hsa-mir-429,Vincristine
+hsa-mir-130b,Cisplatin
+hsa-mir-130b,Paclitaxel
+hsa-mir-200c,Cisplatin
+hsa-mir-506,10-Hydroxycamptothecin (HCPT)
+hsa-mir-135b,Erlotinib
+hsa-mir-140,Erlotinib
+hsa-mir-141,Erlotinib
+hsa-mir-197,Erlotinib
+hsa-mir-200b,Erlotinib
+hsa-mir-200c,Erlotinib
+hsa-mir-205,Erlotinib
+hsa-mir-224,Erlotinib
+hsa-mir-301a,Erlotinib
+hsa-mir-34c,Erlotinib
+hsa-mir-518f,Erlotinib
+hsa-mir-628,Erlotinib
+hsa-mir-636,Erlotinib
+hsa-mir-433,Paclitaxel
+hsa-mir-145,Cisplatin
+hsa-mir-145,Temozolomide
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-363,5-Fluorouracil
+hsa-mir-363,Cisplatin
+hsa-mir-517a,5-Fluorouracil
+hsa-mir-517a,Cisplatin
+hsa-mir-518f,5-Fluorouracil
+hsa-mir-518f,Cisplatin
+hsa-mir-519e,5-Fluorouracil
+hsa-mir-519e,Cisplatin
+hsa-mir-520a,5-Fluorouracil
+hsa-mir-520a,Cisplatin
+hsa-mir-520d,5-Fluorouracil
+hsa-mir-520d,Cisplatin
+hsa-mir-193a,5-Fluorouracil
+hsa-mir-100,Docetaxel
+hsa-mir-1202,Oxaliplatin
+hsa-mir-1225,Oxaliplatin
+hsa-mir-1275,Oxaliplatin
+hsa-mir-1915,5-Fluorouracil
+hsa-mir-1915,Doxorubicin (Adriamycin)
+hsa-mir-1915,Mitomycin C
+hsa-mir-1915,Oxaliplatin
+hsa-mir-1915,Vincristine
+hsa-mir-297,Doxorubicin (Adriamycin)
+hsa-mir-297,Mitomycin C
+hsa-mir-297,Oxaliplatin
+hsa-mir-326,Oxaliplatin
+hsa-mir-630,Oxaliplatin
+hsa-mir-892b,Oxaliplatin
+hsa-mir-330,Gemcitabine
+hsa-mir-200b,Docetaxel
+hsa-mir-221,Chemotherapy
+hsa-mir-30a,Cisplatin
+hsa-mir-21,Gemcitabine
+hsa-mir-128-2,5-Fluorouracil
+hsa-mir-128-2,Cisplatin
+hsa-mir-128-2,Doxorubicin (Adriamycin)
+hsa-mir-200b,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-429,Cisplatin
+hsa-mir-203a,Cisplatin
+hsa-mir-181a-2,Cytarabine
+hsa-mir-122,Bortezomib
+hsa-mir-122,Doxorubicin (Adriamycin)
+hsa-mir-21,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-142,Dexamethasone
+hsa-mir-181a-2,Dexamethasone
+hsa-mir-181a-2,Daunorubicin
+hsa-mir-145,Mitomycin C
+hsa-mir-21,Chemotherapy
+hsa-mir-122,5-Fluorouracil
+hsa-mir-10b,5-Fluorouracil
+hsa-mir-21,Chemotherapy
+hsa-mir-34c,Paclitaxel
+hsa-mir-210,Trastuzumab
+hsa-let-7b,5-Fluorouracil
+hsa-let-7c,5-Fluorouracil
+hsa-let-7e,5-Fluorouracil
+hsa-let-7g,5-Fluorouracil
+hsa-mir-103a-1,5-Fluorouracil
+hsa-mir-106b,5-Fluorouracil
+hsa-mir-107,5-Fluorouracil
+hsa-mir-130b,5-Fluorouracil
+hsa-mir-130b,5-Fluorouracil
+hsa-mir-141,5-Fluorouracil
+hsa-mir-15a,5-Fluorouracil
+hsa-mir-15b,5-Fluorouracil
+hsa-mir-181a-2,5-Fluorouracil
+hsa-mir-19b-1,5-Fluorouracil
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-20b,5-Fluorouracil
+hsa-mir-21,5-Fluorouracil
+hsa-mir-24-1,5-Fluorouracil
+hsa-mir-25,5-Fluorouracil
+hsa-mir-26a-1,5-Fluorouracil
+hsa-mir-26b,5-Fluorouracil
+hsa-mir-29c,5-Fluorouracil
+hsa-mir-30b,5-Fluorouracil
+hsa-mir-30d,5-Fluorouracil
+hsa-mir-31,5-Fluorouracil
+hsa-mir-365a,5-Fluorouracil
+hsa-mir-425,5-Fluorouracil
+hsa-mir-429,5-Fluorouracil
+hsa-mir-96,5-Fluorouracil
+hsa-mir-30a,Imatinib
+hsa-mir-328,10-Hydroxycamptothecin (HCPT)
+hsa-mir-328,5-Fluorouracil
+hsa-mir-130a,Cisplatin
+hsa-mir-93,Cisplatin
+hsa-mir-199a-1,Cisplatin
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-199a-1,Paclitaxel
+hsa-mir-214,Gefitinib
+hsa-mir-375,Tamoxifen
+hsa-mir-126,Doxorubicin (Adriamycin)
+hsa-mir-126,Vincristine
+hsa-mir-298,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,5-Fluorouracil
+hsa-mir-181a-2,Fludarabine
+hsa-mir-181b-1,Fludarabine
+hsa-let-7c,Cisplatin
+hsa-let-7d,Cisplatin
+hsa-let-7e,Cisplatin
+hsa-let-7f-1,Cisplatin
+hsa-let-7g,Cisplatin
+hsa-let-7i,Cisplatin
+hsa-mir-106a,Cisplatin
+hsa-mir-106b,Cisplatin
+hsa-mir-1290,Cisplatin
+hsa-mir-130a,Cisplatin
+hsa-mir-130a,Cisplatin
+hsa-mir-133b,Cisplatin
+hsa-mir-148b,Cisplatin
+hsa-mir-15a,Cisplatin
+hsa-mir-15b,Cisplatin
+hsa-mir-16-1,Cisplatin
+hsa-mir-17,Cisplatin
+hsa-mir-181d,Cisplatin
+hsa-mir-19a,Cisplatin
+hsa-mir-20a,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-22,Cisplatin
+hsa-mir-221,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-224,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-25,Cisplatin
+hsa-mir-26b,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-29a,Cisplatin
+hsa-mir-29b-1,Cisplatin
+hsa-mir-30b,Cisplatin
+hsa-mir-30e,Cisplatin
+hsa-mir-3175,Cisplatin
+hsa-mir-320a,Cisplatin
+hsa-mir-320d-1,Cisplatin
+hsa-mir-320e,Cisplatin
+hsa-mir-331,Cisplatin
+hsa-mir-365a,Cisplatin
+hsa-mir-3651,Cisplatin
+hsa-mir-374a,Cisplatin
+hsa-mir-374b,Cisplatin
+hsa-mir-378a,Cisplatin
+hsa-mir-423,Cisplatin
+hsa-mir-4284,Cisplatin
+hsa-mir-4289,Cisplatin
+hsa-mir-744,Cisplatin
+hsa-mir-92a-1,Cisplatin
+hsa-mir-98,Cisplatin
+hsa-mir-99a,Cisplatin
+hsa-mir-30a,Imatinib
+hsa-mir-1202,Oxaliplatin
+hsa-mir-1207,Oxaliplatin
+hsa-mir-1225,Oxaliplatin
+hsa-mir-1268a,Oxaliplatin
+hsa-mir-1275,Oxaliplatin
+hsa-mir-1915,Oxaliplatin
+hsa-mir-221,Oxaliplatin
+hsa-mir-222,Oxaliplatin
+hsa-mir-297,Doxorubicin (Adriamycin)
+hsa-mir-297,Oxaliplatin
+hsa-mir-297,Vincristine
+hsa-mir-338,Oxaliplatin
+hsa-mir-513a-1,Oxaliplatin
+hsa-mir-630,Oxaliplatin
+hsa-mir-638,Oxaliplatin
+hsa-mir-892b,Oxaliplatin
+hsa-mir-939,Oxaliplatin
+hsa-mir-222,5-Fluorouracil
+hsa-mir-222,Oxaliplatin
+hsa-mir-222,Vincristine
+hsa-mir-497,5-Fluorouracil
+hsa-mir-497,Cisplatin
+hsa-mir-497,TRAIL therapy
+hsa-mir-199a-1,Cisplatin
+hsa-mir-708,Doxorubicin (Adriamycin)
+hsa-mir-708,Etoposide
+hsa-mir-337,Docetaxel
+hsa-mir-337,Paclitaxel
+hsa-mir-513a-1,Cisplatin
+hsa-mir-193b,Carboplatin
+hsa-mir-193b,Cisplatin
+hsa-mir-21,Temozolomide
+hsa-mir-96,Cisplatin
+hsa-mir-96,Olaparib
+hsa-mir-1-1,Cyclopamine
+hsa-mir-1-1,Paclitaxel
+hsa-mir-10a,Cyclopamine
+hsa-mir-10a,Paclitaxel
+hsa-mir-10b,Cyclopamine
+hsa-mir-10b,Paclitaxel
+hsa-mir-125b-1,Cyclopamine
+hsa-mir-125b-1,Paclitaxel
+hsa-mir-126,Cyclopamine
+hsa-mir-126,Paclitaxel
+hsa-mir-138-1,Cyclopamine
+hsa-mir-138-1,Paclitaxel
+hsa-mir-144,Cyclopamine
+hsa-mir-144,Paclitaxel
+hsa-mir-146a,Cyclopamine
+hsa-mir-146a,Paclitaxel
+hsa-mir-155,Cyclopamine
+hsa-mir-155,Paclitaxel
+hsa-mir-17,Cyclopamine
+hsa-mir-17,Paclitaxel
+hsa-mir-18a,Cyclopamine
+hsa-mir-18a,Paclitaxel
+hsa-mir-193b,Cyclopamine
+hsa-mir-193b,Paclitaxel
+hsa-mir-200c,Cyclopamine
+hsa-mir-200c,Paclitaxel
+hsa-mir-23b,Cyclopamine
+hsa-mir-23b,Paclitaxel
+hsa-mir-29b-1,Cyclopamine
+hsa-mir-29b-1,Paclitaxel
+hsa-mir-30c-2,Cyclopamine
+hsa-mir-30c-2,Paclitaxel
+hsa-mir-34a,Cyclopamine
+hsa-mir-34a,Paclitaxel
+hsa-mir-373,Cyclopamine
+hsa-mir-373,Paclitaxel
+hsa-mir-15a,Bortezomib
+hsa-mir-15a,Melphalan
+hsa-mir-16-1,Bortezomib
+hsa-mir-16-1,Melphalan
+hsa-let-7a-1,Paclitaxel
+hsa-let-7i,Paclitaxel
+hsa-mir-144,Imatinib
+hsa-mir-451a,Imatinib
+hsa-mir-130a,Cisplatin
+hsa-mir-302a,Cisplatin
+hsa-let-7b,Cisplatin
+hsa-let-7c,Cisplatin
+hsa-mir-101-1,Cisplatin
+hsa-mir-10a,Cisplatin
+hsa-mir-135a-1,Cisplatin
+hsa-mir-136,Cisplatin
+hsa-mir-141,Cisplatin
+hsa-mir-145,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-202,Cisplatin
+hsa-mir-204,Cisplatin
+hsa-mir-489,Cisplatin
+hsa-mir-545,Cisplatin
+hsa-mir-96,Cisplatin
+hsa-mir-99a,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-133b,Gefitinib
+hsa-mir-195,5-Fluorouracil
+hsa-mir-24-1,Cisplatin
+hsa-mir-24-1,Etoposide
+hsa-mir-296,Capecitabine
+hsa-mir-296,Sunitinib
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-let-7b,Paroxetine
+hsa-let-7c,Paroxetine
+hsa-let-7d,Paroxetine
+hsa-mir-124-1,Paroxetine
+hsa-mir-132,Paroxetine
+hsa-mir-148a,Paroxetine
+hsa-mir-151a,Paroxetine
+hsa-mir-181c,Paroxetine
+hsa-mir-192,Paroxetine
+hsa-mir-193a,Paroxetine
+hsa-mir-194-1,Paroxetine
+hsa-mir-206,Paroxetine
+hsa-mir-20b,Paroxetine
+hsa-mir-212,Paroxetine
+hsa-mir-21,Paroxetine
+hsa-mir-30b,Paroxetine
+hsa-mir-30b,Paroxetine
+hsa-mir-30d,Paroxetine
+hsa-mir-328,Paroxetine
+hsa-mir-363,Paroxetine
+hsa-mir-378a,Paroxetine
+hsa-mir-425,Paroxetine
+hsa-mir-4315-1,Paroxetine
+hsa-mir-466,Paroxetine
+hsa-mir-485,Paroxetine
+hsa-mir-486-1,Paroxetine
+hsa-mir-500a,Paroxetine
+hsa-mir-501,Paroxetine
+hsa-mir-502,Paroxetine
+hsa-mir-625,Paroxetine
+hsa-mir-629,Paroxetine
+hsa-mir-629,Paroxetine
+hsa-mir-671,Paroxetine
+hsa-mir-15b,Cisplatin
+hsa-mir-16-1,Cisplatin
+hsa-mir-155,Cisplatin
+hsa-mir-16-1,Cisplatin
+hsa-mir-195,Cisplatin
+hsa-mir-424,Cisplatin
+hsa-mir-497,Cisplatin
+hsa-mir-378a,Epirubicin
+hsa-mir-378a,Methotrexate
+hsa-mir-127,Cisplatin
+hsa-mir-142,Cisplatin
+hsa-mir-193a,Cisplatin
+hsa-mir-218-1,Cisplatin
+hsa-mir-24-1,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-296,Cisplatin
+hsa-mir-492,Cisplatin
+hsa-mir-576,Cisplatin
+hsa-mir-625,Cisplatin
+hsa-mir-639,Cisplatin
+hsa-mir-642a,Cisplatin
+hsa-mir-944,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-21,Docetaxel
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-23b,Temozolomide
+hsa-mir-200c,Cisplatin
+hsa-mir-200c,PLX4720
+hsa-mir-200c,U0126
+hsa-mir-155,Cisplatin
+hsa-mir-296,Imatinib
+hsa-mir-106a,Etoposide
+hsa-mir-129-1,Etoposide
+hsa-mir-135a-1,Etoposide
+hsa-mir-150,Etoposide
+hsa-mir-184,Etoposide
+hsa-mir-198,Etoposide
+hsa-mir-202,Etoposide
+hsa-mir-218-1,Etoposide
+hsa-mir-23b,Etoposide
+hsa-mir-298,Etoposide
+hsa-mir-29b-1,Etoposide
+hsa-mir-31,Etoposide
+hsa-mir-330,Etoposide
+hsa-mir-342,Etoposide
+hsa-mir-382,Etoposide
+hsa-mir-455,Etoposide
+hsa-mir-484,Etoposide
+hsa-mir-487b,Etoposide
+hsa-mir-491,Etoposide
+hsa-mir-503,Etoposide
+hsa-mir-518d,Etoposide
+hsa-mir-518f,Etoposide
+hsa-mir-523,Etoposide
+hsa-mir-542,Etoposide
+hsa-mir-548d-1,Etoposide
+hsa-mir-758,Etoposide
+hsa-mir-885,Etoposide
+hsa-mir-34a,Cisplatin
+hsa-mir-155,Cisplatin
+hsa-mir-200c,Docetaxel
+hsa-mir-205,Docetaxel
+hsa-mir-100,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-130a,Cisplatin
+hsa-mir-135b,Cisplatin
+hsa-mir-141,Cisplatin
+hsa-mir-17,Cisplatin
+hsa-mir-186,Cisplatin
+hsa-mir-18b,Cisplatin
+hsa-mir-196a-1,Cisplatin
+hsa-mir-199a-1,Cisplatin
+hsa-mir-199b,Cisplatin
+hsa-mir-19a,Cisplatin
+hsa-mir-19b-1,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-215,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-335,Cisplatin
+hsa-mir-338,Cisplatin
+hsa-mir-412,Cisplatin
+hsa-mir-421,Cisplatin
+hsa-mir-493,Cisplatin
+hsa-mir-518e,Cisplatin
+hsa-mir-631,Cisplatin
+hsa-mir-645,Cisplatin
+hsa-mir-942,Cisplatin
+hsa-mir-10a,Gemcitabine
+hsa-mir-10b,Gemcitabine
+hsa-mir-134,Gemcitabine
+hsa-mir-143,Gemcitabine
+hsa-mir-146a,Gemcitabine
+hsa-mir-146b,Gemcitabine
+hsa-mir-15a,Gemcitabine
+hsa-mir-190b,Gemcitabine
+hsa-mir-205,Gemcitabine
+hsa-mir-214,Gemcitabine
+hsa-mir-32,Gemcitabine
+hsa-mir-34a,Gemcitabine
+hsa-mir-7-1,Gemcitabine
+hsa-mir-200c,Paclitaxel
+hsa-mir-21,Cisplatin
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Trichostatin A
+hsa-mir-199a-1,Trichostatin A
+hsa-mir-30d,Trichostatin A
+hsa-let-7i,Chemotherapy
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181b-1,Cisplatin
+hsa-mir-181b-1,Cisplatin
+hsa-mir-29c,Cisplatin
+hsa-mir-204,5-Fluorouracil
+hsa-mir-204,Oxaliplatin
+hsa-mir-146a,5-Fluorouracil
+hsa-mir-146a,Capecitabine
+hsa-mir-196b,5-Fluorouracil
+hsa-mir-196b,Capecitabine
+hsa-mir-215,5-Fluorouracil
+hsa-mir-215,Capecitabine
+hsa-mir-29b-2,5-Fluorouracil
+hsa-mir-29b-2,Capecitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-29b-1,Decitabine
+hsa-mir-137,Doxorubicin (Adriamycin)
+hsa-mir-137,Paclitaxel
+hsa-mir-137,Vincristine
+hsa-mir-211,Temozolomide
+hsa-mir-141,Sunitinib
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-146a,Carboplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-146a,Doxorubicin (Adriamycin)
+hsa-mir-146a,Mitomycin C
+hsa-mir-146a,Vincristine
+hsa-mir-146b,Carboplatin
+hsa-mir-146b,Cisplatin
+hsa-mir-146b,Doxorubicin (Adriamycin)
+hsa-mir-146b,Mitomycin C
+hsa-mir-146b,Vincristine
+hsa-mir-181a-2,Carboplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Mitomycin C
+hsa-mir-181a-2,Vincristine
+hsa-mir-181d,Carboplatin
+hsa-mir-181d,Cisplatin
+hsa-mir-181d,Doxorubicin (Adriamycin)
+hsa-mir-181d,Mitomycin C
+hsa-mir-181d,Vincristine
+hsa-mir-186,Carboplatin
+hsa-mir-186,Cisplatin
+hsa-mir-186,Doxorubicin (Adriamycin)
+hsa-mir-186,Mitomycin C
+hsa-mir-186,Vincristine
+hsa-mir-1908,Carboplatin
+hsa-mir-1908,Cisplatin
+hsa-mir-1908,Doxorubicin (Adriamycin)
+hsa-mir-1908,Mitomycin C
+hsa-mir-1908,Vincristine
+hsa-mir-1915,Carboplatin
+hsa-mir-1915,Cisplatin
+hsa-mir-1915,Doxorubicin (Adriamycin)
+hsa-mir-1915,Mitomycin C
+hsa-mir-1915,Vincristine
+hsa-mir-193b,Carboplatin
+hsa-mir-193b,Cisplatin
+hsa-mir-193b,Doxorubicin (Adriamycin)
+hsa-mir-193b,Mitomycin C
+hsa-mir-193b,Vincristine
+hsa-mir-194-1,Carboplatin
+hsa-mir-194-1,Cisplatin
+hsa-mir-194-1,Doxorubicin (Adriamycin)
+hsa-mir-194-1,Mitomycin C
+hsa-mir-194-1,Vincristine
+hsa-mir-22,Carboplatin
+hsa-mir-22,Cisplatin
+hsa-mir-22,Doxorubicin (Adriamycin)
+hsa-mir-22,Mitomycin C
+hsa-mir-22,Vincristine
+hsa-mir-23a,Carboplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-23a,Doxorubicin (Adriamycin)
+hsa-mir-23a,Mitomycin C
+hsa-mir-23a,Vincristine
+hsa-mir-26b,Carboplatin
+hsa-mir-26b,Cisplatin
+hsa-mir-26b,Doxorubicin (Adriamycin)
+hsa-mir-26b,Mitomycin C
+hsa-mir-26b,Vincristine
+hsa-mir-27b,Carboplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-27b,Mitomycin C
+hsa-mir-27b,Vincristine
+hsa-mir-300,Carboplatin
+hsa-mir-300,Cisplatin
+hsa-mir-300,Doxorubicin (Adriamycin)
+hsa-mir-300,Mitomycin C
+hsa-mir-300,Vincristine
+hsa-mir-30b,Carboplatin
+hsa-mir-30b,Cisplatin
+hsa-mir-30b,Doxorubicin (Adriamycin)
+hsa-mir-30b,Mitomycin C
+hsa-mir-30b,Vincristine
+hsa-mir-30c-2,Carboplatin
+hsa-mir-30c-2,Cisplatin
+hsa-mir-30c-2,Doxorubicin (Adriamycin)
+hsa-mir-30c-2,Mitomycin C
+hsa-mir-30c-2,Vincristine
+hsa-mir-3183,Carboplatin
+hsa-mir-3183,Cisplatin
+hsa-mir-3183,Doxorubicin (Adriamycin)
+hsa-mir-3183,Mitomycin C
+hsa-mir-3183,Vincristine
+hsa-mir-4258,Carboplatin
+hsa-mir-4258,Cisplatin
+hsa-mir-4258,Doxorubicin (Adriamycin)
+hsa-mir-4258,Mitomycin C
+hsa-mir-4258,Vincristine
+hsa-mir-4285,Carboplatin
+hsa-mir-4285,Cisplatin
+hsa-mir-4285,Doxorubicin (Adriamycin)
+hsa-mir-4285,Mitomycin C
+hsa-mir-4285,Vincristine
+hsa-mir-4311,Carboplatin
+hsa-mir-4311,Cisplatin
+hsa-mir-4311,Doxorubicin (Adriamycin)
+hsa-mir-4311,Mitomycin C
+hsa-mir-4311,Vincristine
+hsa-mir-485,Carboplatin
+hsa-mir-485,Cisplatin
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-485,Mitomycin C
+hsa-mir-485,Vincristine
+hsa-mir-584,Carboplatin
+hsa-mir-584,Cisplatin
+hsa-mir-584,Doxorubicin (Adriamycin)
+hsa-mir-584,Mitomycin C
+hsa-mir-584,Vincristine
+hsa-mir-612,Carboplatin
+hsa-mir-612,Cisplatin
+hsa-mir-612,Doxorubicin (Adriamycin)
+hsa-mir-612,Mitomycin C
+hsa-mir-612,Vincristine
+hsa-mir-630,Carboplatin
+hsa-mir-630,Cisplatin
+hsa-mir-630,Doxorubicin (Adriamycin)
+hsa-mir-630,Mitomycin C
+hsa-mir-630,Vincristine
+hsa-mir-99b,Carboplatin
+hsa-mir-99b,Cisplatin
+hsa-mir-99b,Doxorubicin (Adriamycin)
+hsa-mir-99b,Mitomycin C
+hsa-mir-99b,Vincristine
+hsa-mir-125b-1,Gemcitabine
+hsa-mir-125b-1,Paclitaxel
+hsa-mir-155,Fulvestrant
+hsa-mir-155,Tamoxifen
+hsa-mir-196a-1,Fulvestrant
+hsa-mir-196a-1,Tamoxifen
+hsa-mir-21,Cyclophosphamide
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Prednisone (R-CHOP)
+hsa-mir-21,Vincristine
+hsa-mir-155,Cisplatin
+hsa-mir-125a,Gemcitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-495,Gemcitabine
+hsa-mir-605,Gemcitabine
+hsa-mir-638,Gemcitabine
+hsa-mir-1250,Sunitinib
+hsa-mir-139,Sunitinib
+hsa-mir-141,Sunitinib
+hsa-mir-145,Sunitinib
+hsa-mir-150,Sunitinib
+hsa-mir-181a-2,Sunitinib
+hsa-mir-1825,Sunitinib
+hsa-mir-192,Sunitinib
+hsa-mir-193a,Sunitinib
+hsa-mir-199a-1,Sunitinib
+hsa-mir-29a,Sunitinib
+hsa-mir-30b,Sunitinib
+hsa-mir-31,Sunitinib
+hsa-mir-34a,Sunitinib
+hsa-mir-362,Sunitinib
+hsa-mir-370,Sunitinib
+hsa-mir-501,Sunitinib
+hsa-mir-505,Sunitinib
+hsa-mir-516a-1,Sunitinib
+hsa-mir-564,Sunitinib
+hsa-mir-582,Sunitinib
+hsa-mir-624,Sunitinib
+hsa-mir-629,Sunitinib
+hsa-mir-659,Sunitinib
+hsa-mir-933,Sunitinib
+hsa-mir-193a,SIOP treatment protocol
+hsa-mir-27a,SIOP treatment protocol
+hsa-mir-302a,SIOP treatment protocol
+hsa-mir-367,SIOP treatment protocol
+hsa-mir-483,SIOP treatment protocol
+hsa-mir-590,SIOP treatment protocol
+hsa-mir-628,SIOP treatment protocol
+hsa-mir-152,Cisplatin
+hsa-mir-185,Cisplatin
+hsa-mir-21,Chemotherapy
+hsa-mir-125a,Paclitaxel
+hsa-mir-125b-1,Paclitaxel
+hsa-let-7a-1,Gemcitabine
+hsa-mir-214,Cisplatin
+hsa-mir-30a,Doxorubicin (Adriamycin)
+hsa-mir-30a,Paclitaxel
+hsa-mir-30c-1,Doxorubicin (Adriamycin)
+hsa-mir-30c-1,Paclitaxel
+hsa-mir-1255a,Doxorubicin (Adriamycin)
+hsa-mir-1269b,Doxorubicin (Adriamycin)
+hsa-mir-1277,Doxorubicin (Adriamycin)
+hsa-mir-1293,Doxorubicin (Adriamycin)
+hsa-mir-139,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-196a-1,Doxorubicin (Adriamycin)
+hsa-mir-203a,Doxorubicin (Adriamycin)
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-2116,Doxorubicin (Adriamycin)
+hsa-mir-2277,Doxorubicin (Adriamycin)
+hsa-mir-2682,Doxorubicin (Adriamycin)
+hsa-mir-296,Doxorubicin (Adriamycin)
+hsa-mir-302a,Doxorubicin (Adriamycin)
+hsa-mir-3117,Doxorubicin (Adriamycin)
+hsa-mir-3186,Doxorubicin (Adriamycin)
+hsa-mir-335,Doxorubicin (Adriamycin)
+hsa-mir-338,Doxorubicin (Adriamycin)
+hsa-mir-3622a,Doxorubicin (Adriamycin)
+hsa-mir-362,Doxorubicin (Adriamycin)
+hsa-mir-3654,Doxorubicin (Adriamycin)
+hsa-mir-365a,Doxorubicin (Adriamycin)
+hsa-mir-365b,Doxorubicin (Adriamycin)
+hsa-mir-3660,Doxorubicin (Adriamycin)
+hsa-mir-3674,Doxorubicin (Adriamycin)
+hsa-mir-3679,Doxorubicin (Adriamycin)
+hsa-mir-3910-1,Doxorubicin (Adriamycin)
+hsa-mir-4426,Doxorubicin (Adriamycin)
+hsa-mir-4427,Doxorubicin (Adriamycin)
+hsa-mir-4448,Doxorubicin (Adriamycin)
+hsa-mir-4454,Doxorubicin (Adriamycin)
+hsa-mir-4485,Doxorubicin (Adriamycin)
+hsa-mir-4488,Doxorubicin (Adriamycin)
+hsa-mir-4501,Doxorubicin (Adriamycin)
+hsa-mir-450a-1,Doxorubicin (Adriamycin)
+hsa-mir-4687,Doxorubicin (Adriamycin)
+hsa-mir-486-1,Doxorubicin (Adriamycin)
+hsa-mir-500a,Doxorubicin (Adriamycin)
+hsa-mir-500b,Doxorubicin (Adriamycin)
+hsa-mir-548h-1,Doxorubicin (Adriamycin)
+hsa-mir-551b,Doxorubicin (Adriamycin)
+hsa-mir-577,Doxorubicin (Adriamycin)
+hsa-mir-642a,Doxorubicin (Adriamycin)
+hsa-mir-877,Doxorubicin (Adriamycin)
+hsa-mir-944,Doxorubicin (Adriamycin)
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-31,Staurosporine
+hsa-mir-221,Cisplatin
+hsa-mir-17,Docetaxel
+hsa-mir-34c,Paclitaxel
+hsa-mir-663a,Cyclophosphamide
+hsa-mir-663a,Docetaxel
+hsa-mir-181b-1,Gemcitabine
+hsa-mir-17,Sirolimus
+hsa-mir-218-1,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-205,Doxorubicin (Adriamycin)
+hsa-mir-205,Erlotinib
+hsa-mir-205,Lapatinib
+hsa-mir-21,Cisplatin
+hsa-mir-216a,Sorafenib
+hsa-mir-217,Sorafenib
+hsa-mir-10b,Cisplatin
+hsa-let-7c,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Etoposide
+hsa-mir-125b-1,Mafosfamide
+hsa-mir-125b-1,Vincristine
+hsa-mir-93,Doxorubicin (Adriamycin)
+hsa-mir-223,Clopidogrel
+hsa-mir-181b-1,Oxaliplatin
+hsa-mir-27b,Oxaliplatin
+hsa-mir-625,Oxaliplatin
+hsa-mir-1224,5-Fluorouracil
+hsa-mir-1224,Cisplatin
+hsa-mir-1224,Doxorubicin (Adriamycin)
+hsa-mir-1224,Vincristine
+hsa-mir-1229,5-Fluorouracil
+hsa-mir-1229,Cisplatin
+hsa-mir-1229,Doxorubicin (Adriamycin)
+hsa-mir-1229,Vincristine
+hsa-mir-1238,5-Fluorouracil
+hsa-mir-1238,Cisplatin
+hsa-mir-1238,Doxorubicin (Adriamycin)
+hsa-mir-1238,Vincristine
+hsa-mir-129-1,5-Fluorouracil
+hsa-mir-129-1,Cisplatin
+hsa-mir-129-1,Doxorubicin (Adriamycin)
+hsa-mir-129-1,Vincristine
+hsa-mir-133b,5-Fluorouracil
+hsa-mir-133b,Cisplatin
+hsa-mir-133b,Doxorubicin (Adriamycin)
+hsa-mir-133b,Vincristine
+hsa-mir-190a,5-Fluorouracil
+hsa-mir-190a,Cisplatin
+hsa-mir-190a,Doxorubicin (Adriamycin)
+hsa-mir-190a,Vincristine
+hsa-mir-197,5-Fluorouracil
+hsa-mir-197,Cisplatin
+hsa-mir-197,Doxorubicin (Adriamycin)
+hsa-mir-197,Vincristine
+hsa-mir-210,5-Fluorouracil
+hsa-mir-210,Cisplatin
+hsa-mir-210,Doxorubicin (Adriamycin)
+hsa-mir-210,Vincristine
+hsa-mir-22,5-Fluorouracil
+hsa-mir-22,Cisplatin
+hsa-mir-22,Doxorubicin (Adriamycin)
+hsa-mir-22,Vincristine
+hsa-mir-31,5-Fluorouracil
+hsa-mir-31,Cisplatin
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-31,Vincristine
+hsa-mir-3131,5-Fluorouracil
+hsa-mir-3131,Cisplatin
+hsa-mir-3131,Doxorubicin (Adriamycin)
+hsa-mir-3131,Vincristine
+hsa-mir-3149,5-Fluorouracil
+hsa-mir-3149,Cisplatin
+hsa-mir-3149,Doxorubicin (Adriamycin)
+hsa-mir-3149,Vincristine
+hsa-mir-3162,5-Fluorouracil
+hsa-mir-3162,Cisplatin
+hsa-mir-3162,Doxorubicin (Adriamycin)
+hsa-mir-3162,Vincristine
+hsa-mir-32,5-Fluorouracil
+hsa-mir-32,Cisplatin
+hsa-mir-32,Doxorubicin (Adriamycin)
+hsa-mir-32,Vincristine
+hsa-mir-4701,5-Fluorouracil
+hsa-mir-4701,Cisplatin
+hsa-mir-4701,Doxorubicin (Adriamycin)
+hsa-mir-4701,Vincristine
+hsa-mir-4728,5-Fluorouracil
+hsa-mir-4728,Cisplatin
+hsa-mir-4728,Doxorubicin (Adriamycin)
+hsa-mir-4728,Vincristine
+hsa-mir-4763,5-Fluorouracil
+hsa-mir-4763,Cisplatin
+hsa-mir-4763,Doxorubicin (Adriamycin)
+hsa-mir-4763,Vincristine
+hsa-mir-486-1,5-Fluorouracil
+hsa-mir-486-1,Cisplatin
+hsa-mir-486-1,Doxorubicin (Adriamycin)
+hsa-mir-486-1,Vincristine
+hsa-mir-501,5-Fluorouracil
+hsa-mir-501,Cisplatin
+hsa-mir-501,Doxorubicin (Adriamycin)
+hsa-mir-501,Vincristine
+hsa-mir-532,5-Fluorouracil
+hsa-mir-532,Cisplatin
+hsa-mir-532,Doxorubicin (Adriamycin)
+hsa-mir-532,Vincristine
+hsa-mir-615,5-Fluorouracil
+hsa-mir-615,Cisplatin
+hsa-mir-615,Doxorubicin (Adriamycin)
+hsa-mir-615,Vincristine
+hsa-mir-766,5-Fluorouracil
+hsa-mir-766,Cisplatin
+hsa-mir-766,Doxorubicin (Adriamycin)
+hsa-mir-766,Vincristine
+hsa-mir-877,5-Fluorouracil
+hsa-mir-877,Cisplatin
+hsa-mir-877,Doxorubicin (Adriamycin)
+hsa-mir-877,Vincristine
+hsa-mir-195,Doxorubicin (Adriamycin)
+hsa-mir-128-1,Doxorubicin (Adriamycin)
+hsa-mir-128-1,Etoposide
+hsa-mir-125b-1,Bortezomib
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-146a,Cisplatin
+hsa-mir-150,Cisplatin
+hsa-mir-146a,Afatinib
+hsa-mir-146a,Cetuximab
+hsa-mir-146a,Erlotinib
+hsa-mir-146a,Gefitinib
+hsa-let-7c,Docetaxel
+hsa-mir-21,Gemcitabine
+hsa-mir-143,Oxaliplatin
+hsa-mir-223,5-Fluorouracil
+hsa-mir-223,5-Fluorouracil
+hsa-mir-223,Cisplatin
+hsa-mir-223,Cisplatin
+hsa-mir-19a,Doxorubicin (Adriamycin)
+hsa-mir-19a,Vincristine
+hsa-mir-19b-1,Doxorubicin (Adriamycin)
+hsa-mir-19b-1,Vincristine
+hsa-mir-125b-1,Chemotherapy
+hsa-mir-221,AGRO100
+hsa-mir-221,Fulvestrant
+hsa-mir-222,AGRO100
+hsa-mir-222,Fulvestrant
+hsa-mir-122,pegIFN/RBV therapy
+hsa-mir-16-1,Vincristine
+hsa-mir-203a,Imatinib
+hsa-mir-142,5-Fluorouracil
+hsa-mir-302a,Cisplatin
+hsa-mir-200b,Fulvestrant
+hsa-mir-200b,Tamoxifen
+hsa-mir-200b,Tamoxifen
+hsa-mir-200c,Fulvestrant
+hsa-mir-200c,Tamoxifen
+hsa-mir-200c,Tamoxifen
+hsa-mir-155,Paclitaxel
+hsa-mir-22,Paclitaxel
+hsa-mir-320a,Paclitaxel
+hsa-mir-640,Paclitaxel
+hsa-mir-9-1,Paclitaxel
+hsa-mir-135b,Cisplatin
+hsa-mir-181b-1,Temozolomide
+hsa-let-7a-1,Cytarabine
+hsa-mir-1291,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,intensive induction chemotherapy based on cytarabine and idarubicine
+hsa-mir-342,Paclitaxel
+hsa-mir-363,intensive induction chemotherapy based on cytarabine and idarubicine
+hsa-mir-532,intensive induction chemotherapy based on cytarabine and idarubicine
+hsa-mir-375,RAWQ01 (Ruthenium)
+hsa-mir-106b,Carboplatin
+hsa-mir-106b,Paclitaxel
+hsa-mir-19a,Carboplatin
+hsa-mir-19a,Paclitaxel
+hsa-mir-217,Carboplatin
+hsa-mir-217,Paclitaxel
+hsa-mir-302d,Carboplatin
+hsa-mir-302d,Paclitaxel
+hsa-mir-483,Carboplatin
+hsa-mir-483,Paclitaxel
+hsa-mir-484,Carboplatin
+hsa-mir-484,Paclitaxel
+hsa-mir-491,Carboplatin
+hsa-mir-491,Paclitaxel
+hsa-mir-592,Carboplatin
+hsa-mir-592,Paclitaxel
+hsa-mir-642a,Carboplatin
+hsa-mir-642a,Paclitaxel
+hsa-mir-653,Carboplatin
+hsa-mir-653,Paclitaxel
+hsa-mir-671,Carboplatin
+hsa-mir-671,Paclitaxel
+hsa-mir-744,Carboplatin
+hsa-mir-744,Paclitaxel
+hsa-mir-10a,Cisplatin
+hsa-mir-125a,Cisplatin
+hsa-mir-132,Cisplatin
+hsa-mir-136,Cisplatin
+hsa-mir-147a,Cisplatin
+hsa-mir-155,Cisplatin
+hsa-mir-181d,Cisplatin
+hsa-mir-183,Cisplatin
+hsa-mir-186,Cisplatin
+hsa-mir-195,Cisplatin
+hsa-mir-198,Cisplatin
+hsa-mir-320a,Cisplatin
+hsa-mir-374a,Cisplatin
+hsa-mir-375,Cisplatin
+hsa-mir-518c,Cisplatin
+hsa-mir-541,Cisplatin
+hsa-mir-551b,Cisplatin
+hsa-mir-601,Cisplatin
+hsa-mir-876,Cisplatin
+hsa-mir-98,Cisplatin
+hsa-mir-214,Doxorubicin (Adriamycin)
+hsa-mir-483,Doxorubicin (Adriamycin)
+hsa-mir-485,Fludarabine
+hsa-mir-129-1,5-Fluorouracil
+hsa-mir-26a-1,Paclitaxel
+hsa-mir-223,Cisplatin
+hsa-mir-223,Doxorubicin (Adriamycin)
+hsa-mir-223,Mitomycin C
+hsa-mir-125b-1,Dexamethasone
+hsa-mir-195,Doxorubicin (Adriamycin)
+hsa-mir-200a,Curcumin
+hsa-mir-200b,Curcumin
+hsa-mir-210,Paclitaxel
+hsa-mir-375,Paclitaxel
+hsa-mir-10b,5-Fluorouracil
+hsa-mir-10b,Cisplatin
+hsa-mir-10b,Vincristine
+hsa-mir-25,5-Fluorouracil
+hsa-mir-25,Cisplatin
+hsa-mir-25,Vincristine
+hsa-mir-424,5-Fluorouracil
+hsa-mir-424,Cisplatin
+hsa-mir-424,Vincristine
+hsa-mir-494,5-Fluorouracil
+hsa-mir-494,Cisplatin
+hsa-mir-494,Vincristine
+hsa-mir-93,5-Fluorouracil
+hsa-mir-93,Cisplatin
+hsa-mir-93,Vincristine
+hsa-mir-93,5-Fluorouracil
+hsa-mir-93,Cisplatin
+hsa-mir-93,Vincristine
+hsa-mir-181a-2,Mitoxantrone
+hsa-mir-17,Temozolomide
+hsa-mir-22,Pemetrexed
+hsa-mir-320c-1,Gemcitabine
+hsa-let-7b,Cisplatin
+hsa-mir-200c,Docetaxel
+hsa-mir-106a,Paclitaxel
+hsa-mir-591,Paclitaxel
+hsa-mir-381,5-Fluorouracil
+hsa-mir-17,Dasatinib
+hsa-mir-17,Imatinib
+hsa-mir-17,Nilotinib
+hsa-mir-200c,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-let-7b,Paclitaxel
+hsa-mir-1197,Paclitaxel
+hsa-mir-1200,Paclitaxel
+hsa-mir-124-1,Paclitaxel
+hsa-mir-1250,Paclitaxel
+hsa-mir-1264,Paclitaxel
+hsa-mir-1265,Paclitaxel
+hsa-mir-1268a,Paclitaxel
+hsa-mir-1277,Paclitaxel
+hsa-mir-1291,Paclitaxel
+hsa-mir-130a,Paclitaxel
+hsa-mir-130b,Paclitaxel
+hsa-mir-140,Paclitaxel
+hsa-mir-15a,Paclitaxel
+hsa-mir-188,Paclitaxel
+hsa-mir-193b,Paclitaxel
+hsa-mir-195,Paclitaxel
+hsa-mir-199a-1,Paclitaxel
+hsa-mir-200a,Paclitaxel
+hsa-mir-200b,Paclitaxel
+hsa-mir-20b,Paclitaxel
+hsa-mir-210,Paclitaxel
+hsa-mir-2114,Paclitaxel
+hsa-mir-214,Paclitaxel
+hsa-mir-221,Paclitaxel
+hsa-mir-2277,Paclitaxel
+hsa-mir-2278,Paclitaxel
+hsa-mir-23c,Paclitaxel
+hsa-mir-27b,Paclitaxel
+hsa-mir-28,Paclitaxel
+hsa-mir-296,Paclitaxel
+hsa-mir-29c,Paclitaxel
+hsa-mir-302b,Paclitaxel
+hsa-mir-3065,Paclitaxel
+hsa-mir-3074,Paclitaxel
+hsa-mir-30a,Paclitaxel
+hsa-mir-31,Paclitaxel
+hsa-mir-3144,Paclitaxel
+hsa-mir-3150b,Paclitaxel
+hsa-mir-3153,Paclitaxel
+hsa-mir-3161,Paclitaxel
+hsa-mir-3163,Paclitaxel
+hsa-mir-3164,Paclitaxel
+hsa-mir-3167,Paclitaxel
+hsa-mir-3168,Paclitaxel
+hsa-mir-3173,Paclitaxel
+hsa-mir-101-1,Cisplatin
+hsa-mir-146b,Cisplatin
+hsa-mir-148a,Cisplatin
+hsa-mir-155,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-183,Cisplatin
+hsa-mir-185,Cisplatin
+hsa-mir-18a,Cisplatin
+hsa-mir-194-1,Cisplatin
+hsa-mir-199b,Cisplatin
+hsa-mir-203a,Cisplatin
+hsa-mir-206,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-22,Cisplatin
+hsa-mir-221,Cisplatin
+hsa-mir-25,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-296,Cisplatin
+hsa-mir-297,Cisplatin
+hsa-mir-29c,Cisplatin
+hsa-mir-339,Cisplatin
+hsa-mir-34c,Cisplatin
+hsa-mir-362,Cisplatin
+hsa-mir-374a,Cisplatin
+hsa-mir-382,Cisplatin
+hsa-mir-429,Cisplatin
+hsa-mir-429,Cisplatin
+hsa-mir-455,Cisplatin
+hsa-mir-485,Cisplatin
+hsa-mir-485,Cisplatin
+hsa-mir-519a-1,Cisplatin
+hsa-mir-574,Cisplatin
+hsa-mir-603,Cisplatin
+hsa-mir-610,Cisplatin
+hsa-mir-630,Cisplatin
+hsa-mir-637,Cisplatin
+hsa-mir-659,Cisplatin
+hsa-mir-7-1,Cisplatin
+hsa-mir-760,Cisplatin
+hsa-mir-885,Cisplatin
+hsa-mir-920,Cisplatin
+hsa-mir-92b,Cisplatin
+hsa-mir-98,Cisplatin
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Etoposide
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-503,Cisplatin
+hsa-mir-125b-1,Temozolomide
+hsa-mir-34a,Sorafenib
+hsa-mir-181c,Imatinib
+hsa-mir-487a,Mitoxantrone
+hsa-mir-335,Prednisolone
+hsa-mir-508,5-Fluorouracil
+hsa-mir-508,Cisplatin
+hsa-mir-508,Doxorubicin (Adriamycin)
+hsa-mir-508,Vincristine
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Oxaliplatin
+hsa-mir-29a,Gemcitabine
+hsa-mir-29a,Cisplatin
+hsa-mir-106a,Cisplatin
+hsa-mir-433,5-Fluorouracil
+hsa-mir-100,Vincristine
+hsa-mir-125b-1,Vincristine
+hsa-mir-99a,Vincristine
+hsa-mir-135b,Erlotinib
+hsa-mir-135b,PD-0325901
+hsa-mir-139,Erlotinib
+hsa-mir-139,PD-0325901
+hsa-mir-141,Erlotinib
+hsa-mir-141,PD-0325901
+hsa-mir-155,Erlotinib
+hsa-mir-155,PD-0325901
+hsa-mir-200a,Erlotinib
+hsa-mir-200a,PD-0325901
+hsa-mir-200b,Erlotinib
+hsa-mir-200b,PD-0325901
+hsa-mir-200c,Erlotinib
+hsa-mir-200c,PD-0325901
+hsa-mir-429,Erlotinib
+hsa-mir-429,PD-0325901
+hsa-mir-20a,Cisplatin
+hsa-mir-20a,Docetaxel
+hsa-mir-223,Doxorubicin (Adriamycin)
+hsa-mir-223,Paclitaxel
+hsa-mir-106a,Doxorubicin (Adriamycin)
+hsa-mir-106a,Vincristine
+hsa-mir-137,Doxorubicin (Adriamycin)
+hsa-let-7i,Gemcitabine
+hsa-mir-100,Gemcitabine
+hsa-mir-106a,Gemcitabine
+hsa-mir-1246,Gemcitabine
+hsa-mir-125a,Gemcitabine
+hsa-mir-125b-1,Gemcitabine
+hsa-mir-1275,Gemcitabine
+hsa-mir-1290,Gemcitabine
+hsa-mir-129-1,Gemcitabine
+hsa-mir-130a,Gemcitabine
+hsa-mir-130b,Gemcitabine
+hsa-mir-138-1,Gemcitabine
+hsa-mir-151a,Gemcitabine
+hsa-mir-15a,Gemcitabine
+hsa-mir-16-1,Gemcitabine
+hsa-mir-17,Gemcitabine
+hsa-mir-18a,Gemcitabine
+hsa-mir-18b,Gemcitabine
+hsa-mir-194-1,Gemcitabine
+hsa-mir-195,Gemcitabine
+hsa-mir-19a,Gemcitabine
+hsa-mir-19b-1,Gemcitabine
+hsa-mir-208a,Gemcitabine
+hsa-mir-20a,Gemcitabine
+hsa-mir-20b,Gemcitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-22,Gemcitabine
+hsa-mir-221,Gemcitabine
+hsa-mir-222,Gemcitabine
+hsa-mir-28,Gemcitabine
+hsa-mir-29b-1,Gemcitabine
+hsa-mir-29c,Gemcitabine
+hsa-mir-301a,Gemcitabine
+hsa-mir-487b,Gemcitabine
+hsa-mir-513a-1,Gemcitabine
+hsa-mir-549a,Gemcitabine
+hsa-mir-602,Gemcitabine
+hsa-mir-665,Gemcitabine
+hsa-mir-765,Gemcitabine
+hsa-mir-99b,Gemcitabine
+hsa-mir-153-1,Cisplatin
+hsa-mir-153-1,Oxaliplatin
+hsa-mir-200c,Erlotinib
+hsa-mir-21,Erlotinib
+hsa-mir-133a-1,Cisplatin
+hsa-mir-133a-1,Doxorubicin (Adriamycin)
+hsa-mir-146a,Paclitaxel
+hsa-mir-126,Oxaliplatin
+hsa-mir-650,Docetaxel
+hsa-mir-196a-1,Docetaxel
+hsa-mir-196a-1,Doxorubicin (Adriamycin)
+hsa-mir-222,Docetaxel
+hsa-mir-222,Doxorubicin (Adriamycin)
+hsa-mir-29a,Docetaxel
+hsa-mir-29a,Doxorubicin (Adriamycin)
+hsa-mir-30a,Docetaxel
+hsa-mir-30a,Doxorubicin (Adriamycin)
+hsa-mir-149,Docetaxel
+hsa-mir-149,Doxorubicin (Adriamycin)
+hsa-mir-34a,5-Fluorouracil
+hsa-mir-34a,Doxycycline
+hsa-mir-27a,5-Fluorouracil
+hsa-mir-34a,Erlotinib
+hsa-mir-495,Carboplatin
+hsa-mir-495,Cisplatin
+hsa-mir-495,Oxaliplatin
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-203a,5-Fluorouracil
+hsa-mir-10a,Cisplatin
+hsa-mir-10a,Vinorelbine
+hsa-mir-125a,Gemcitabine
+hsa-mir-130a,Gemcitabine
+hsa-mir-195,Gemcitabine
+hsa-mir-200c,Gemcitabine
+hsa-mir-203a,Gemcitabine
+hsa-mir-24-2,Gemcitabine
+hsa-mir-25,Gemcitabine
+hsa-mir-30a,Gemcitabine
+hsa-mir-30c-2,Gemcitabine
+hsa-mir-375,Cisplatin
+hsa-mir-375,Vinorelbine
+hsa-mir-885,Gemcitabine
+hsa-mir-29c,Docetaxel
+hsa-mir-34a,Cisplatin
+hsa-mir-181b-1,Gemcitabine
+hsa-mir-9-1,Temozolomide
+hsa-mir-205,Cisplatin
+hsa-mir-103a-1,Camptothecin
+hsa-mir-103a-1,Cisplatin
+hsa-mir-103a-1,Etoposide
+hsa-mir-103a-1,Olaparib
+hsa-mir-107,Camptothecin
+hsa-mir-107,Cisplatin
+hsa-mir-107,Etoposide
+hsa-mir-107,Olaparib
+hsa-mir-92b,Cisplatin
+hsa-mir-31,Cisplatin
+hsa-let-7e,Cisplatin
+hsa-mir-23a,Etoposide
+hsa-mir-187,Bortezomib
+hsa-mir-187,Cisplatin
+hsa-mir-187,Cyclophosphamide
+hsa-mir-187,Doxorubicin (Adriamycin)
+hsa-mir-187,Gemcitabine
+hsa-mir-106a,Cisplatin
+hsa-mir-21,Chemotherapy
+hsa-mir-1-1,Fluoropyrimidine
+hsa-mir-27a,Fluoropyrimidine
+hsa-let-7a-1,Oxaliplatin
+hsa-let-7a-1,Oxaliplatin
+hsa-let-7a-2,Oxaliplatin
+hsa-let-7c,Oxaliplatin
+hsa-let-7d,Oxaliplatin
+hsa-let-7e,Oxaliplatin
+hsa-let-7e,Oxaliplatin
+hsa-let-7i,Oxaliplatin
+hsa-mir-1-1,Oxaliplatin
+hsa-mir-100,Oxaliplatin
+hsa-mir-103a-1,Oxaliplatin
+hsa-mir-106a,Oxaliplatin
+hsa-mir-106a,Oxaliplatin
+hsa-mir-106b,Oxaliplatin
+hsa-mir-107,Oxaliplatin
+hsa-mir-10a,Oxaliplatin
+hsa-mir-10b,Oxaliplatin
+hsa-mir-1178,Oxaliplatin
+hsa-mir-1179,Oxaliplatin
+hsa-mir-1181,Oxaliplatin
+hsa-mir-1182,Oxaliplatin
+hsa-mir-1182,Oxaliplatin
+hsa-mir-1183,Oxaliplatin
+hsa-mir-1183,Oxaliplatin
+hsa-mir-1183,Oxaliplatin
+hsa-mir-1200,Oxaliplatin
+hsa-mir-1206,Oxaliplatin
+hsa-mir-1207,Oxaliplatin
+hsa-mir-122,Oxaliplatin
+hsa-mir-122,Oxaliplatin
+hsa-mir-122,Oxaliplatin
+hsa-mir-1224,Oxaliplatin
+hsa-mir-1229,Oxaliplatin
+hsa-mir-1229,Oxaliplatin
+hsa-mir-1233-1,Oxaliplatin
+hsa-mir-1236,Oxaliplatin
+hsa-mir-1236,Oxaliplatin
+hsa-mir-1238,Oxaliplatin
+hsa-mir-1246,Oxaliplatin
+hsa-mir-1247,Oxaliplatin
+hsa-mir-1250,Oxaliplatin
+hsa-mir-1255b-1,Oxaliplatin
+hsa-mir-1255b-1,Oxaliplatin
+hsa-mir-1257,Oxaliplatin
+hsa-mir-1257,Oxaliplatin
+hsa-mir-1257,Oxaliplatin
+hsa-mir-1258,Oxaliplatin
+hsa-mir-1258,Oxaliplatin
+hsa-mir-125b-1,Oxaliplatin
+hsa-mir-126,Oxaliplatin
+hsa-mir-126,Oxaliplatin
+hsa-mir-1264,Oxaliplatin
+hsa-mir-1264,Oxaliplatin
+hsa-mir-1265,Oxaliplatin
+hsa-mir-1265,Oxaliplatin
+hsa-mir-1267,Oxaliplatin
+hsa-mir-1267,Oxaliplatin
+hsa-mir-127,Oxaliplatin
+hsa-mir-1270,Oxaliplatin
+hsa-mir-1270,Oxaliplatin
+hsa-mir-1275,Oxaliplatin
+hsa-mir-128-1,Oxaliplatin
+hsa-mir-128-1,Oxaliplatin
+hsa-mir-1281,Oxaliplatin
+hsa-mir-1285-1,Oxaliplatin
+hsa-mir-1285-1,Oxaliplatin
+hsa-mir-1285-1,Oxaliplatin
+hsa-mir-1287,Oxaliplatin
+hsa-mir-128-1,Oxaliplatin
+hsa-mir-129-1,Oxaliplatin
+hsa-mir-1290,Oxaliplatin
+hsa-mir-1292,Oxaliplatin
+hsa-mir-1293,Oxaliplatin
+hsa-mir-1293,Oxaliplatin
+hsa-mir-1297,Oxaliplatin
+hsa-mir-1297,Oxaliplatin
+hsa-mir-1299,Oxaliplatin
+hsa-mir-1301,Oxaliplatin
+hsa-mir-1303,Oxaliplatin
+hsa-mir-1303,Oxaliplatin
+hsa-mir-1304,Oxaliplatin
+hsa-mir-1306,Oxaliplatin
+hsa-mir-1306,Oxaliplatin
+hsa-mir-130a,Oxaliplatin
+hsa-mir-130a,Oxaliplatin
+hsa-mir-1321,Oxaliplatin
+hsa-mir-1323,Oxaliplatin
+hsa-mir-135a-1,Oxaliplatin
+hsa-mir-138-1,Oxaliplatin
+hsa-mir-142,Oxaliplatin
+hsa-mir-1468,Oxaliplatin
+hsa-mir-1468,Oxaliplatin
+hsa-mir-147a,Oxaliplatin
+hsa-mir-147a,Oxaliplatin
+hsa-mir-150,Oxaliplatin
+hsa-mir-151a,Oxaliplatin
+hsa-mir-153-2,Oxaliplatin
+hsa-mir-155,Oxaliplatin
+hsa-mir-15a,Oxaliplatin
+hsa-mir-15b,Oxaliplatin
+hsa-mir-16-1,Oxaliplatin
+hsa-mir-16-2,Oxaliplatin
+hsa-mir-17,Oxaliplatin
+hsa-mir-17,Oxaliplatin
+hsa-mir-181a-2,Oxaliplatin
+hsa-mir-181a-2,Oxaliplatin
+hsa-mir-181a-2,Oxaliplatin
+hsa-mir-181b-1,Oxaliplatin
+hsa-mir-181d,Oxaliplatin
+hsa-mir-182,Oxaliplatin
+hsa-mir-182,Oxaliplatin
+hsa-mir-184,Oxaliplatin
+hsa-mir-185,Oxaliplatin
+hsa-mir-185,Oxaliplatin
+hsa-mir-186,Oxaliplatin
+hsa-mir-1908,Oxaliplatin
+hsa-mir-1908,Oxaliplatin
+hsa-mir-191,Oxaliplatin
+hsa-mir-191,Oxaliplatin
+hsa-mir-1910,Oxaliplatin
+hsa-mir-1910,Oxaliplatin
+hsa-mir-192,Oxaliplatin
+hsa-mir-193a,Oxaliplatin
+hsa-mir-193b,Oxaliplatin
+hsa-mir-195,Oxaliplatin
+hsa-mir-196a-1,Oxaliplatin
+hsa-mir-196a-1,Oxaliplatin
+hsa-mir-196b,Oxaliplatin
+hsa-mir-197,Oxaliplatin
+hsa-mir-197,Oxaliplatin
+hsa-mir-198,Oxaliplatin
+hsa-mir-199b,Oxaliplatin
+hsa-mir-200a,Oxaliplatin
+hsa-mir-200a,Oxaliplatin
+hsa-mir-200a,Oxaliplatin
+hsa-mir-200b,Oxaliplatin
+hsa-mir-200c,Oxaliplatin
+hsa-mir-202,Oxaliplatin
+hsa-mir-203a,Oxaliplatin
+hsa-mir-205,Oxaliplatin
+hsa-mir-205,Oxaliplatin
+hsa-mir-206,Oxaliplatin
+hsa-mir-206,Oxaliplatin
+hsa-mir-20a,Oxaliplatin
+hsa-mir-20a,Oxaliplatin
+hsa-mir-20b,Oxaliplatin
+hsa-mir-20b,Oxaliplatin
+hsa-mir-21,Oxaliplatin
+hsa-mir-214,Oxaliplatin
+hsa-mir-215,Oxaliplatin
+hsa-mir-219a-1,Oxaliplatin
+hsa-mir-219a-1,Oxaliplatin
+hsa-mir-221,Oxaliplatin
+hsa-mir-222,Oxaliplatin
+hsa-mir-224,Oxaliplatin
+hsa-mir-25,Oxaliplatin
+hsa-mir-25,Oxaliplatin
+hsa-mir-26a-1,Oxaliplatin
+hsa-mir-26b,Oxaliplatin
+hsa-mir-27a,Oxaliplatin
+hsa-mir-29a,Oxaliplatin
+hsa-mir-29b-1,Oxaliplatin
+hsa-mir-29b-1,Oxaliplatin
+hsa-mir-29c,Oxaliplatin
+hsa-mir-301a,Oxaliplatin
+hsa-mir-30a,Oxaliplatin
+hsa-mir-30b,Oxaliplatin
+hsa-mir-30b,Oxaliplatin
+hsa-mir-30c-2,Oxaliplatin
+hsa-mir-30c-2,Oxaliplatin
+hsa-mir-30d,Oxaliplatin
+hsa-mir-30e,Oxaliplatin
+hsa-mir-31,Oxaliplatin
+hsa-mir-32,Oxaliplatin
+hsa-mir-32,Oxaliplatin
+hsa-mir-32,Oxaliplatin
+hsa-mir-320a,Oxaliplatin
+hsa-mir-320a,Oxaliplatin
+hsa-mir-320b-1,Oxaliplatin
+hsa-mir-320c-1,Oxaliplatin
+hsa-mir-320c-1,Oxaliplatin
+hsa-mir-320d-1,Oxaliplatin
+hsa-mir-320d-1,Oxaliplatin
+hsa-mir-324,Oxaliplatin
+hsa-mir-324,Oxaliplatin
+hsa-mir-326,Oxaliplatin
+hsa-mir-326,Oxaliplatin
+hsa-mir-328,Oxaliplatin
+hsa-mir-335,Oxaliplatin
+hsa-mir-335,Oxaliplatin
+hsa-mir-339,Oxaliplatin
+hsa-mir-33b,Oxaliplatin
+hsa-mir-33b,Oxaliplatin
+hsa-mir-33b,Oxaliplatin
+hsa-mir-342,Oxaliplatin
+hsa-mir-342,Oxaliplatin
+hsa-mir-345,Oxaliplatin
+hsa-mir-34a,Oxaliplatin
+hsa-mir-34a,Oxaliplatin
+hsa-mir-34b,Oxaliplatin
+hsa-mir-34b,Oxaliplatin
+hsa-mir-34c,Oxaliplatin
+hsa-mir-361,Oxaliplatin
+hsa-mir-361,Oxaliplatin
+hsa-mir-362,Oxaliplatin
+hsa-mir-363,Oxaliplatin
+hsa-mir-365a,Oxaliplatin
+hsa-mir-371a,Oxaliplatin
+hsa-mir-373,Oxaliplatin
+hsa-mir-375,Oxaliplatin
+hsa-mir-375,Oxaliplatin
+hsa-mir-382,Oxaliplatin
+hsa-mir-382,Oxaliplatin
+hsa-mir-383,Oxaliplatin
+hsa-mir-383,Oxaliplatin
+hsa-mir-412,Oxaliplatin
+hsa-mir-412,Oxaliplatin
+hsa-mir-421,Oxaliplatin
+hsa-mir-421,Oxaliplatin
+hsa-mir-423,Oxaliplatin
+hsa-mir-425,Oxaliplatin
+hsa-mir-429,Oxaliplatin
+hsa-mir-429,Oxaliplatin
+hsa-mir-433,Oxaliplatin
+hsa-mir-449b,Oxaliplatin
+hsa-mir-449b,Oxaliplatin
+hsa-mir-450a-2,Oxaliplatin
+hsa-mir-483,Oxaliplatin
+hsa-mir-483,Oxaliplatin
+hsa-mir-494,Oxaliplatin
+hsa-mir-499a,Oxaliplatin
+hsa-mir-502,Oxaliplatin
+hsa-mir-504,Oxaliplatin
+hsa-mir-504,Oxaliplatin
+hsa-mir-541,Oxaliplatin
+hsa-mir-541,Oxaliplatin
+hsa-mir-548a-1,Oxaliplatin
+hsa-mir-548a-2,Oxaliplatin
+hsa-mir-548a-2,Oxaliplatin
+hsa-mir-548h-2,Oxaliplatin
+hsa-mir-548m,Oxaliplatin
+hsa-mir-550a-1,Oxaliplatin
+hsa-mir-550a-1,Oxaliplatin
+hsa-mir-557,Oxaliplatin
+hsa-mir-558,Oxaliplatin
+hsa-mir-558,Oxaliplatin
+hsa-mir-561,Oxaliplatin
+hsa-mir-572,Oxaliplatin
+hsa-mir-576,Oxaliplatin
+hsa-mir-576,Oxaliplatin
+hsa-mir-581,Oxaliplatin
+hsa-mir-584,Oxaliplatin
+hsa-mir-584,Oxaliplatin
+hsa-mir-585,Oxaliplatin
+hsa-mir-585,Oxaliplatin
+hsa-mir-587,Oxaliplatin
+hsa-mir-591,Oxaliplatin
+hsa-mir-593,Oxaliplatin
+hsa-mir-595,Oxaliplatin
+hsa-mir-595,Oxaliplatin
+hsa-mir-595,Oxaliplatin
+hsa-mir-598,Oxaliplatin
+hsa-mir-601,Oxaliplatin
+hsa-mir-601,Oxaliplatin
+hsa-mir-602,Oxaliplatin
+hsa-mir-603,Oxaliplatin
+hsa-mir-609,Oxaliplatin
+hsa-mir-609,Oxaliplatin
+hsa-mir-609,Oxaliplatin
+hsa-mir-611,Oxaliplatin
+hsa-mir-613,Oxaliplatin
+hsa-mir-613,Oxaliplatin
+hsa-mir-616,Oxaliplatin
+hsa-mir-619,Oxaliplatin
+hsa-mir-619,Oxaliplatin
+hsa-mir-625,Oxaliplatin
+hsa-mir-627,Oxaliplatin
+hsa-mir-631,Oxaliplatin
+hsa-mir-634,Oxaliplatin
+hsa-mir-639,Oxaliplatin
+hsa-mir-657,Oxaliplatin
+hsa-mir-657,Oxaliplatin
+hsa-mir-657,Oxaliplatin
+hsa-mir-658,Oxaliplatin
+hsa-mir-660,Oxaliplatin
+hsa-mir-661,Oxaliplatin
+hsa-mir-661,Oxaliplatin
+hsa-mir-663a,Oxaliplatin
+hsa-mir-663b,Oxaliplatin
+hsa-mir-664a,Oxaliplatin
+hsa-mir-664a,Oxaliplatin
+hsa-mir-675,Oxaliplatin
+hsa-mir-675,Oxaliplatin
+hsa-mir-7-1,Oxaliplatin
+hsa-mir-7-1,Oxaliplatin
+hsa-mir-7-3,Oxaliplatin
+hsa-mir-7-3,Oxaliplatin
+hsa-mir-760,Oxaliplatin
+hsa-mir-765,Oxaliplatin
+hsa-mir-765,Oxaliplatin
+hsa-mir-766,Oxaliplatin
+hsa-mir-769,Oxaliplatin
+hsa-mir-770,Oxaliplatin
+hsa-mir-770,Oxaliplatin
+hsa-mir-876,Oxaliplatin
+hsa-mir-876,Oxaliplatin
+hsa-mir-877,Oxaliplatin
+hsa-mir-877,Oxaliplatin
+hsa-mir-877,Oxaliplatin
+hsa-mir-885,Oxaliplatin
+hsa-mir-9-1,Oxaliplatin
+hsa-mir-92a-1,Oxaliplatin
+hsa-mir-92b,Oxaliplatin
+hsa-mir-92b,Oxaliplatin
+hsa-mir-92b,Oxaliplatin
+hsa-mir-93,Oxaliplatin
+hsa-mir-93,Oxaliplatin
+hsa-mir-93,Oxaliplatin
+hsa-mir-935,Oxaliplatin
+hsa-mir-936,Oxaliplatin
+hsa-mir-936,Oxaliplatin
+hsa-mir-940,Oxaliplatin
+hsa-mir-99a,Oxaliplatin
+hsa-mir-99b,Oxaliplatin
+hsa-mir-130a,Cisplatin
+hsa-let-7a-1,Gemcitabine
+hsa-let-7f-2,Gemcitabine
+hsa-mir-141,Gemcitabine
+hsa-mir-143,Gemcitabine
+hsa-mir-200a,Gemcitabine
+hsa-mir-200b,Gemcitabine
+hsa-mir-200c,Gemcitabine
+hsa-mir-205,Gemcitabine
+hsa-mir-221,Gemcitabine
+hsa-mir-222,Gemcitabine
+hsa-mir-29b-1,Gemcitabine
+hsa-mir-377,Gemcitabine
+hsa-mir-429,Gemcitabine
+hsa-mir-452,Gemcitabine
+hsa-mir-589,Gemcitabine
+hsa-mir-597,Gemcitabine
+hsa-mir-708,Gemcitabine
+hsa-mir-99b,Gemcitabine
+hsa-mir-370,Homoharringtonine
+hsa-mir-181a-2,Cisplatin
+hsa-mir-16-1,Gemcitabine
+hsa-mir-16-1,Pemetrexed
+hsa-mir-21,Trastuzumab
+hsa-let-7i,Paclitaxel
+hsa-mir-103a-2,Paclitaxel
+hsa-mir-106b,Paclitaxel
+hsa-mir-10a,Paclitaxel
+hsa-mir-10b,Paclitaxel
+hsa-mir-1204,Paclitaxel
+hsa-mir-125a,Paclitaxel
+hsa-mir-126,Paclitaxel
+hsa-mir-127,Paclitaxel
+hsa-mir-128-1,Paclitaxel
+hsa-mir-129-1,Paclitaxel
+hsa-mir-1296,Paclitaxel
+hsa-mir-130b,Paclitaxel
+hsa-mir-130b,Paclitaxel
+hsa-mir-132,Paclitaxel
+hsa-mir-133a-1,Paclitaxel
+hsa-mir-133a-1,Paclitaxel
+hsa-mir-133b,Paclitaxel
+hsa-mir-134,Paclitaxel
+hsa-mir-139,Paclitaxel
+hsa-mir-141,Paclitaxel
+hsa-mir-143,Paclitaxel
+hsa-mir-143,Paclitaxel
+hsa-mir-145,Paclitaxel
+hsa-mir-155,Paclitaxel
+hsa-mir-182,Paclitaxel
+hsa-mir-187,Paclitaxel
+hsa-mir-18a,Paclitaxel
+hsa-mir-1908,Paclitaxel
+hsa-mir-1908,Vinorelbine
+hsa-mir-197,Vinorelbine
+hsa-mir-199a-1,Vinorelbine
+hsa-mir-199b,Vinorelbine
+hsa-mir-200c,Vinorelbine
+hsa-mir-23b,Vinorelbine
+hsa-mir-346,Paclitaxel
+hsa-mir-34c,Vinorelbine
+hsa-mir-361,Paclitaxel
+hsa-mir-363,Vinorelbine
+hsa-mir-374a,Vinorelbine
+hsa-mir-432,Vinorelbine
+hsa-mir-486-1,Vinorelbine
+hsa-mir-512-1,Vinorelbine
+hsa-mir-513b,Vinorelbine
+hsa-mir-515-1,Vinorelbine
+hsa-mir-516a-1,Vinorelbine
+hsa-mir-517a,Vinorelbine
+hsa-mir-517c,Vinorelbine
+hsa-mir-518e,Vinorelbine
+hsa-mir-518f,Vinorelbine
+hsa-mir-519a-1,Vinorelbine
+hsa-mir-519b,Vinorelbine
+hsa-mir-519c,Vinorelbine
+hsa-mir-519e,Vinorelbine
+hsa-mir-522,Vinorelbine
+hsa-mir-523,Vinorelbine
+hsa-mir-582,Vinorelbine
+hsa-mir-585,Vinorelbine
+hsa-mir-586,Vinorelbine
+hsa-mir-605,Paclitaxel
+hsa-mir-610,Paclitaxel
+hsa-mir-615,Paclitaxel
+hsa-mir-625,Paclitaxel
+hsa-mir-671,Paclitaxel
+hsa-mir-767,Paclitaxel
+hsa-mir-769,Paclitaxel
+hsa-mir-875,Paclitaxel
+hsa-mir-885,Paclitaxel
+hsa-mir-920,Paclitaxel
+hsa-mir-922,Paclitaxel
+hsa-mir-933,Paclitaxel
+hsa-mir-938,Paclitaxel
+hsa-mir-9-1,AG014699
+hsa-mir-9-1,Cisplatin
+hsa-mir-200b,5-Fluorouracil
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-200b,Celastrol
+hsa-mir-181a-2,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-10b,Gefitinib
+hsa-mir-21,Gefitinib
+hsa-let-7c,Erlotinib
+hsa-mir-200b,Erlotinib
+hsa-mir-29a,Cisplatin
+hsa-mir-101-1,5-Fluorouracil
+hsa-mir-101-1,Doxorubicin (Adriamycin)
+hsa-mir-365a,Gemcitabine
+hsa-mir-135b,Imatinib
+hsa-mir-140,Imatinib
+hsa-mir-151a,Imatinib
+hsa-mir-15a,Imatinib
+hsa-mir-16-1,Imatinib
+hsa-mir-195,Imatinib
+hsa-mir-320a,Imatinib
+hsa-mir-335,Imatinib
+hsa-mir-483,Imatinib
+hsa-mir-574,Imatinib
+hsa-mir-664a,Imatinib
+hsa-let-7e,Paclitaxel
+hsa-let-7e,Paclitaxel
+hsa-mir-106a,Paclitaxel
+hsa-mir-106a,Paclitaxel
+hsa-mir-125a,Paclitaxel
+hsa-mir-126,Paclitaxel
+hsa-mir-130a,Paclitaxel
+hsa-mir-130b,Paclitaxel
+hsa-mir-134,Paclitaxel
+hsa-mir-141,Paclitaxel
+hsa-mir-142,Paclitaxel
+hsa-mir-148a,Paclitaxel
+hsa-mir-17,Paclitaxel
+hsa-mir-17,Paclitaxel
+hsa-mir-192,Paclitaxel
+hsa-mir-193b,Paclitaxel
+hsa-mir-195,Paclitaxel
+hsa-mir-19b-1,Paclitaxel
+hsa-mir-218-1,Paclitaxel
+hsa-mir-29c,Paclitaxel
+hsa-mir-30a,Paclitaxel
+hsa-mir-30a,Paclitaxel
+hsa-mir-30c-2,Paclitaxel
+hsa-mir-320a,Paclitaxel
+hsa-mir-338,Paclitaxel
+hsa-mir-367,Paclitaxel
+hsa-mir-373,Paclitaxel
+hsa-mir-374a,Paclitaxel
+hsa-mir-376b,Paclitaxel
+hsa-mir-377,Paclitaxel
+hsa-mir-489,Paclitaxel
+hsa-mir-515-1,Paclitaxel
+hsa-mir-516a-1,Paclitaxel
+hsa-mir-7-1,Paclitaxel
+hsa-mir-95,Paclitaxel
+hsa-mir-99b,Paclitaxel
+hsa-mir-27a,Chemotherapy
+hsa-mir-145,Vemurafenib
+hsa-mir-23a,5-fluorouracil
+hsa-mir-134,Gefitinib
+hsa-mir-487b,Gefitinib
+hsa-let-7c,Gefitinib
+hsa-mir-21,5-Fluorouracil
+hsa-mir-221,Trastuzumab
+hsa-mir-30b,Erlotinib
+hsa-mir-30b,Gefitinib
+hsa-mir-1269a,Doxorubicin (Adriamycin)
+hsa-mir-127,Doxorubicin (Adriamycin)
+hsa-mir-135b,Doxorubicin (Adriamycin)
+hsa-mir-146a,Doxorubicin (Adriamycin)
+hsa-mir-149,Doxorubicin (Adriamycin)
+hsa-mir-184,Doxorubicin (Adriamycin)
+hsa-mir-202,Doxorubicin (Adriamycin)
+hsa-mir-299,Doxorubicin (Adriamycin)
+hsa-mir-3117,Doxorubicin (Adriamycin)
+hsa-mir-323a,Doxorubicin (Adriamycin)
+hsa-mir-338,Doxorubicin (Adriamycin)
+hsa-mir-3681,Doxorubicin (Adriamycin)
+hsa-mir-3681,Doxorubicin (Adriamycin)
+hsa-mir-369,Doxorubicin (Adriamycin)
+hsa-mir-375,Doxorubicin (Adriamycin)
+hsa-mir-376a-1,Doxorubicin (Adriamycin)
+hsa-mir-376b,Doxorubicin (Adriamycin)
+hsa-mir-376c,Doxorubicin (Adriamycin)
+hsa-mir-377,Doxorubicin (Adriamycin)
+hsa-mir-379,Doxorubicin (Adriamycin)
+hsa-mir-380,Doxorubicin (Adriamycin)
+hsa-mir-381,Doxorubicin (Adriamycin)
+hsa-mir-383,Doxorubicin (Adriamycin)
+hsa-mir-409,Doxorubicin (Adriamycin)
+hsa-mir-410,Doxorubicin (Adriamycin)
+hsa-mir-411,Doxorubicin (Adriamycin)
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-487b,Doxorubicin (Adriamycin)
+hsa-mir-488,Doxorubicin (Adriamycin)
+hsa-mir-489,Doxorubicin (Adriamycin)
+hsa-mir-494,Doxorubicin (Adriamycin)
+hsa-mir-495,Doxorubicin (Adriamycin)
+hsa-mir-508,Doxorubicin (Adriamycin)
+hsa-mir-509-1,Doxorubicin (Adriamycin)
+hsa-mir-514a-1,Doxorubicin (Adriamycin)
+hsa-mir-584,Doxorubicin (Adriamycin)
+hsa-mir-889,Doxorubicin (Adriamycin)
+hsa-mir-122,5-Fluorouracil
+hsa-mir-122,Oxaliplatin
+hsa-mir-145,5-Fluorouracil
+hsa-mir-145,Oxaliplatin
+hsa-mir-185,5-Fluorouracil
+hsa-mir-185,Oxaliplatin
+hsa-mir-191,5-Fluorouracil
+hsa-mir-191,Oxaliplatin
+hsa-mir-20a,5-Fluorouracil
+hsa-mir-20a,Oxaliplatin
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Oxaliplatin
+hsa-mir-216a,5-Fluorouracil
+hsa-mir-216a,Oxaliplatin
+hsa-mir-24-1,5-Fluorouracil
+hsa-mir-24-1,Oxaliplatin
+hsa-mir-25,5-Fluorouracil
+hsa-mir-25,Oxaliplatin
+hsa-mir-372,5-Fluorouracil
+hsa-mir-372,Oxaliplatin
+hsa-mir-483,5-Fluorouracil
+hsa-mir-483,Oxaliplatin
+hsa-mir-618,5-Fluorouracil
+hsa-mir-618,Oxaliplatin
+hsa-mir-92a-1,5-Fluorouracil
+hsa-mir-92a-1,Oxaliplatin
+hsa-mir-99a,5-Fluorouracil
+hsa-mir-99a,Oxaliplatin
+hsa-mir-146a,Carboplatin
+hsa-mir-146a,Doxorubicin (Adriamycin)
+hsa-mir-146a,Mitomycin C
+hsa-mir-146b,Carboplatin
+hsa-mir-146b,Doxorubicin (Adriamycin)
+hsa-mir-146b,Mitomycin C
+hsa-mir-15a,Carboplatin
+hsa-mir-15a,Doxorubicin (Adriamycin)
+hsa-mir-15a,Mitomycin C
+hsa-mir-16-1,Carboplatin
+hsa-mir-16-1,Doxorubicin (Adriamycin)
+hsa-mir-16-1,Mitomycin C
+hsa-mir-181a-2,Carboplatin
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Mitomycin C
+hsa-mir-181d,Carboplatin
+hsa-mir-181d,Doxorubicin (Adriamycin)
+hsa-mir-181d,Mitomycin C
+hsa-mir-194-1,Carboplatin
+hsa-mir-194-1,Doxorubicin (Adriamycin)
+hsa-mir-194-1,Mitomycin C
+hsa-mir-27b,Carboplatin
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-27b,Mitomycin C
+hsa-mir-30b,Carboplatin
+hsa-mir-30b,Doxorubicin (Adriamycin)
+hsa-mir-30b,Mitomycin C
+hsa-mir-520h,Doxorubicin (Adriamycin)
+hsa-mir-200b,Docetaxel
+hsa-mir-328,Cisplatin
+hsa-mir-328,Hydrogen Peroxide (H2O2)
+hsa-mir-221,Doxorubicin (Adriamycin)
+hsa-mir-223,Praziquantel
+hsa-mir-21,Gefitinib
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-30d,Cisplatin
+hsa-mir-106a,Cisplatin
+hsa-mir-217,Dasatinib
+hsa-mir-205,Cisplatin
+hsa-mir-126,Bleomicin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-503,Cisplatin
+hsa-mir-223,Doxorubicin (Adriamycin)
+hsa-mir-223,Paclitaxel
+hsa-let-7c,Cisplatin
+hsa-mir-137,Cisplatin
+hsa-mir-34a,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-34a,Capsaicin
+hsa-mir-182,Cisplatin
+hsa-mir-145,5-Fluorouracil
+hsa-mir-34a,5-Fluorouracil
+hsa-mir-147a,Gefitinib
+hsa-mir-142,Levetiracetam(LEV)
+hsa-mir-142,Valproate(VAP)
+hsa-mir-206,Levetiracetam(LEV)
+hsa-mir-206,Valproate(VAP)
+hsa-mir-374a,Levetiracetam(LEV)
+hsa-mir-374a,Valproate(VAP)
+hsa-let-7g,FOLFOX Chemotherapy
+hsa-let-7i,FOLFOX Chemotherapy
+hsa-mir-101-1,FOLFOX Chemotherapy
+hsa-mir-103a-1,FOLFOX Chemotherapy
+hsa-mir-103a-2,FOLFOX Chemotherapy
+hsa-mir-103a-2,FOLFOX Chemotherapy
+hsa-mir-106a,FOLFOX Chemotherapy
+hsa-mir-107,FOLFOX Chemotherapy
+hsa-mir-10a,FOLFOX Chemotherapy
+hsa-mir-10b,FOLFOX Chemotherapy
+hsa-mir-122,FOLFOX Chemotherapy
+hsa-mir-122,FOLFOX Chemotherapy
+hsa-mir-125b-1,FOLFOX Chemotherapy
+hsa-mir-133b,FOLFOX Chemotherapy
+hsa-mir-142,FOLFOX Chemotherapy
+hsa-mir-144,FOLFOX Chemotherapy
+hsa-mir-144,FOLFOX Chemotherapy
+hsa-mir-146a,FOLFOX Chemotherapy
+hsa-mir-148a,FOLFOX Chemotherapy
+hsa-mir-148b,FOLFOX Chemotherapy
+hsa-mir-15a,FOLFOX Chemotherapy
+hsa-mir-181a-2,FOLFOX Chemotherapy
+hsa-mir-185,FOLFOX Chemotherapy
+hsa-mir-18a,FOLFOX Chemotherapy
+hsa-mir-18a,FOLFOX Chemotherapy
+hsa-mir-192,FOLFOX Chemotherapy
+hsa-mir-193b,FOLFOX Chemotherapy
+hsa-mir-199a-1,FOLFOX Chemotherapy
+hsa-mir-19a,Chemotherapy
+hsa-mir-19a,FOLFOX Chemotherapy
+hsa-mir-19b-1,FOLFOX Chemotherapy
+hsa-mir-205,FOLFOX Chemotherapy
+hsa-mir-20a,FOLFOX Chemotherapy
+hsa-mir-20b,FOLFOX Chemotherapy
+hsa-mir-21,FOLFOX Chemotherapy
+hsa-mir-210,FOLFOX Chemotherapy
+hsa-mir-215,FOLFOX Chemotherapy
+hsa-mir-22,FOLFOX Chemotherapy
+hsa-mir-221,FOLFOX Chemotherapy
+hsa-mir-221,FOLFOX Chemotherapy
+hsa-mir-222,FOLFOX Chemotherapy
+hsa-mir-222,FOLFOX Chemotherapy
+hsa-mir-26b,FOLFOX Chemotherapy
+hsa-mir-29a,FOLFOX Chemotherapy
+hsa-mir-29b-1,FOLFOX Chemotherapy
+hsa-mir-29c,FOLFOX Chemotherapy
+hsa-mir-30a,FOLFOX Chemotherapy
+hsa-mir-30e,FOLFOX Chemotherapy
+hsa-mir-32,FOLFOX Chemotherapy
+hsa-mir-324,FOLFOX Chemotherapy
+hsa-mir-331,FOLFOX Chemotherapy
+hsa-mir-335,FOLFOX Chemotherapy
+hsa-mir-339,FOLFOX Chemotherapy
+hsa-mir-34a,FOLFOX Chemotherapy
+hsa-mir-365a,FOLFOX Chemotherapy
+hsa-mir-409,FOLFOX Chemotherapy
+hsa-mir-423,FOLFOX Chemotherapy
+hsa-mir-451a,FOLFOX Chemotherapy
+hsa-mir-501,FOLFOX Chemotherapy
+hsa-mir-502,FOLFOX Chemotherapy
+hsa-mir-543,FOLFOX Chemotherapy
+hsa-mir-652,FOLFOX Chemotherapy
+hsa-mir-660,FOLFOX Chemotherapy
+hsa-mir-99a,FOLFOX Chemotherapy
+hsa-mir-21,Gemcitabine
+hsa-mir-16-1,Cisplatin
+hsa-mir-16-1,Doxorubicin (Adriamycin)
+hsa-mir-183,Cisplatin
+hsa-mir-193a,Cisplatin
+hsa-mir-296,Cisplatin
+hsa-mir-296,Doxorubicin (Adriamycin)
+hsa-mir-296,Paclitaxel
+hsa-mir-132,Chemotherapy
+hsa-mir-140,Chemotherapy
+hsa-mir-143,Chemotherapy
+hsa-mir-145,Chemotherapy
+hsa-mir-15b,Chemotherapy
+hsa-mir-17,Chemotherapy
+hsa-mir-181a-2,Chemotherapy
+hsa-mir-200a,Chemotherapy
+hsa-mir-200c,Chemotherapy
+hsa-mir-21,Chemotherapy
+hsa-mir-215,Chemotherapy
+hsa-mir-221,Chemotherapy
+hsa-mir-23a,Chemotherapy
+hsa-mir-25,Chemotherapy
+hsa-mir-26b,Chemotherapy
+hsa-mir-30a,Chemotherapy
+hsa-mir-33a,Cisplatin
+hsa-mir-34c,Chemotherapy
+hsa-mir-363,Chemotherapy
+hsa-mir-375,Chemotherapy
+hsa-mir-422a,Chemotherapy
+hsa-mir-451a,Chemotherapy
+hsa-mir-611,Chemotherapy
+hsa-mir-625,Chemotherapy
+hsa-mir-92a-1,Chemotherapy
+hsa-mir-21,Cisplatin
+hsa-mir-133a-1,Sunitinib
+hsa-mir-484,Sunitinib
+hsa-mir-628,Sunitinib
+hsa-mir-942,Sunitinib
+hsa-mir-503,Cisplatin
+hsa-mir-130a,Cisplatin
+hsa-mir-145,Paclitaxel
+hsa-mir-27a,Cisplatin
+hsa-mir-30c-1,Doxorubicin (Adriamycin)
+hsa-mir-34a,Erlotinib
+hsa-mir-29b-1,Ethanol
+hsa-mir-100,Cisplatin
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-100,Etoposide
+hsa-mir-26b,Doxorubicin (Adriamycin)
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-100,Cisplatin
+hsa-mir-375,Trastuzumab
+hsa-let-7c,Cisplatin
+hsa-mir-100,Cisplatin
+hsa-mir-100,Cisplatin
+hsa-mir-10a,Cisplatin
+hsa-mir-125b-1,Cisplatin
+hsa-mir-133a-1,Cisplatin
+hsa-mir-139,Cisplatin
+hsa-mir-181c,Cisplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-33a,Cisplatin
+hsa-mir-34a,Cisplatin
+hsa-mir-383,Cisplatin
+hsa-mir-486-1,Cisplatin
+hsa-mir-221,Chemotherapy
+hsa-mir-107,Paclitaxel
+hsa-mir-187,Paclitaxel
+hsa-mir-195,Paclitaxel
+hsa-mir-363,Paclitaxel
+hsa-mir-376a-1,Paclitaxel
+hsa-mir-411,Paclitaxel
+hsa-mir-497,Paclitaxel
+hsa-mir-517a,Paclitaxel
+hsa-mir-589,Paclitaxel
+hsa-mir-622,Paclitaxel
+hsa-mir-647,Paclitaxel
+hsa-mir-663a,Paclitaxel
+hsa-mir-10a,Cytarabine
+hsa-mir-10b,Cytarabine
+hsa-mir-125b-1,Daunorubicin
+hsa-mir-130a,Gefitinib
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-22,Cisplatin
+hsa-mir-22,Doxorubicin (Adriamycin)
+hsa-mir-21,Cisplatin
+hsa-mir-200c,Trastuzumab
+hsa-mir-141,Cisplatin
+hsa-mir-130b,Imatinib
+hsa-mir-146a,Imatinib
+hsa-mir-26a-1,Imatinib
+hsa-mir-29c,Imatinib
+hsa-mir-125b-1,Temozolomide
+hsa-mir-452,Docetaxel
+hsa-mir-630,Lapatinib
+hsa-mir-630,Neratinib
+hsa-let-7a-1,Cisplatin
+hsa-let-7b,Cisplatin
+hsa-let-7d,Cisplatin
+hsa-let-7f-1,Cisplatin
+hsa-let-7g,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-1275,Cisplatin
+hsa-mir-138-1,Cisplatin
+hsa-mir-141,Cisplatin
+hsa-mir-199a-1,Cisplatin
+hsa-mir-199b,Cisplatin
+hsa-mir-200a,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-221,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-31,Cisplatin
+hsa-mir-363,Cisplatin
+hsa-mir-452,Cisplatin
+hsa-mir-542,Cisplatin
+hsa-mir-675,Cisplatin
+hsa-mir-98,Cisplatin
+hsa-mir-99a,Cisplatin
+hsa-mir-497,Gemcitabine
+hsa-mir-940,Cisplatin
+hsa-mir-199b,Imatinib
+hsa-mir-489,Cisplatin
+hsa-mir-21,Teniposide
+hsa-let-7i,Tamoxifen
+hsa-mir-100,Docetaxel
+hsa-mir-100,Docetaxel
+hsa-mir-105-1,Docetaxel
+hsa-mir-125a,Docetaxel
+hsa-mir-1267,Docetaxel
+hsa-mir-135b,Docetaxel
+hsa-mir-135b,Docetaxel
+hsa-mir-146a,Docetaxel
+hsa-mir-146a,Docetaxel
+hsa-mir-146b,Docetaxel
+hsa-mir-151a,Docetaxel
+hsa-mir-152,Docetaxel
+hsa-mir-15a,Docetaxel
+hsa-mir-191,Docetaxel
+hsa-mir-191,Docetaxel
+hsa-mir-194-1,Docetaxel
+hsa-mir-196b,Docetaxel
+hsa-mir-200a,Docetaxel
+hsa-mir-200a,Docetaxel
+hsa-mir-200b,Docetaxel
+hsa-mir-200b,Docetaxel
+hsa-mir-200c,Docetaxel
+hsa-mir-203a,Docetaxel
+hsa-mir-205,Docetaxel
+hsa-mir-20b,Docetaxel
+hsa-mir-210,Docetaxel
+hsa-mir-24-1,Docetaxel
+hsa-mir-25,Docetaxel
+hsa-mir-26b,Docetaxel
+hsa-mir-27a,Docetaxel
+hsa-mir-301a,Docetaxel
+hsa-mir-301a,Docetaxel
+hsa-mir-301b,Docetaxel
+hsa-mir-30a,Docetaxel
+hsa-mir-30e,Docetaxel
+hsa-mir-342,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-34b,Docetaxel
+hsa-mir-375,Docetaxel
+hsa-mir-429,Docetaxel
+hsa-mir-429,Docetaxel
+hsa-mir-454,Docetaxel
+hsa-mir-455,Docetaxel
+hsa-mir-486-1,Docetaxel
+hsa-mir-489,Docetaxel
+hsa-mir-590,Docetaxel
+hsa-mir-598,Docetaxel
+hsa-mir-767,Docetaxel
+hsa-mir-9-1,Docetaxel
+hsa-mir-95,Docetaxel
+hsa-mir-96,Docetaxel
+hsa-mir-99a,Docetaxel
+hsa-mir-99b,Docetaxel
+hsa-mir-210,Asparaginase
+hsa-mir-210,Daunorubicin
+hsa-mir-210,Dexamethasone
+hsa-mir-17,Cisplatin
+hsa-mir-20a,Cisplatin
+hsa-mir-20b,Cisplatin
+hsa-mir-221,Gefitinib
+hsa-mir-222,Gefitinib
+hsa-mir-30b,Gefitinib
+hsa-mir-30c-1,Gefitinib
+hsa-mir-223,DAPT (GSI-IX)
+hsa-mir-100,Docetaxel
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-17,Docetaxel
+hsa-mir-17,Doxorubicin (Adriamycin)
+hsa-mir-222,Docetaxel
+hsa-mir-222,Doxorubicin (Adriamycin)
+hsa-mir-342,Docetaxel
+hsa-mir-342,Doxorubicin (Adriamycin)
+hsa-mir-451a,Docetaxel
+hsa-mir-451a,Doxorubicin (Adriamycin)
+hsa-mir-302a,Interferon-alpha
+hsa-mir-181c,Tamoxifen
+hsa-mir-181d,Tamoxifen
+hsa-mir-199a-1,Tamoxifen
+hsa-mir-300,Tamoxifen
+hsa-mir-330,Tamoxifen
+hsa-mir-512-1,Tamoxifen
+hsa-mir-515-1,Tamoxifen
+hsa-mir-516a-1,Tamoxifen
+hsa-mir-517c,Tamoxifen
+hsa-mir-518b,Tamoxifen
+hsa-mir-518c,Tamoxifen
+hsa-mir-518e,Tamoxifen
+hsa-mir-518f,Tamoxifen
+hsa-mir-513a-1,Tamoxifen
+hsa-mir-519c,Tamoxifen
+hsa-mir-519d,Tamoxifen
+hsa-mir-519e,Tamoxifen
+hsa-mir-520b,Tamoxifen
+hsa-mir-520h,Tamoxifen
+hsa-mir-521-1,Tamoxifen
+hsa-mir-522,Tamoxifen
+hsa-mir-642a,Tamoxifen
+hsa-mir-7-1,Tamoxifen
+hsa-mir-769,Tamoxifen
+hsa-mir-935,Tamoxifen
+hsa-let-7a-1,Paclitaxel
+hsa-mir-101-1,Paclitaxel
+hsa-mir-106a,Paclitaxel
+hsa-mir-1246,Paclitaxel
+hsa-mir-1275,Paclitaxel
+hsa-mir-1290,Paclitaxel
+hsa-mir-16-1,Paclitaxel
+hsa-mir-17,Paclitaxel
+hsa-mir-1973,Paclitaxel
+hsa-mir-19a,Paclitaxel
+hsa-mir-20a,Paclitaxel
+hsa-mir-27a,Paclitaxel
+hsa-mir-3074,Paclitaxel
+hsa-mir-31,Paclitaxel
+hsa-mir-3196,Paclitaxel
+hsa-mir-365a,Paclitaxel
+hsa-mir-374a,Paclitaxel
+hsa-mir-4284,Paclitaxel
+hsa-mir-4288,Paclitaxel
+hsa-mir-483,Paclitaxel
+hsa-mir-513a-1,Paclitaxel
+hsa-mir-676,Paclitaxel
+hsa-mir-181b-1,Cytarabine
+hsa-mir-181b-1,Doxorubicin (Adriamycin)
+hsa-let-7e,Doxorubicin (Adriamycin)
+hsa-let-7e,Vincristine
+hsa-mir-100,Doxorubicin (Adriamycin)
+hsa-mir-100,Vincristine
+hsa-mir-1246,Doxorubicin (Adriamycin)
+hsa-mir-1246,Vincristine
+hsa-mir-125a,Doxorubicin (Adriamycin)
+hsa-mir-125a,Vincristine
+hsa-mir-148a,Doxorubicin (Adriamycin)
+hsa-mir-148a,Vincristine
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Vincristine
+hsa-mir-181b-1,Doxorubicin (Adriamycin)
+hsa-mir-181b-1,Vincristine
+hsa-mir-342,Doxorubicin (Adriamycin)
+hsa-mir-342,Vincristine
+hsa-mir-378a,Doxorubicin (Adriamycin)
+hsa-mir-378a,Vincristine
+hsa-mir-425,Doxorubicin (Adriamycin)
+hsa-mir-425,Vincristine
+hsa-mir-4430,Doxorubicin (Adriamycin)
+hsa-mir-4430,Vincristine
+hsa-mir-494,Doxorubicin (Adriamycin)
+hsa-mir-494,Vincristine
+hsa-mir-7-1,Doxorubicin (Adriamycin)
+hsa-mir-7-1,Vincristine
+hsa-mir-99b,Doxorubicin (Adriamycin)
+hsa-mir-99b,Vincristine
+hsa-mir-185,Cisplatin
+hsa-mir-185,Doxorubicin (Adriamycin)
+hsa-mir-29b-1,chemotherapy
+hsa-mir-200b,Cisplatin
+hsa-mir-200b,Doxorubicin (Adriamycin)
+hsa-mir-200b,Etoposide
+hsa-mir-125b-1,Rituximab
+hsa-mir-221,Carmustine
+hsa-mir-489,Doxorubicin (Adriamycin)
+hsa-mir-130a,Doxorubicin (Adriamycin)
+hsa-mir-451a,Doxorubicin (Adriamycin)
+hsa-let-7g,5-Fluorouracil
+hsa-mir-34c,Cisplatin
+hsa-mir-34c,Doxorubicin (Adriamycin)
+hsa-mir-34c,Methotrexate
+hsa-mir-429,Cisplatin
+hsa-mir-106b,Chemotherapy
+hsa-mir-152,Chemotherapy
+hsa-mir-200a,Chemotherapy
+hsa-mir-381,Chemotherapy
+hsa-mir-429,Chemotherapy
+hsa-mir-1287,Paclitaxel
+hsa-mir-130a,Paclitaxel
+hsa-mir-181a-2,Paclitaxel
+hsa-mir-193b,Paclitaxel
+hsa-mir-224,Paclitaxel
+hsa-mir-224,Paclitaxel
+hsa-mir-3127,Paclitaxel
+hsa-mir-424,Paclitaxel
+hsa-mir-452,Paclitaxel
+hsa-mir-4713,Paclitaxel
+hsa-mir-200b,Docetaxel
+hsa-mir-374a,Gefitinib
+hsa-mir-548b,Gefitinib
+hsa-mir-205,Gemcitabine
+hsa-mir-125b-1,5-Fluorouracil
+hsa-mir-10b,Chemotherapy
+hsa-mir-10b,Chemotherapy
+hsa-mir-1233-1,Chemotherapy
+hsa-mir-129-1,Chemotherapy
+hsa-mir-135b,Chemotherapy
+hsa-mir-148a,Chemotherapy
+hsa-mir-182,Chemotherapy
+hsa-mir-183,Chemotherapy
+hsa-mir-193a,Chemotherapy
+hsa-mir-200b,Chemotherapy
+hsa-mir-22,Chemotherapy
+hsa-mir-302a,Chemotherapy
+hsa-mir-30a,Chemotherapy
+hsa-mir-33b,Chemotherapy
+hsa-mir-34b,Chemotherapy
+hsa-mir-371a,Chemotherapy
+hsa-mir-424,Chemotherapy
+hsa-mir-431,Chemotherapy
+hsa-mir-488,Chemotherapy
+hsa-mir-491,Chemotherapy
+hsa-mir-492,Chemotherapy
+hsa-mir-498,Chemotherapy
+hsa-mir-509-3,Chemotherapy
+hsa-mir-513a-1,Chemotherapy
+hsa-mir-517b,Chemotherapy
+hsa-mir-545,Chemotherapy
+hsa-mir-592,Chemotherapy
+hsa-mir-597,Chemotherapy
+hsa-mir-625,Chemotherapy
+hsa-mir-628,Chemotherapy
+hsa-mir-629,Chemotherapy
+hsa-mir-641,Chemotherapy
+hsa-mir-7-1,Chemotherapy
+hsa-mir-708,Chemotherapy
+hsa-mir-7-1,Chemotherapy
+hsa-mir-96,Chemotherapy
+hsa-mir-192,Cisplatin
+hsa-mir-1236,Doxorubicin (Adriamycin)
+hsa-mir-1236,Prednisone (R-CHOP)
+hsa-mir-1236,Vincristine
+hsa-mir-1256,Doxorubicin (Adriamycin)
+hsa-mir-1256,Prednisone (R-CHOP)
+hsa-mir-1256,Vincristine
+hsa-mir-129-1,Doxorubicin (Adriamycin)
+hsa-mir-129-1,Prednisone (R-CHOP)
+hsa-mir-129-1,Vincristine
+hsa-mir-138-1,Doxorubicin (Adriamycin)
+hsa-mir-138-1,Prednisone (R-CHOP)
+hsa-mir-138-1,Vincristine
+hsa-mir-187,Doxorubicin (Adriamycin)
+hsa-mir-187,Prednisone (R-CHOP)
+hsa-mir-187,Vincristine
+hsa-mir-191,Doxorubicin (Adriamycin)
+hsa-mir-191,Prednisone (R-CHOP)
+hsa-mir-191,Vincristine
+hsa-mir-214,Doxorubicin (Adriamycin)
+hsa-mir-214,Prednisone (R-CHOP)
+hsa-mir-214,Vincristine
+hsa-mir-224,Doxorubicin (Adriamycin)
+hsa-mir-224,Prednisone (R-CHOP)
+hsa-mir-224,Vincristine
+hsa-mir-29b-2,Doxorubicin (Adriamycin)
+hsa-mir-29b-2,Prednisone (R-CHOP)
+hsa-mir-29b-2,Vincristine
+hsa-mir-33a,Doxorubicin (Adriamycin)
+hsa-mir-33a,Prednisone (R-CHOP)
+hsa-mir-33a,Vincristine
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-455,Prednisone (R-CHOP)
+hsa-mir-455,Vincristine
+hsa-mir-542,Doxorubicin (Adriamycin)
+hsa-mir-542,Prednisone (R-CHOP)
+hsa-mir-542,Vincristine
+hsa-mir-876,Doxorubicin (Adriamycin)
+hsa-mir-876,Prednisone (R-CHOP)
+hsa-mir-876,Vincristine
+hsa-mir-21,Cisplatin
+hsa-mir-125b-1,5-Fluorouracil
+hsa-mir-520a,Capsaicin
+hsa-mir-17,Etoposide
+hsa-mir-20a,Etoposide
+hsa-mir-1271,Cisplatin
+hsa-mir-122,5-Fluorouracil
+hsa-mir-125b-1,Temozolomide
+hsa-mir-21,Cisplatin
+hsa-mir-17,5-Fluorouracil
+hsa-mir-17,Irinotecan
+hsa-mir-17,Oxaliplatin
+hsa-mir-342,Cisplatin
+hsa-mir-342,Paclitaxel
+hsa-mir-224,Cisplatin
+hsa-mir-221,Tamoxifen
+hsa-mir-222,Tamoxifen
+hsa-mir-503,Cisplatin
+hsa-mir-211,Gemcitabine
+hsa-mir-424,Doxorubicin (Adriamycin)
+hsa-mir-424,Etoposide
+hsa-mir-196a-1,Docetaxel
+hsa-mir-21,Docetaxel
+hsa-mir-222,Docetaxel
+hsa-mir-29a,Docetaxel
+hsa-mir-34a,TRAIL therapy
+hsa-mir-942,TRAIL therapy
+hsa-mir-146a,Paclitaxel
+hsa-mir-21,Paclitaxel
+hsa-mir-34a,Gefitinib
+hsa-mir-17,Doxorubicin (Adriamycin)
+hsa-mir-29b-1,Paclitaxel
+hsa-mir-203a,AG1478
+hsa-mir-203a,Canertinib HCl
+hsa-mir-221,Tamoxifen
+hsa-mir-222,Tamoxifen
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-182,Cisplatin
+hsa-mir-101-1,Doxorubicin (Adriamycin)
+hsa-mir-101-1,Sirolimus
+hsa-let-7f-1,Cisplatin
+hsa-mir-224,Cisplatin
+hsa-mir-128-1,Temozolomide
+hsa-mir-149,Temozolomide
+hsa-mir-25,Epirubicin
+hsa-mir-204,5-Fluorouracil
+hsa-mir-204,Cyclophosphamide
+hsa-mir-204,Epirubicin
+hsa-mir-193b,Sorafenib
+hsa-mir-34a,Cisplatin
+hsa-mir-425,Sorafenib
+hsa-mir-452,Doxorubicin (Adriamycin)
+hsa-mir-135a-1,Docetaxel
+hsa-mir-146a,Docetaxel
+hsa-mir-146a,Docetaxel
+hsa-mir-146a,Docetaxel
+hsa-mir-148a,Docetaxel
+hsa-mir-148a,Docetaxel
+hsa-mir-203a,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-34a,Docetaxel
+hsa-mir-383,Docetaxel
+hsa-mir-598,Docetaxel
+hsa-mir-598,Docetaxel
+hsa-mir-21,Gefitinib
+hsa-mir-370,Cisplatin
+hsa-mir-497,Temozolomide
+hsa-mir-551b,Cisplatin
+hsa-mir-551b,Doxorubicin (Adriamycin)
+hsa-mir-551b,TRAIL therapy
+hsa-mir-222,Sorafenib
+hsa-mir-502,Cisplatin
+hsa-mir-101-1,Cisplatin
+hsa-let-7d,5-Fluorouracil
+hsa-let-7d,Gemcitabine
+hsa-let-7f-1,5-Fluorouracil
+hsa-let-7f-1,Gemcitabine
+hsa-let-7i,5-Fluorouracil
+hsa-let-7i,Gemcitabine
+hsa-mir-101-1,5-Fluorouracil
+hsa-mir-101-1,Gemcitabine
+hsa-mir-106a,5-Fluorouracil
+hsa-mir-106a,Gemcitabine
+hsa-mir-1202,5-Fluorouracil
+hsa-mir-1202,Gemcitabine
+hsa-mir-1226,5-Fluorouracil
+hsa-mir-1226,Gemcitabine
+hsa-mir-1228,5-Fluorouracil
+hsa-mir-1228,Gemcitabine
+hsa-mir-1228,5-Fluorouracil
+hsa-mir-1228,Gemcitabine
+hsa-mir-1234,5-Fluorouracil
+hsa-mir-1234,Gemcitabine
+hsa-mir-1236,5-Fluorouracil
+hsa-mir-1236,Gemcitabine
+hsa-mir-1237,5-Fluorouracil
+hsa-mir-1237,Gemcitabine
+hsa-mir-1246,5-Fluorouracil
+hsa-mir-1246,Gemcitabine
+hsa-mir-1249,5-Fluorouracil
+hsa-mir-1249,Gemcitabine
+hsa-mir-1260a,5-Fluorouracil
+hsa-mir-1260a,Gemcitabine
+hsa-mir-1260b,5-Fluorouracil
+hsa-mir-1260b,Gemcitabine
+hsa-mir-1268a,5-Fluorouracil
+hsa-mir-1268a,Gemcitabine
+hsa-mir-1273c,5-Fluorouracil
+hsa-mir-1273c,Gemcitabine
+hsa-mir-1285-1,5-Fluorouracil
+hsa-mir-1285-1,Gemcitabine
+hsa-mir-1288,5-Fluorouracil
+hsa-mir-1288,Gemcitabine
+hsa-mir-1290,5-Fluorouracil
+hsa-mir-1290,Gemcitabine
+hsa-mir-1307,5-Fluorouracil
+hsa-mir-1307,Gemcitabine
+hsa-mir-130a,5-Fluorouracil
+hsa-mir-130a,5-Fluorouracil
+hsa-mir-130a,Gemcitabine
+hsa-mir-130a,Gemcitabine
+hsa-mir-132,5-Fluorouracil
+hsa-mir-132,Gemcitabine
+hsa-mir-1343,5-Fluorouracil
+hsa-mir-1343,Gemcitabine
+hsa-mir-138-1,5-Fluorouracil
+hsa-mir-138-1,Gemcitabine
+hsa-mir-140,5-Fluorouracil
+hsa-mir-140,Gemcitabine
+hsa-mir-141,5-Fluorouracil
+hsa-mir-141,Gemcitabine
+hsa-mir-1469,5-Fluorouracil
+hsa-mir-1469,Gemcitabine
+hsa-mir-146a,5-Fluorouracil
+hsa-mir-146a,Gemcitabine
+hsa-mir-147b,5-Fluorouracil
+hsa-mir-147b,Gemcitabine
+hsa-mir-148b,5-Fluorouracil
+hsa-mir-148b,Gemcitabine
+hsa-mir-149,5-Fluorouracil
+hsa-mir-149,Gemcitabine
+hsa-mir-15b,5-Fluorouracil
+hsa-mir-155,5-Fluorouracil
+hsa-mir-15b,Gemcitabine
+hsa-mir-155,Gemcitabine
+hsa-mir-15b,5-Fluorouracil
+hsa-mir-15b,Gemcitabine
+hsa-mir-17,5-Fluorouracil
+hsa-mir-17,Gemcitabine
+hsa-mir-17,5-Fluorouracil
+hsa-mir-17,Gemcitabine
+hsa-mir-181a-2,5-Fluorouracil
+hsa-mir-181a-2,Gemcitabine
+hsa-mir-181a-2,5-Fluorouracil
+hsa-mir-181a-2,Gemcitabine
+hsa-mir-181d,5-Fluorouracil
+hsa-mir-181d,Gemcitabine
+hsa-mir-1825,5-Fluorouracil
+hsa-mir-1825,Gemcitabine
+hsa-mir-187,5-Fluorouracil
+hsa-mir-187,Gemcitabine
+hsa-mir-188,5-Fluorouracil
+hsa-mir-188,Gemcitabine
+hsa-mir-18a,5-Fluorouracil
+hsa-mir-18a,Gemcitabine
+hsa-mir-18b,5-Fluorouracil
+hsa-mir-18b,Gemcitabine
+hsa-mir-1908,5-Fluorouracil
+hsa-mir-1908,Gemcitabine
+hsa-mir-191,5-Fluorouracil
+hsa-mir-191,Gemcitabine
+hsa-mir-1913,5-Fluorouracil
+hsa-mir-1913,Gemcitabine
+hsa-mir-1914,5-Fluorouracil
+hsa-mir-1914,Gemcitabine
+hsa-mir-1915,5-Fluorouracil
+hsa-mir-1915,Gemcitabine
+hsa-mir-193a,5-Fluorouracil
+hsa-mir-193a,Gemcitabine
+hsa-mir-193b,5-Fluorouracil
+hsa-mir-193b,Gemcitabine
+hsa-mir-196b,5-Fluorouracil
+hsa-mir-196b,Gemcitabine
+hsa-mir-1972-1,5-Fluorouracil
+hsa-mir-1972-1,Gemcitabine
+hsa-mir-1976,5-Fluorouracil
+hsa-mir-1976,Gemcitabine
+hsa-mir-19b-1,5-Fluorouracil
+hsa-mir-19b-1,Gemcitabine
+hsa-mir-19b-1,5-Fluorouracil
+hsa-mir-19b-1,Gemcitabine
+hsa-mir-200a,5-Fluorouracil
+hsa-mir-200a,Gemcitabine
+hsa-mir-200b,5-Fluorouracil
+hsa-mir-200b,Gemcitabine
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-200c,Gemcitabine
+hsa-mir-205,5-Fluorouracil
+hsa-mir-205,Gemcitabine
+hsa-mir-20a,5-Fluorouracil
+hsa-mir-20a,Gemcitabine
+hsa-mir-20b,5-Fluorouracil
+hsa-mir-20b,Gemcitabine
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Gemcitabine
+hsa-mir-210,5-Fluorouracil
+hsa-mir-210,Gemcitabine
+hsa-mir-218-1,5-Fluorouracil
+hsa-mir-218-1,Gemcitabine
+hsa-mir-22,5-Fluorouracil
+hsa-mir-22,Gemcitabine
+hsa-mir-221,5-Fluorouracil
+hsa-mir-221,Gemcitabine
+hsa-mir-222,5-Fluorouracil
+hsa-mir-222,Gemcitabine
+hsa-mir-224,5-Fluorouracil
+hsa-mir-224,Gemcitabine
+hsa-mir-2355,5-Fluorouracil
+hsa-mir-2355,Gemcitabine
+hsa-mir-2467,5-Fluorouracil
+hsa-mir-2467,Gemcitabine
+hsa-mir-2861,5-Fluorouracil
+hsa-mir-2861,Gemcitabine
+hsa-mir-29a,5-Fluorouracil
+hsa-mir-29a,Gemcitabine
+hsa-mir-29b-1,5-Fluorouracil
+hsa-mir-29b-1,Gemcitabine
+hsa-mir-29b-1,5-Fluorouracil
+hsa-mir-29b-1,Gemcitabine
+hsa-mir-301a,5-Fluorouracil
+hsa-mir-301a,Gemcitabine
+hsa-mir-301b,5-Fluorouracil
+hsa-mir-301b,Gemcitabine
+hsa-mir-3064,5-Fluorouracil
+hsa-mir-3064,Gemcitabine
+hsa-mir-3065,5-Fluorouracil
+hsa-mir-3065,Gemcitabine
+hsa-mir-30a,5-Fluorouracil
+hsa-mir-30a,Gemcitabine
+hsa-mir-30d,5-Fluorouracil
+hsa-mir-30d,Gemcitabine
+hsa-mir-30e,5-Fluorouracil
+hsa-mir-30e,Gemcitabine
+hsa-mir-31,5-Fluorouracil
+hsa-mir-31,Gemcitabine
+hsa-mir-3126,5-Fluorouracil
+hsa-mir-3126,Gemcitabine
+hsa-mir-3130-1,5-Fluorouracil
+hsa-mir-3130-1,Gemcitabine
+hsa-mir-3131,5-Fluorouracil
+hsa-mir-3131,Gemcitabine
+hsa-mir-3141,5-Fluorouracil
+hsa-mir-3141,Gemcitabine
+hsa-mir-3147,5-Fluorouracil
+hsa-mir-3147,Gemcitabine
+hsa-mir-3154,5-Fluorouracil
+hsa-mir-3154,Gemcitabine
+hsa-mir-3173,5-Fluorouracil
+hsa-mir-3173,Gemcitabine
+hsa-mir-3177,5-Fluorouracil
+hsa-mir-3177,Gemcitabine
+hsa-mir-3178,5-Fluorouracil
+hsa-mir-3178,Gemcitabine
+hsa-mir-3180-1,5-Fluorouracil
+hsa-mir-3180-1,Gemcitabine
+hsa-mir-3184,5-Fluorouracil
+hsa-mir-3184,Gemcitabine
+hsa-mir-3186,5-Fluorouracil
+hsa-mir-3186,Gemcitabine
+hsa-mir-3187,5-Fluorouracil
+hsa-mir-3187,Gemcitabine
+hsa-mir-3188,5-Fluorouracil
+hsa-mir-3188,Gemcitabine
+hsa-mir-3193,5-Fluorouracil
+hsa-mir-3193,Gemcitabine
+hsa-mir-3194,5-Fluorouracil
+hsa-mir-3194,Gemcitabine
+hsa-mir-3195,5-Fluorouracil
+hsa-mir-3195,Gemcitabine
+hsa-mir-32,5-Fluorouracil
+hsa-mir-32,Gemcitabine
+hsa-mir-3200,5-Fluorouracil
+hsa-mir-3200,Gemcitabine
+hsa-mir-323a,5-Fluorouracil
+hsa-mir-323a,Gemcitabine
+hsa-mir-324,5-Fluorouracil
+hsa-mir-324,5-Fluorouracil
+hsa-mir-324,Gemcitabine
+hsa-mir-324,Gemcitabine
+hsa-mir-328,5-Fluorouracil
+hsa-mir-328,Gemcitabine
+hsa-mir-330,5-Fluorouracil
+hsa-mir-330,5-Fluorouracil
+hsa-mir-330,Gemcitabine
+hsa-mir-330,Gemcitabine
+hsa-mir-338,5-Fluorouracil
+hsa-mir-338,Gemcitabine
+hsa-mir-339,5-Fluorouracil
+hsa-mir-339,Gemcitabine
+hsa-mir-33a,5-Fluorouracil
+hsa-mir-33a,Gemcitabine
+hsa-mir-345,5-Fluorouracil
+hsa-mir-345,Gemcitabine
+hsa-mir-346,5-Fluorouracil
+hsa-mir-346,Gemcitabine
+hsa-mir-361,5-Fluorouracil
+hsa-mir-361,Gemcitabine
+hsa-mir-3619,5-Fluorouracil
+hsa-mir-3619,Gemcitabine
+hsa-mir-362,5-Fluorouracil
+hsa-mir-362,Gemcitabine
+hsa-mir-3620,5-Fluorouracil
+hsa-mir-3620,Gemcitabine
+hsa-mir-3621,5-Fluorouracil
+hsa-mir-3621,Gemcitabine
+hsa-mir-3665,5-Fluorouracil
+hsa-mir-3665,Gemcitabine
+hsa-mir-3682,5-Fluorouracil
+hsa-mir-3682,Gemcitabine
+hsa-mir-370,5-Fluorouracil
+hsa-mir-370,Gemcitabine
+hsa-mir-371a,5-Fluorouracil
+hsa-mir-371a,Gemcitabine
+hsa-mir-373,5-Fluorouracil
+hsa-mir-373,Gemcitabine
+hsa-mir-378a,5-Fluorouracil
+hsa-mir-378a,Gemcitabine
+hsa-mir-378c,5-Fluorouracil
+hsa-mir-378c,Gemcitabine
+hsa-mir-378d-1,5-Fluorouracil
+hsa-mir-378d-1,Gemcitabine
+hsa-mir-378e,5-Fluorouracil
+hsa-mir-378e,Gemcitabine
+hsa-mir-378f,5-Fluorouracil
+hsa-mir-378f,Gemcitabine
+hsa-mir-378g,5-Fluorouracil
+hsa-mir-378g,Gemcitabine
+hsa-mir-378i,5-Fluorouracil
+hsa-mir-378i,Gemcitabine
+hsa-mir-3917,5-Fluorouracil
+hsa-mir-3917,Gemcitabine
+hsa-mir-3937,5-Fluorouracil
+hsa-mir-3937,Gemcitabine
+hsa-mir-3940,5-Fluorouracil
+hsa-mir-3940,Gemcitabine
+hsa-mir-3940,5-Fluorouracil
+hsa-mir-3940,Gemcitabine
+hsa-mir-421,5-Fluorouracil
+hsa-mir-421,Gemcitabine
+hsa-mir-422a,5-Fluorouracil
+hsa-mir-422a,Gemcitabine
+hsa-mir-423,5-Fluorouracil
+hsa-mir-423,Gemcitabine
+hsa-mir-424,5-Fluorouracil
+hsa-mir-424,5-Fluorouracil
+hsa-mir-424,Gemcitabine
+hsa-mir-424,Gemcitabine
+hsa-mir-425,5-Fluorouracil
+hsa-mir-425,Gemcitabine
+hsa-mir-425,5-Fluorouracil
+hsa-mir-425,Gemcitabine
+hsa-mir-4257,5-Fluorouracil
+hsa-mir-4257,Gemcitabine
+hsa-mir-4258,5-Fluorouracil
+hsa-mir-4258,Gemcitabine
+hsa-mir-4261,5-Fluorouracil
+hsa-mir-4261,Gemcitabine
+hsa-mir-4279,5-Fluorouracil
+hsa-mir-4279,Gemcitabine
+hsa-mir-4284,5-Fluorouracil
+hsa-mir-4284,Gemcitabine
+hsa-mir-4286,5-Fluorouracil
+hsa-mir-4286,Gemcitabine
+hsa-mir-4288,5-Fluorouracil
+hsa-mir-4288,5-Fluorouracil
+hsa-mir-4288,Gemcitabine
+hsa-mir-4288,Gemcitabine
+hsa-mir-429,5-Fluorouracil
+hsa-mir-429,Gemcitabine
+hsa-mir-4319,5-Fluorouracil
+hsa-mir-4319,Gemcitabine
+hsa-mir-4428,5-Fluorouracil
+hsa-mir-4428,Gemcitabine
+hsa-mir-4454,5-Fluorouracil
+hsa-mir-4454,Gemcitabine
+hsa-mir-4455,5-Fluorouracil
+hsa-mir-4455,Gemcitabine
+hsa-mir-4463,5-Fluorouracil
+hsa-mir-4463,Gemcitabine
+hsa-mir-4465,5-Fluorouracil
+hsa-mir-4465,Gemcitabine
+hsa-mir-4466,5-Fluorouracil
+hsa-mir-4466,Gemcitabine
+hsa-mir-4467,5-Fluorouracil
+hsa-mir-4467,Gemcitabine
+hsa-mir-4476,5-Fluorouracil
+hsa-mir-4476,Gemcitabine
+hsa-mir-4478,5-Fluorouracil
+hsa-mir-4478,Gemcitabine
+hsa-mir-4484,5-Fluorouracil
+hsa-mir-4484,Gemcitabine
+hsa-mir-4485,5-Fluorouracil
+hsa-mir-4485,Gemcitabine
+hsa-mir-4487,5-Fluorouracil
+hsa-mir-4487,Gemcitabine
+hsa-mir-4488,5-Fluorouracil
+hsa-mir-4488,Gemcitabine
+hsa-mir-4492,5-Fluorouracil
+hsa-mir-4492,Gemcitabine
+hsa-mir-4497,5-Fluorouracil
+hsa-mir-4497,Gemcitabine
+hsa-mir-449b,5-Fluorouracil
+hsa-mir-449b,Gemcitabine
+hsa-mir-4508,5-Fluorouracil
+hsa-mir-4508,Gemcitabine
+hsa-mir-450a-1,5-Fluorouracil
+hsa-mir-450a-1,Gemcitabine
+hsa-mir-4516,5-Fluorouracil
+hsa-mir-4516,Gemcitabine
+hsa-mir-4521,5-Fluorouracil
+hsa-mir-4521,Gemcitabine
+hsa-mir-4530,5-Fluorouracil
+hsa-mir-4530,Gemcitabine
+hsa-mir-4535,5-Fluorouracil
+hsa-mir-4535,Gemcitabine
+hsa-mir-454,5-Fluorouracil
+hsa-mir-454,Gemcitabine
+hsa-mir-4638,5-Fluorouracil
+hsa-mir-4638,Gemcitabine
+hsa-mir-4640,5-Fluorouracil
+hsa-mir-4640,Gemcitabine
+hsa-mir-4646,5-Fluorouracil
+hsa-mir-4646,Gemcitabine
+hsa-mir-4655,5-Fluorouracil
+hsa-mir-4655,Gemcitabine
+hsa-mir-4665,5-Fluorouracil
+hsa-mir-4665,Gemcitabine
+hsa-mir-4669,5-Fluorouracil
+hsa-mir-4669,Gemcitabine
+hsa-mir-4674,5-Fluorouracil
+hsa-mir-4674,Gemcitabine
+hsa-mir-4675,5-Fluorouracil
+hsa-mir-4675,Gemcitabine
+hsa-mir-4685,5-Fluorouracil
+hsa-mir-4685,5-Fluorouracil
+hsa-mir-4685,5-Fluorouracil
+hsa-mir-4685,Gemcitabine
+hsa-mir-4685,Gemcitabine
+hsa-mir-4685,Gemcitabine
+hsa-mir-4687,5-Fluorouracil
+hsa-mir-4687,Gemcitabine
+hsa-mir-4689,5-Fluorouracil
+hsa-mir-4689,Gemcitabine
+hsa-mir-4695,5-Fluorouracil
+hsa-mir-4695,Gemcitabine
+hsa-mir-4706,5-Fluorouracil
+hsa-mir-4706,Gemcitabine
+hsa-mir-4707,5-Fluorouracil
+hsa-mir-4707,Gemcitabine
+hsa-mir-4710,5-Fluorouracil
+hsa-mir-4710,Gemcitabine
+hsa-mir-4711,5-Fluorouracil
+hsa-mir-4711,Gemcitabine
+hsa-mir-4713,5-Fluorouracil
+hsa-mir-4713,Gemcitabine
+hsa-mir-4716,5-Fluorouracil
+hsa-mir-4716,Gemcitabine
+hsa-mir-4721,5-Fluorouracil
+hsa-mir-4721,Gemcitabine
+hsa-mir-4722,5-Fluorouracil
+hsa-mir-4722,Gemcitabine
+hsa-mir-4723,5-Fluorouracil
+hsa-mir-4723,Gemcitabine
+hsa-mir-4725,5-Fluorouracil
+hsa-mir-4725,Gemcitabine
+hsa-mir-4731,5-Fluorouracil
+hsa-mir-4731,Gemcitabine
+hsa-mir-4732,5-Fluorouracil
+hsa-mir-4732,Gemcitabine
+hsa-mir-4739,5-Fluorouracil
+hsa-mir-4739,Gemcitabine
+hsa-mir-4745,5-Fluorouracil
+hsa-mir-4745,Gemcitabine
+hsa-mir-4749,5-Fluorouracil
+hsa-mir-4749,Gemcitabine
+hsa-mir-4750,5-Fluorouracil
+hsa-mir-4750,Gemcitabine
+hsa-mir-4758,5-Fluorouracil
+hsa-mir-4758,Gemcitabine
+hsa-mir-4783,5-Fluorouracil
+hsa-mir-4783,Gemcitabine
+hsa-mir-4787,5-Fluorouracil
+hsa-mir-4787,Gemcitabine
+hsa-mir-483,5-Fluorouracil
+hsa-mir-483,Gemcitabine
+hsa-mir-484,5-Fluorouracil
+hsa-mir-484,Gemcitabine
+hsa-mir-486-1,5-Fluorouracil
+hsa-mir-486-1,Gemcitabine
+hsa-mir-487b,5-Fluorouracil
+hsa-mir-487b,Gemcitabine
+hsa-mir-491,5-Fluorouracil
+hsa-mir-491,Gemcitabine
+hsa-mir-500a,5-Fluorouracil
+hsa-mir-500a,Gemcitabine
+hsa-mir-500a,5-Fluorouracil
+hsa-mir-500a,Gemcitabine
+hsa-mir-500b,5-Fluorouracil
+hsa-mir-500b,Gemcitabine
+hsa-mir-503,5-Fluorouracil
+hsa-mir-503,Gemcitabine
+hsa-mir-518b,5-Fluorouracil
+hsa-mir-518b,Gemcitabine
+hsa-mir-532,5-Fluorouracil
+hsa-mir-532,Gemcitabine
+hsa-mir-557,5-Fluorouracil
+hsa-mir-557,Gemcitabine
+hsa-mir-584,5-Fluorouracil
+hsa-mir-584,Gemcitabine
+hsa-mir-590,5-Fluorouracil
+hsa-mir-590,Gemcitabine
+hsa-mir-593,5-Fluorouracil
+hsa-mir-593,Gemcitabine
+hsa-mir-614,5-Fluorouracil
+hsa-mir-614,Gemcitabine
+hsa-mir-615,5-Fluorouracil
+hsa-mir-615,Gemcitabine
+hsa-mir-622,5-Fluorouracil
+hsa-mir-622,Gemcitabine
+hsa-mir-624,5-Fluorouracil
+hsa-mir-624,Gemcitabine
+hsa-mir-627,5-Fluorouracil
+hsa-mir-627,Gemcitabine
+hsa-mir-629,5-Fluorouracil
+hsa-mir-629,Gemcitabine
+hsa-mir-658,5-Fluorouracil
+hsa-mir-658,Gemcitabine
+hsa-mir-660,5-Fluorouracil
+hsa-mir-660,Gemcitabine
+hsa-mir-663a,5-Fluorouracil
+hsa-mir-663a,Gemcitabine
+hsa-mir-665,5-Fluorouracil
+hsa-mir-665,Gemcitabine
+hsa-mir-670,5-Fluorouracil
+hsa-mir-670,Gemcitabine
+hsa-mir-671,5-Fluorouracil
+hsa-mir-671,Gemcitabine
+hsa-mir-675,5-Fluorouracil
+hsa-mir-675,Gemcitabine
+hsa-mir-675,5-Fluorouracil
+hsa-mir-675,Gemcitabine
+hsa-mir-7-1,5-Fluorouracil
+hsa-mir-7-1,Gemcitabine
+hsa-mir-718,5-Fluorouracil
+hsa-mir-718,Gemcitabine
+hsa-mir-762,5-Fluorouracil
+hsa-mir-762,Gemcitabine
+hsa-mir-766,5-Fluorouracil
+hsa-mir-766,Gemcitabine
+hsa-mir-873,5-Fluorouracil
+hsa-mir-873,Gemcitabine
+hsa-mir-874,5-Fluorouracil
+hsa-mir-874,Gemcitabine
+hsa-mir-887,5-Fluorouracil
+hsa-mir-887,Gemcitabine
+hsa-mir-920,5-Fluorouracil
+hsa-mir-920,Gemcitabine
+hsa-mir-921,5-Fluorouracil
+hsa-mir-921,Gemcitabine
+hsa-mir-92b,5-Fluorouracil
+hsa-mir-92b,Gemcitabine
+hsa-mir-939,5-Fluorouracil
+hsa-mir-939,Gemcitabine
+hsa-mir-940,5-Fluorouracil
+hsa-mir-940,Gemcitabine
+hsa-mir-96,5-Fluorouracil
+hsa-mir-96,Gemcitabine
+hsa-mir-98,5-Fluorouracil
+hsa-mir-98,Gemcitabine
+hsa-mir-99a,5-Fluorouracil
+hsa-mir-99a,Gemcitabine
+hsa-mir-21,5-Fluorouracil
+hsa-mir-520f,Cisplatin
+hsa-let-7b,Epirubicin
+hsa-let-7b,Paclitaxel
+hsa-mir-1290,Epirubicin
+hsa-mir-1290,Paclitaxel
+hsa-mir-194-1,Epirubicin
+hsa-mir-194-1,Paclitaxel
+hsa-mir-19a,Epirubicin
+hsa-mir-19a,Paclitaxel
+hsa-mir-205,Epirubicin
+hsa-mir-205,Paclitaxel
+hsa-mir-28,Epirubicin
+hsa-mir-28,Paclitaxel
+hsa-mir-375,Epirubicin
+hsa-mir-375,Paclitaxel
+hsa-mir-200b,Celastrol
+hsa-mir-200b,Paclitaxel
+hsa-mir-217,Celastrol
+hsa-mir-217,Paclitaxel
+hsa-mir-326,Celastrol
+hsa-mir-326,Paclitaxel
+hsa-mir-335,Celastrol
+hsa-mir-335,Paclitaxel
+hsa-mir-136,Cisplatin
+hsa-let-7a-1,platinum-based doublet chemotherapy 
+hsa-let-7b,platinum-based doublet chemotherapy 
+hsa-mir-1-1,platinum-based doublet chemotherapy 
+hsa-mir-1181,platinum-based doublet chemotherapy 
+hsa-mir-1246,platinum-based doublet chemotherapy 
+hsa-mir-1290,platinum-based doublet chemotherapy 
+hsa-mir-130b,platinum-based doublet chemotherapy 
+hsa-mir-135a-1,platinum-based doublet chemotherapy 
+hsa-mir-139,platinum-based doublet chemotherapy 
+hsa-mir-144,platinum-based doublet chemotherapy 
+hsa-mir-1471,platinum-based doublet chemotherapy 
+hsa-mir-150,platinum-based doublet chemotherapy 
+hsa-mir-181c,platinum-based doublet chemotherapy 
+hsa-mir-186,platinum-based doublet chemotherapy 
+hsa-mir-18a,platinum-based doublet chemotherapy 
+hsa-mir-18b,platinum-based doublet chemotherapy 
+hsa-mir-193a,platinum-based doublet chemotherapy 
+hsa-mir-195,platinum-based doublet chemotherapy 
+hsa-mir-196b,platinum-based doublet chemotherapy 
+hsa-mir-23b,platinum-based doublet chemotherapy 
+hsa-mir-24-1,platinum-based doublet chemotherapy 
+hsa-mir-26a-1,platinum-based doublet chemotherapy 
+hsa-mir-27b,platinum-based doublet chemotherapy 
+hsa-mir-29c,platinum-based doublet chemotherapy 
+hsa-mir-3065,platinum-based doublet chemotherapy 
+hsa-mir-30c-2,platinum-based doublet chemotherapy 
+hsa-mir-30e,platinum-based doublet chemotherapy 
+hsa-mir-31,platinum-based doublet chemotherapy 
+hsa-mir-3137,platinum-based doublet chemotherapy 
+hsa-mir-3195,platinum-based doublet chemotherapy 
+hsa-mir-3198-1,platinum-based doublet chemotherapy 
+hsa-mir-328,platinum-based doublet chemotherapy 
+hsa-mir-331,platinum-based doublet chemotherapy 
+hsa-mir-34a,platinum-based doublet chemotherapy 
+hsa-mir-34b,platinum-based doublet chemotherapy 
+hsa-mir-34b,platinum-based doublet chemotherapy 
+hsa-mir-361,platinum-based doublet chemotherapy 
+hsa-mir-3648-1,platinum-based doublet chemotherapy 
+hsa-mir-3663,platinum-based doublet chemotherapy 
+hsa-mir-3667,platinum-based doublet chemotherapy 
+hsa-mir-3926-1,platinum-based doublet chemotherapy 
+hsa-mir-3934,platinum-based doublet chemotherapy 
+hsa-mir-4271,platinum-based doublet chemotherapy 
+hsa-mir-4291,platinum-based doublet chemotherapy 
+hsa-mir-4327,platinum-based doublet chemotherapy 
+hsa-mir-449a,platinum-based doublet chemotherapy 
+hsa-mir-483,platinum-based doublet chemotherapy 
+hsa-mir-497,platinum-based doublet chemotherapy 
+hsa-mir-500a,platinum-based doublet chemotherapy 
+hsa-mir-598,platinum-based doublet chemotherapy 
+hsa-mir-628,platinum-based doublet chemotherapy 
+hsa-mir-630,platinum-based doublet chemotherapy 
+hsa-mir-642b,platinum-based doublet chemotherapy 
+hsa-mir-663a,platinum-based doublet chemotherapy 
+hsa-mir-7-1,platinum-based doublet chemotherapy 
+hsa-mir-1248,Gemcitabine
+hsa-mir-125a,Gemcitabine
+hsa-mir-1285-1,Gemcitabine
+hsa-mir-129-1,Gemcitabine
+hsa-mir-25,Gemcitabine
+hsa-mir-26a-1,Gemcitabine
+hsa-mir-30c-1,Gemcitabine
+hsa-mir-369,Gemcitabine
+hsa-mir-374b,Gemcitabine
+hsa-mir-494,Gemcitabine
+hsa-mir-497,Erlotinib
+hsa-mir-497,Gemcitabine
+hsa-mir-503,Gemcitabine
+hsa-mir-508,Gemcitabine
+hsa-mir-515-1,Gemcitabine
+hsa-mir-518f,Gemcitabine
+hsa-mir-519d,Gemcitabine
+hsa-mir-542,Gemcitabine
+hsa-mir-579,Gemcitabine
+hsa-mir-647,Gemcitabine
+hsa-mir-935,Gemcitabine
+hsa-mir-99b,Gemcitabine
+hsa-mir-200c,Imatinib
+hsa-mir-200c,Sorafenib
+hsa-mir-181b-1,Teniposide
+hsa-mir-130b,Cisplatin
+hsa-mir-130b,Paclitaxel
+hsa-mir-149,Doxorubicin (Adriamycin)
+hsa-mir-149,Paclitaxel
+hsa-mir-320a,5-Fluorouracil
+hsa-mir-320a,Doxorubicin (Adriamycin)
+hsa-mir-320a,Paclitaxel
+hsa-mir-223,Trastuzumab
+hsa-mir-218-1,Cisplatin
+hsa-mir-29b-1,Cisplatin
+hsa-mir-29b-1,Doxorubicin (Adriamycin)
+hsa-mir-449a,Cisplatin
+hsa-mir-100,Gemcitabine
+hsa-mir-1246,Gemcitabine
+hsa-mir-125b-1,Gemcitabine
+hsa-mir-155,Gemcitabine
+hsa-mir-15b,Gemcitabine
+hsa-mir-205,Gemcitabine
+hsa-mir-21,Gemcitabine
+hsa-mir-25,Gemcitabine
+hsa-mir-27b,Gemcitabine
+hsa-mir-30d,Gemcitabine
+hsa-mir-378a,Gemcitabine
+hsa-mir-424,Gemcitabine
+hsa-mir-4324,Gemcitabine
+hsa-mir-4443,Gemcitabine
+hsa-mir-4485,Gemcitabine
+hsa-mir-455,Gemcitabine
+hsa-mir-99b,Gemcitabine
+hsa-mir-193a,Paclitaxel
+hsa-let-7g,Chemotherapy
+hsa-mir-107,Chemotherapy
+hsa-mir-299,Chemotherapy
+hsa-mir-337,Chemotherapy
+hsa-mir-370,Chemotherapy
+hsa-mir-505,Chemotherapy
+hsa-mir-889,Chemotherapy
+hsa-mir-99a,Chemotherapy
+hsa-mir-1207,Oxaliplatin
+hsa-mir-1207,Vincristine
+hsa-mir-141,Oxaliplatin
+hsa-mir-141,Vincristine
+hsa-mir-155,Oxaliplatin
+hsa-mir-155,Vincristine
+hsa-mir-15a,Oxaliplatin
+hsa-mir-15a,Vincristine
+hsa-mir-1915,Oxaliplatin
+hsa-mir-1915,Vincristine
+hsa-mir-200a,Oxaliplatin
+hsa-mir-200a,Vincristine
+hsa-mir-200c,5-Fluorouracil
+hsa-mir-200c,Cisplatin
+hsa-mir-200c,Methylmethcathinone
+hsa-mir-200c,Tetrahydropalmatine
+hsa-mir-221,Oxaliplatin
+hsa-mir-221,Vincristine
+hsa-mir-222,Oxaliplatin
+hsa-mir-222,Vincristine
+hsa-mir-23a,Oxaliplatin
+hsa-mir-23a,Vincristine
+hsa-mir-23b,Oxaliplatin
+hsa-mir-23b,Vincristine
+hsa-mir-27a,Oxaliplatin
+hsa-mir-27a,Vincristine
+hsa-mir-424,Oxaliplatin
+hsa-mir-424,Vincristine
+hsa-mir-497,Oxaliplatin
+hsa-mir-497,Vincristine
+hsa-mir-638,Oxaliplatin
+hsa-mir-638,Vincristine
+hsa-mir-494,Doxorubicin (Adriamycin)
+hsa-mir-638,Cisplatin
+hsa-mir-638,Ultraviolet
+hsa-mir-379,Vorinostat
+hsa-mir-411,Vorinostat
+hsa-mir-1202,Bortezomib
+hsa-mir-1207,Bortezomib
+hsa-mir-1246,Bortezomib
+hsa-mir-129-1,Bortezomib
+hsa-mir-1290,Bortezomib
+hsa-mir-146a,Bortezomib
+hsa-mir-149,Bortezomib
+hsa-mir-1908,Bortezomib
+hsa-mir-1915,Bortezomib
+hsa-mir-192,Bortezomib
+hsa-mir-19a,Bortezomib
+hsa-mir-21,Bortezomib
+hsa-mir-27a,Bortezomib
+hsa-mir-2861,Bortezomib
+hsa-mir-29b-1,Bortezomib
+hsa-mir-29b-1,Carfilzomib
+hsa-mir-29b-1,Ixazomib
+hsa-mir-29c,Bortezomib
+hsa-mir-301a,Bortezomib
+hsa-mir-30e,Bortezomib
+hsa-mir-3185,Bortezomib
+hsa-mir-3196,Bortezomib
+hsa-mir-638,Bortezomib
+hsa-mir-660,Bortezomib
+hsa-mir-762,Bortezomib
+hsa-mir-92a-1,Bortezomib
+hsa-mir-92b,Bortezomib
+hsa-mir-939,Bortezomib
+hsa-mir-217,Cisplatin
+hsa-mir-128-1,Cisplatin
+hsa-mir-145,5-fluorouracil
+hsa-mir-34a,Etoposide
+hsa-mir-101-1,Cisplatin
+hsa-mir-503,Doxorubicin (Adriamycin)
+hsa-mir-200c,Gefitinib
+hsa-mir-133a-1,Paclitaxel
+hsa-mir-133b,Paclitaxel
+hsa-mir-3127,Dasatinib
+hsa-mir-150,Cisplatin
+hsa-mir-7-1,Paclitaxel
+hsa-mir-204,5-Fluorouracil
+hsa-mir-204,Cisplatin
+hsa-mir-204,Oxaliplatin
+hsa-mir-490,Paclitaxel
+hsa-mir-30e,Imatinib
+hsa-mir-451a,Docetaxel
+hsa-mir-193a,Paclitaxel
+hsa-mir-21,Cisplatin
+hsa-mir-16-1,Doxorubicin (Adriamycin)
+hsa-mir-375,Paclitaxel
+hsa-mir-145,SN-38
+hsa-mir-34a,5-Fluorouracil
+hsa-let-7b,5-Fluorouracil
+hsa-mir-106a,Cisplatin
+hsa-let-7e,Gefitinib
+hsa-mir-100,Gefitinib
+hsa-mir-122,Gefitinib
+hsa-mir-125b-1,Gefitinib
+hsa-mir-126,Gefitinib
+hsa-mir-127,Gefitinib
+hsa-mir-130a,Gefitinib
+hsa-mir-132,Gefitinib
+hsa-mir-140,Gefitinib
+hsa-mir-142,Gefitinib
+hsa-mir-143,Gefitinib
+hsa-mir-145,Gefitinib
+hsa-mir-146a,Gefitinib
+hsa-mir-148a,Gefitinib
+hsa-mir-155,Gefitinib
+hsa-mir-21,Gefitinib
+hsa-mir-214,Gefitinib
+hsa-mir-22,Gefitinib
+hsa-mir-224,Gefitinib
+hsa-mir-24-1,Gefitinib
+hsa-mir-299,Gefitinib
+hsa-mir-31,Gefitinib
+hsa-mir-375,Gefitinib
+hsa-mir-376a-1,Gefitinib
+hsa-mir-423,Gefitinib
+hsa-mir-424,Gefitinib
+hsa-mir-483,Gefitinib
+hsa-mir-494,Gefitinib
+hsa-mir-497,Gefitinib
+hsa-mir-505,Gefitinib
+hsa-mir-572,Gefitinib
+hsa-mir-638,Gefitinib
+hsa-mir-660,Gefitinib
+hsa-mir-7-1,Gefitinib
+hsa-mir-744,Gefitinib
+hsa-mir-762,Gefitinib
+hsa-mir-766,Gefitinib
+hsa-mir-92a-1,Gefitinib
+hsa-mir-99a,Gefitinib
+hsa-mir-205,Docetaxel
+hsa-mir-31,Docetaxel
+hsa-mir-100,Cisplatin
+hsa-mir-382,Cisplatin
+hsa-mir-382,Doxorubicin (Adriamycin)
+hsa-mir-382,Methotrexate
+hsa-mir-129-1,Decitabine
+hsa-mir-129-1,Doxorubicin (Adriamycin)
+hsa-mir-129-1,Vincristine
+hsa-let-7a-1,Imatinib
+hsa-let-7d,Imatinib
+hsa-let-7e,Imatinib
+hsa-let-7f-1,Imatinib
+hsa-let-7i,Imatinib
+hsa-mir-103a-1,Imatinib
+hsa-mir-107,Imatinib
+hsa-mir-1207,Imatinib
+hsa-mir-1224,Imatinib
+hsa-mir-1225,Imatinib
+hsa-mir-1228,Imatinib
+hsa-mir-1249,Imatinib
+hsa-mir-125a,Imatinib
+hsa-mir-1268a,Imatinib
+hsa-mir-130b,Imatinib
+hsa-mir-134,Imatinib
+hsa-mir-139,Imatinib
+hsa-mir-143,Imatinib
+hsa-mir-146b,Imatinib
+hsa-mir-150,Imatinib
+hsa-mir-151a,Imatinib
+hsa-mir-15b,Imatinib
+hsa-mir-188,Imatinib
+hsa-mir-1915,Imatinib
+hsa-mir-193b,Imatinib
+hsa-mir-214,Imatinib
+hsa-mir-25,Imatinib
+hsa-mir-296,Imatinib
+hsa-mir-301a,Imatinib
+hsa-mir-30a,Imatinib
+hsa-mir-30b,Imatinib
+hsa-mir-30c-2,Imatinib
+hsa-mir-324,Imatinib
+hsa-mir-362,Imatinib
+hsa-mir-365a,Imatinib
+hsa-mir-483,Imatinib
+hsa-mir-532,Imatinib
+hsa-mir-574,Imatinib
+hsa-mir-638,Imatinib
+hsa-mir-660,Imatinib
+hsa-mir-663a,Imatinib
+hsa-mir-762,Imatinib
+hsa-mir-939,Imatinib
+hsa-let-7a-1,Cisplatin
+hsa-let-7e,Cisplatin
+hsa-mir-1226,5-Fluorouracil
+hsa-mir-125a,5-Fluorouracil
+hsa-mir-125a,Cisplatin
+hsa-mir-1268a,5-Fluorouracil
+hsa-mir-1275,5-Fluorouracil
+hsa-mir-1292,5-Fluorouracil
+hsa-mir-130a,Cisplatin
+hsa-mir-17,5-Fluorouracil
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181b-1,Cisplatin
+hsa-mir-18a,5-Fluorouracil
+hsa-mir-18a,5-Fluorouracil
+hsa-mir-18a,Cisplatin
+hsa-mir-191,Cisplatin
+hsa-mir-192,5-Fluorouracil
+hsa-mir-193b,5-Fluorouracil
+hsa-mir-193b,Cisplatin
+hsa-mir-194-1,5-Fluorouracil
+hsa-mir-196b,5-Fluorouracil
+hsa-mir-200a,Cisplatin
+hsa-mir-200b,Cisplatin
+hsa-mir-203a,5-Fluorouracil
+hsa-mir-203a,Cisplatin
+hsa-mir-21,5-Fluorouracil
+hsa-mir-210,5-Fluorouracil
+hsa-mir-222,5-Fluorouracil
+hsa-mir-23a,Cisplatin
+hsa-mir-25,5-Fluorouracil
+hsa-mir-25,Cisplatin
+hsa-mir-27b,5-Fluorouracil
+hsa-mir-296,Cisplatin
+hsa-mir-31,5-Fluorouracil
+hsa-mir-31,Cisplatin
+hsa-mir-320a,Cisplatin
+hsa-mir-320b-1,Cisplatin
+hsa-mir-320c-1,Cisplatin
+hsa-mir-331,5-Fluorouracil
+hsa-mir-339,Cisplatin
+hsa-mir-378a,5-Fluorouracil
+hsa-mir-410,5-Fluorouracil
+hsa-mir-455,5-Fluorouracil
+hsa-mir-455,Cisplatin
+hsa-mir-532,Cisplatin
+hsa-mir-550a-1,5-Fluorouracil
+hsa-mir-638,Cisplatin
+hsa-mir-663a,5-Fluorouracil
+hsa-mir-663a,5-Fluorouracil
+hsa-mir-663a,Cisplatin
+hsa-mir-744,Cisplatin
+hsa-mir-92a-1,Cisplatin
+hsa-mir-92b,Cisplatin
+hsa-mir-935,5-Fluorouracil
+hsa-mir-99b,5-Fluorouracil
+hsa-mir-99b,Cisplatin
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-21,Cisplatin
+hsa-mir-125a,Cisplatin
+hsa-mir-129-1,Cisplatin
+hsa-mir-15a,Cisplatin
+hsa-mir-181b-1,Cisplatin
+hsa-mir-182,Cisplatin
+hsa-mir-185,Cisplatin
+hsa-mir-200b,Cisplatin
+hsa-mir-205,Cisplatin
+hsa-mir-214,Cisplatin
+hsa-mir-218-1,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-302c,Cisplatin
+hsa-mir-30c-2,Cisplatin
+hsa-mir-331,Cisplatin
+hsa-mir-33a,Cisplatin
+hsa-mir-374b,Cisplatin
+hsa-mir-375,Cisplatin
+hsa-mir-663a,Cisplatin
+hsa-mir-100,Paclitaxel
+hsa-mir-1204,Paclitaxel
+hsa-mir-208a,Paclitaxel
+hsa-mir-22,Paclitaxel
+hsa-mir-3146,Paclitaxel
+hsa-mir-3198-1,Paclitaxel
+hsa-mir-377,Paclitaxel
+hsa-mir-4478,Paclitaxel
+hsa-mir-4653,Paclitaxel
+hsa-mir-4678,Paclitaxel
+hsa-mir-4788,Paclitaxel
+hsa-mir-634,Paclitaxel
+hsa-mir-634,Paclitaxel
+hsa-mir-802,Paclitaxel
+hsa-mir-107,Cisplatin
+hsa-mir-103a-1,Doxorubicin (Adriamycin)
+hsa-mir-107,Doxorubicin (Adriamycin)
+hsa-mir-10a,Doxorubicin (Adriamycin)
+hsa-mir-1224,Doxorubicin (Adriamycin)
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-17,Doxorubicin (Adriamycin)
+hsa-mir-297,Doxorubicin (Adriamycin)
+hsa-mir-30b,Doxorubicin (Adriamycin)
+hsa-mir-30e,Doxorubicin (Adriamycin)
+hsa-mir-338,Doxorubicin (Adriamycin)
+hsa-mir-361,Doxorubicin (Adriamycin)
+hsa-mir-424,Doxorubicin (Adriamycin)
+hsa-mir-487b,Doxorubicin (Adriamycin)
+hsa-mir-519b,Doxorubicin (Adriamycin)
+hsa-mir-520f,Doxorubicin (Adriamycin)
+hsa-mir-523,Doxorubicin (Adriamycin)
+hsa-mir-587,Doxorubicin (Adriamycin)
+hsa-mir-593,Doxorubicin (Adriamycin)
+hsa-mir-628,Doxorubicin (Adriamycin)
+hsa-mir-675,Doxorubicin (Adriamycin)
+hsa-mir-760,Doxorubicin (Adriamycin)
+hsa-mir-92b,Doxorubicin (Adriamycin)
+hsa-mir-363,Cisplatin
+hsa-mir-25,Cisplatin
+hsa-mir-16-1,Paclitaxel
+hsa-mir-193a,Paclitaxel
+hsa-mir-320a,5-Fluorouracil
+hsa-mir-320a,Oxaliplatin
+hsa-mir-22,5-Fluorouracil
+hsa-let-7e,Doxorubicin (Adriamycin)
+hsa-mir-141,Doxorubicin (Adriamycin)
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-196b,Doxorubicin (Adriamycin)
+hsa-mir-200a,Doxorubicin (Adriamycin)
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-31,Doxorubicin (Adriamycin)
+hsa-mir-370,Doxorubicin (Adriamycin)
+hsa-mir-429,Doxorubicin (Adriamycin)
+hsa-mir-576,Doxorubicin (Adriamycin)
+hsa-mir-760,Doxorubicin (Adriamycin)
+hsa-mir-765,Doxorubicin (Adriamycin)
+hsa-mir-96,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-136,Cisplatin
+hsa-mir-143,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-96,5-Fluorouracil
+hsa-mir-7-1,Cetuximab
+hsa-mir-126,Epigallocatechin Gallate
+hsa-mir-21,Cisplatin
+hsa-mir-203a,Temozolomide
+hsa-mir-486-1,Imatinib
+hsa-mir-338,Sorafenib
+hsa-mir-7-1,Trastuzumab
+hsa-mir-193a,Cisplatin
+hsa-mir-193a,Doxorubicin (Adriamycin)
+hsa-mir-193a,Epirubicin HCl
+hsa-mir-193a,Paclitaxel
+hsa-mir-193a,Pirarubicin
+hsa-mir-145,Cisplatin
+hsa-mir-145,Cisplatin
+hsa-mir-340,Cisplatin
+hsa-mir-574,Tamoxifen
+hsa-mir-125b-1,Docetaxel
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-145,Docetaxel
+hsa-mir-145,Doxorubicin (Adriamycin)
+hsa-mir-152,Docetaxel
+hsa-mir-152,Doxorubicin (Adriamycin)
+hsa-mir-155,Docetaxel
+hsa-mir-155,Doxorubicin (Adriamycin)
+hsa-mir-181a-2,Docetaxel
+hsa-mir-181a-2,Doxorubicin (Adriamycin)
+hsa-mir-193b,Docetaxel
+hsa-mir-193b,Doxorubicin (Adriamycin)
+hsa-mir-200c,Docetaxel
+hsa-mir-200c,Doxorubicin (Adriamycin)
+hsa-mir-222,Docetaxel
+hsa-mir-222,Doxorubicin (Adriamycin)
+hsa-mir-29a,Docetaxel
+hsa-mir-29a,Doxorubicin (Adriamycin)
+hsa-mir-320d-1,Docetaxel
+hsa-mir-320d-1,Doxorubicin (Adriamycin)
+hsa-mir-34a,Docetaxel
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-424,Docetaxel
+hsa-mir-424,Doxorubicin (Adriamycin)
+hsa-mir-4284,Docetaxel
+hsa-mir-4284,Doxorubicin (Adriamycin)
+hsa-mir-452,Docetaxel
+hsa-mir-452,Doxorubicin (Adriamycin)
+hsa-mir-455,Docetaxel
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-500a,Docetaxel
+hsa-mir-500a,Doxorubicin (Adriamycin)
+hsa-mir-503,Docetaxel
+hsa-mir-503,Doxorubicin (Adriamycin)
+hsa-mir-767,Docetaxel
+hsa-mir-767,Doxorubicin (Adriamycin)
+hsa-mir-21,Dibenziodolium
+hsa-mir-143,Doxorubicin (Adriamycin)
+hsa-mir-21,Cisplatin
+hsa-mir-542,Trastuzumab
+hsa-mir-10a,Cisplatin
+hsa-mir-29b-1,Interferon-gamma
+hsa-mir-9-1,Temozolomide
+hsa-mir-23a,Cisplatin
+hsa-mir-27a,5-Fluorouracil
+hsa-mir-34a,Doxorubicin (Adriamycin)
+hsa-mir-15a,Vincristine
+hsa-mir-16-1,Vincristine
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-223,Gemcitabine
+hsa-mir-181a-2,Camptothecin
+hsa-mir-27a,Cisplatin
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-27a,Paclitaxel
+hsa-mir-760,Doxorubicin (Adriamycin)
+hsa-mir-145,chemotherapy
+hsa-let-7a-1,Doxorubicin (Adriamycin)
+hsa-let-7a-1,Doxorubicin (Adriamycin)
+hsa-mir-10a,Doxorubicin (Adriamycin)
+hsa-mir-101-1,Doxorubicin (Adriamycin)
+hsa-mir-10a,Doxorubicin (Adriamycin)
+hsa-mir-1226,Doxorubicin (Adriamycin)
+hsa-mir-1226,Doxorubicin (Adriamycin)
+hsa-mir-1228,Doxorubicin (Adriamycin)
+hsa-mir-1233-1,Doxorubicin (Adriamycin)
+hsa-mir-1234,Doxorubicin (Adriamycin)
+hsa-mir-124-1,Doxorubicin (Adriamycin)
+hsa-mir-1253,Doxorubicin (Adriamycin)
+hsa-mir-1265,Doxorubicin (Adriamycin)
+hsa-mir-127,Doxorubicin (Adriamycin)
+hsa-mir-129-1,Doxorubicin (Adriamycin)
+hsa-mir-1299,Doxorubicin (Adriamycin)
+hsa-mir-137,Doxorubicin (Adriamycin)
+hsa-mir-138-1,Doxorubicin (Adriamycin)
+hsa-mir-139,Doxorubicin (Adriamycin)
+hsa-mir-140,Doxorubicin (Adriamycin)
+hsa-mir-148a,Doxorubicin (Adriamycin)
+hsa-mir-1538,Doxorubicin (Adriamycin)
+hsa-mir-1539,Doxorubicin (Adriamycin)
+hsa-mir-15a,Doxorubicin (Adriamycin)
+hsa-mir-17,Doxorubicin (Adriamycin)
+hsa-mir-183,Doxorubicin (Adriamycin)
+hsa-mir-185,Doxorubicin (Adriamycin)
+hsa-mir-18b,Doxorubicin (Adriamycin)
+hsa-mir-1911,Doxorubicin (Adriamycin)
+hsa-mir-1911,Doxorubicin (Adriamycin)
+hsa-mir-1915,Doxorubicin (Adriamycin)
+hsa-mir-1915,Doxorubicin (Adriamycin)
+hsa-mir-193b,Doxorubicin (Adriamycin)
+hsa-mir-203a,Doxorubicin (Adriamycin)
+hsa-mir-20a,Doxorubicin (Adriamycin)
+hsa-mir-20a,Doxorubicin (Adriamycin)
+hsa-mir-20b,Doxorubicin (Adriamycin)
+hsa-mir-20b,Doxorubicin (Adriamycin)
+hsa-mir-21,Doxorubicin (Adriamycin)
+hsa-mir-210,Doxorubicin (Adriamycin)
+hsa-mir-211,Doxorubicin (Adriamycin)
+hsa-mir-214,Doxorubicin (Adriamycin)
+hsa-mir-215,Doxorubicin (Adriamycin)
+hsa-mir-23b,Doxorubicin (Adriamycin)
+hsa-mir-25,Doxorubicin (Adriamycin)
+hsa-mir-27b,Cisplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-27b,Doxorubicin (Adriamycin)
+hsa-mir-27b,Epirubicin
+hsa-mir-27b,Epirubicin
+hsa-mir-27b,Etoposide
+hsa-mir-27b,Etoposide
+hsa-mir-27b,Gefitinib
+hsa-mir-27b,Gefitinib
+hsa-mir-27b,Sorafenib
+hsa-mir-27b,Sorafenib
+hsa-mir-28,Doxorubicin (Adriamycin)
+hsa-mir-326,Doxorubicin (Adriamycin)
+hsa-mir-338,Doxorubicin (Adriamycin)
+hsa-mir-342,Doxorubicin (Adriamycin)
+hsa-mir-34c,Doxorubicin (Adriamycin)
+hsa-mir-367,Doxorubicin (Adriamycin)
+hsa-mir-371a,Doxorubicin (Adriamycin)
+hsa-mir-372,Doxorubicin (Adriamycin)
+hsa-mir-379,Doxorubicin (Adriamycin)
+hsa-mir-380,Doxorubicin (Adriamycin)
+hsa-mir-409,Doxorubicin (Adriamycin)
+hsa-mir-455,Doxorubicin (Adriamycin)
+hsa-mir-485,Doxorubicin (Adriamycin)
+hsa-mir-495,Doxorubicin (Adriamycin)
+hsa-mir-503,Doxorubicin (Adriamycin)
+hsa-mir-513a-1,Doxorubicin (Adriamycin)
+hsa-mir-513c,Doxorubicin (Adriamycin)
+hsa-mir-519b,Doxorubicin (Adriamycin)
+hsa-mir-526a-1,Doxorubicin (Adriamycin)
+hsa-mir-577,Doxorubicin (Adriamycin)
+hsa-mir-606,Doxorubicin (Adriamycin)
+hsa-mir-620,Doxorubicin (Adriamycin)
+hsa-mir-621,Doxorubicin (Adriamycin)
+hsa-mir-626,Doxorubicin (Adriamycin)
+hsa-mir-634,Doxorubicin (Adriamycin)
+hsa-mir-635,Doxorubicin (Adriamycin)
+hsa-mir-639,Doxorubicin (Adriamycin)
+hsa-mir-642a,Doxorubicin (Adriamycin)
+hsa-mir-664a,Doxorubicin (Adriamycin)
+hsa-mir-708,Doxorubicin (Adriamycin)
+hsa-mir-769,Doxorubicin (Adriamycin)
+hsa-mir-802,Doxorubicin (Adriamycin)
+hsa-mir-885,Doxorubicin (Adriamycin)
+hsa-mir-891b,Doxorubicin (Adriamycin)
+hsa-mir-892b,Doxorubicin (Adriamycin)
+hsa-mir-920,Doxorubicin (Adriamycin)
+hsa-mir-922,Doxorubicin (Adriamycin)
+hsa-mir-924,Doxorubicin (Adriamycin)
+hsa-mir-933,Doxorubicin (Adriamycin)
+hsa-mir-934,Doxorubicin (Adriamycin)
+hsa-mir-935,Doxorubicin (Adriamycin)
+hsa-mir-98,Doxorubicin (Adriamycin)
+hsa-mir-30a,Sorafenib
+hsa-mir-133a-1,Doxorubicin (Adriamycin)
+hsa-mir-326,Doxorubicin (Adriamycin)
+hsa-mir-1247,Gemcitabine
+hsa-mir-126,Gemcitabine
+hsa-mir-1260b,Gemcitabine
+hsa-mir-1261,Gemcitabine
+hsa-mir-1287,Gemcitabine
+hsa-mir-1301,Gemcitabine
+hsa-mir-141,Gemcitabine
+hsa-mir-146a,Gemcitabine
+hsa-mir-146a,Gemcitabine
+hsa-mir-152,Gemcitabine
+hsa-mir-15b,Gemcitabine
+hsa-mir-181a-2,Gemcitabine
+hsa-mir-192,Gemcitabine
+hsa-mir-193a,Gemcitabine
+hsa-mir-210,Gemcitabine
+hsa-mir-2113,Gemcitabine
+hsa-mir-224,Gemcitabine
+hsa-mir-3139,Gemcitabine
+hsa-mir-33b,Gemcitabine
+hsa-mir-34c,Gemcitabine
+hsa-mir-3611,Gemcitabine
+hsa-mir-371a,Gemcitabine
+hsa-mir-371b,Gemcitabine
+hsa-mir-372,Gemcitabine
+hsa-mir-373,Gemcitabine
+hsa-mir-378a,Gemcitabine
+hsa-mir-378c,Gemcitabine
+hsa-mir-3960,Gemcitabine
+hsa-mir-4447,Gemcitabine
+hsa-mir-4455,Gemcitabine
+hsa-mir-4483,Gemcitabine
+hsa-mir-450b,Gemcitabine
+hsa-mir-4516,Gemcitabine
+hsa-mir-452,Gemcitabine
+hsa-mir-4521,Gemcitabine
+hsa-mir-4644,Gemcitabine
+hsa-mir-4650-1,Gemcitabine
+hsa-mir-4739,Gemcitabine
+hsa-mir-4791,Gemcitabine
+hsa-mir-4800,Gemcitabine
+hsa-mir-483,Gemcitabine
+hsa-mir-542,Gemcitabine
+hsa-mir-576,Gemcitabine
+hsa-mir-589,Gemcitabine
+hsa-mir-6134,Gemcitabine
+hsa-mir-643,Gemcitabine
+hsa-mir-675,Gemcitabine
+hsa-mir-92b,Gemcitabine
+hsa-mir-301a,Doxorubicin (Adriamycin)
+hsa-mir-141,Epoxomicin
+hsa-mir-200a,Epoxomicin
+hsa-mir-200b,Epoxomicin
+hsa-mir-200c,Epoxomicin
+hsa-mir-100,Paclitaxel
+hsa-mir-1204,Paclitaxel
+hsa-mir-208a,Paclitaxel
+hsa-mir-22,Paclitaxel
+hsa-mir-3146,Paclitaxel
+hsa-mir-3198-1,Paclitaxel
+hsa-mir-377,Paclitaxel
+hsa-mir-4478,Paclitaxel
+hsa-mir-4653,Paclitaxel
+hsa-mir-4678,Paclitaxel
+hsa-mir-4788,Paclitaxel
+hsa-mir-634,Paclitaxel
+hsa-mir-802,Paclitaxel
+hsa-mir-141,Oxaliplatin
+hsa-mir-200c,Oxaliplatin
+hsa-mir-126,Cytarabine
+hsa-mir-34a,Paclitaxel
+hsa-mir-122,Interferon
+hsa-mir-21,Interferon
+hsa-mir-141,Docetaxel
+hsa-mir-93,Cisplatin
+hsa-mir-197,Paclitaxel
+hsa-mir-182,Temozolomide
+hsa-mir-483,Cisplatin
+hsa-mir-21,Gemcitabine
+hsa-mir-145,Cisplatin
+hsa-mir-429,Cisplatin
+hsa-mir-9-1,Cisplatin
+hsa-mir-203a,Imatinib
+hsa-let-7g,Cisplatin
+hsa-let-7i,Cisplatin
+hsa-mir-1290,Cisplatin
+hsa-mir-141,Cisplatin
+hsa-mir-149,Cisplatin
+hsa-mir-195,Cisplatin
+hsa-mir-1973,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-3135a,Cisplatin
+hsa-mir-3621,Cisplatin
+hsa-mir-491,Cisplatin
+hsa-mir-636,Cisplatin
+hsa-mir-933,Cisplatin
+hsa-mir-96,Cisplatin
+hsa-mir-494,5-Fluorouracil
+hsa-mir-7-1,Cisplatin
+hsa-mir-7-1,Doxorubicin (Adriamycin)
+hsa-mir-7-1,Etoposide
+hsa-mir-196b,Etoposide
+hsa-mir-218-1,Doxorubicin (Adriamycin)
+hsa-mir-218-1,Paclitaxel
+hsa-mir-218-1,Sirolimus
+hsa-mir-101-1,Cisplatin
+hsa-mir-145,5-Fluorouracil
+hsa-mir-27a,Doxorubicin (Adriamycin)
+hsa-mir-224,5-fluorouracil
+hsa-mir-128-1,Cisplatin
+hsa-mir-148b,Cisplatin
+hsa-mir-497,5-Fluorouracil
+hsa-mir-1291,Doxorubicin (Adriamycin)
+hsa-mir-1291,Doxorubicin (Adriamycin)
+hsa-mir-2278,Imatinib
+hsa-mir-155,Cisplatin
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Doxorubicin (Adriamycin)
+hsa-mir-125b-1,Etoposide
+hsa-mir-150,Doxorubicin (Adriamycin)
+hsa-mir-150,Doxorubicin (Adriamycin)
+hsa-mir-150,Etoposide
+hsa-mir-188,Doxorubicin (Adriamycin)
+hsa-mir-188,Doxorubicin (Adriamycin)
+hsa-mir-188,Etoposide
+hsa-mir-204,Doxorubicin (Adriamycin)
+hsa-mir-204,Doxorubicin (Adriamycin)
+hsa-mir-204,Etoposide
+hsa-mir-501,Doxorubicin (Adriamycin)
+hsa-mir-501,Doxorubicin (Adriamycin)
+hsa-mir-501,Etoposide
+hsa-mir-519a-1,Doxorubicin (Adriamycin)
+hsa-mir-519a-1,Doxorubicin (Adriamycin)
+hsa-mir-519a-1,Etoposide
+hsa-mir-769,Doxorubicin (Adriamycin)
+hsa-mir-769,Doxorubicin (Adriamycin)
+hsa-mir-769,Etoposide
+hsa-mir-33b,Bortezomib
+hsa-mir-520h,Paclitaxel
+hsa-mir-194-1,AED therapy
+hsa-mir-204,AED therapy
+hsa-mir-221,AED therapy
+hsa-mir-301a,AED therapy
+hsa-mir-30b,AED therapy
+hsa-mir-342,AED therapy
+hsa-mir-3605,AED therapy
+hsa-mir-4446,AED therapy
+hsa-mir-574,AED therapy
+hsa-mir-598,AED therapy
+hsa-mir-874,AED therapy
+hsa-mir-889,AED therapy
+hsa-mir-150,Pertuzumab
+hsa-mir-21,Temozolomide
+hsa-mir-506,Cisplatin
+hsa-mir-506,Olaparib
+hsa-mir-23b,5-Fluorouracil
+hsa-mir-23b,Cisplatin
+hsa-mir-23b,Vincristine
+hsa-mir-335,Celastrol
+hsa-mir-335,Paclitaxel
+hsa-mir-200a,Paclitaxel
+hsa-mir-125b-1,Cisplatin
+hsa-mir-107,Cisplatin
+hsa-mir-16-1,Cisplatin
+hsa-mir-19b-1,Cisplatin
+hsa-mir-223,Cisplatin
+hsa-mir-25,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-373,Cisplatin
+hsa-mir-378b,Cisplatin
+hsa-mir-411,Cisplatin
+hsa-mir-449c,Cisplatin
+hsa-mir-451a,Cisplatin
+hsa-mir-490,Cisplatin
+hsa-mir-519b,Cisplatin
+hsa-mir-520e,Cisplatin
+hsa-mir-598,Cisplatin
+hsa-mir-648,Cisplatin
+hsa-mir-875,Cisplatin
+hsa-let-7d,Cisplatin
+hsa-let-7f-1,Cisplatin
+hsa-mir-1258,Cisplatin
+hsa-mir-128-1,Cisplatin
+hsa-mir-1297,Cisplatin
+hsa-mir-130a,Cisplatin
+hsa-mir-1321,Cisplatin
+hsa-mir-146a,Cisplatin
+hsa-mir-146b,Cisplatin
+hsa-mir-155,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-182,Cisplatin
+hsa-mir-183,Cisplatin
+hsa-mir-196a-1,Cisplatin
+hsa-mir-200c,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-25,Cisplatin
+hsa-mir-27a,Cisplatin
+hsa-mir-31,Cisplatin
+hsa-mir-3175,Cisplatin
+hsa-mir-365a,Cisplatin
+hsa-mir-374a,Cisplatin
+hsa-mir-374b,Cisplatin
+hsa-mir-374c,Cisplatin
+hsa-mir-378b,Cisplatin
+hsa-mir-378c,Cisplatin
+hsa-mir-4289,Cisplatin
+hsa-mir-4297,Cisplatin
+hsa-mir-590,Cisplatin
+hsa-mir-9-1,Cisplatin
+hsa-mir-98,Cisplatin
+hsa-mir-522,Doxorubicin (Adriamycin)
+hsa-mir-146a,Cytarabine
+hsa-mir-150,Sunitinib
+hsa-mir-155,Sunitinib
+hsa-mir-196b,Sunitinib
+hsa-mir-204,Sunitinib
+hsa-mir-21,Sunitinib
+hsa-mir-214,Sunitinib
+hsa-mir-29c,Sunitinib
+hsa-mir-302c,Sunitinib
+hsa-mir-30a,Sunitinib
+hsa-mir-30a,Sunitinib
+hsa-mir-30d,Sunitinib
+hsa-mir-30e,Sunitinib
+hsa-mir-30e,Sunitinib
+hsa-mir-324,Sunitinib
+hsa-mir-454,Sunitinib
+hsa-mir-483,Sunitinib
+hsa-mir-484,Sunitinib
+hsa-mir-636,Sunitinib
+hsa-mir-888,Sunitinib
+hsa-mir-130a,Paclitaxel
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-100,TRAIL therapy
+hsa-mir-21,TRAIL therapy
+hsa-mir-30c-1,TRAIL therapy
+hsa-let-7d,Cetuximab
+hsa-let-7f-1,Cetuximab
+hsa-mir-125a,Cetuximab
+hsa-mir-126,Cetuximab
+hsa-mir-152,Cetuximab
+hsa-mir-17,Cetuximab
+hsa-mir-182,Cetuximab
+hsa-mir-18a,Cetuximab
+hsa-mir-190b,Cetuximab
+hsa-mir-199a-1,Cetuximab
+hsa-mir-199b,Cetuximab
+hsa-mir-19b-1,Cetuximab
+hsa-mir-203a,Cetuximab
+hsa-mir-21,Cetuximab
+hsa-mir-221,Cetuximab
+hsa-mir-26a-1,Cetuximab
+hsa-mir-27b,Cetuximab
+hsa-mir-296,Cetuximab
+hsa-mir-29c,Cetuximab
+hsa-mir-337,Cetuximab
+hsa-mir-339,Cetuximab
+hsa-mir-375,Cetuximab
+hsa-mir-377,Cetuximab
+hsa-mir-383,Cetuximab
+hsa-mir-451a,Cetuximab
+hsa-mir-498,Cetuximab
+hsa-mir-516b-1,Cetuximab
+hsa-mir-595,Cetuximab
+hsa-mir-609,Cetuximab
+hsa-mir-619,Cetuximab
+hsa-mir-640,Cetuximab
+hsa-mir-654,Cetuximab
+hsa-mir-769,Cetuximab
+hsa-mir-99b,Cetuximab
+hsa-mir-7-1,Doxorubicin (Adriamycin)
+hsa-mir-217,Etoposide
+hsa-mir-217,Lapatinib
+hsa-mir-217,Tamoxifen
+hsa-mir-363,Cisplatin
+hsa-mir-101-1,Bortezomib
+hsa-mir-197,5-Fluorouracil
+hsa-mir-125b-1,Temozolomide
+hsa-mir-200a,Gefitinib
+hsa-mir-10b,Tamoxifen
+hsa-let-7a-1,Epirubicin
+hsa-mir-21,Betulinic Acid
+hsa-mir-149,Paclitaxel
+hsa-mir-219a-1,5-Fluorouracil
+hsa-mir-219a-1,Oxaliplatin
+hsa-mir-326,5-Fluorouracil
+hsa-mir-326,Cisplatin
+hsa-mir-587,5-Fluorouracil
+hsa-mir-199a-1,Doxorubicin (Adriamycin)
+hsa-mir-199a-1,Rituximab
+hsa-mir-199a-1,Vincristine
+hsa-mir-497,Doxorubicin (Adriamycin)
+hsa-mir-497,Rituximab
+hsa-mir-497,Vincristine
+hsa-mir-150,Crizotinib
+hsa-mir-127,Doxorubicin (Adriamycin)
+hsa-mir-218-1,5-Fluorouracil
+hsa-mir-218-1,Doxorubicin (Adriamycin)
+hsa-mir-218-1,Oxaliplatin
+hsa-mir-141,Cisplatin
+hsa-mir-18b,Cisplatin
+hsa-mir-199a-1,Cisplatin
+hsa-mir-199b,Cisplatin
+hsa-mir-215,Cisplatin
+hsa-mir-335,Cisplatin
+hsa-mir-363,Cisplatin
+hsa-mir-645,Cisplatin
+hsa-mir-202,Doxorubicin (Adriamycin)
+hsa-mir-335,chemotherapy
+hsa-mir-139,Docetaxel
+hsa-mir-134,Doxorubicin (Adriamycin)
+hsa-mir-10b,Cisplatin
+hsa-mir-10b,Cisplatin
+hsa-mir-128-1,Cisplatin
+hsa-mir-128-1,Cisplatin
+hsa-mir-129-1,Cisplatin
+hsa-mir-129-1,Cisplatin
+hsa-mir-139,Cisplatin
+hsa-mir-139,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-let-7g,Paclitaxel
+hsa-mir-128-1,Paclitaxel
+hsa-mir-135b,Paclitaxel
+hsa-mir-155,Paclitaxel
+hsa-mir-181a-2,Cisplatin
+hsa-mir-181a-2,Paclitaxel
+hsa-mir-181b-1,Paclitaxel
+hsa-mir-181c,Paclitaxel
+hsa-mir-191,Paclitaxel
+hsa-mir-19a,Paclitaxel
+hsa-mir-200c,Paclitaxel
+hsa-mir-205,Paclitaxel
+hsa-mir-23b,Paclitaxel
+hsa-mir-25,Paclitaxel
+hsa-mir-301a,Paclitaxel
+hsa-mir-96,Paclitaxel
+hsa-mir-125b-1,Paclitaxel
+hsa-mir-196a-1,Cisplatin
+hsa-mir-224,Paclitaxel
+hsa-mir-133b,Cisplatin
+hsa-mir-133b,Paclitaxel
+hsa-mir-134,Cisplatin
+hsa-mir-134,PU-H71
+hsa-mir-134,Tanespimycin
+hsa-mir-21,5-Fluorouracil
+hsa-mir-21,Trastuzumab
+hsa-let-7a-1,PLX4720
+hsa-let-7b,PLX4720
+hsa-let-7c,PLX4720
+hsa-let-7e,PLX4720
+hsa-mir-100,PLX4720
+hsa-mir-128-1,PLX4720
+hsa-mir-1287,PLX4720
+hsa-mir-1291,PLX4720
+hsa-mir-1293,PLX4720
+hsa-mir-1301,PLX4720
+hsa-mir-132,PLX4720
+hsa-mir-146a,PLX4720
+hsa-mir-155,PLX4720
+hsa-mir-184,PLX4720
+hsa-mir-185,PLX4720
+hsa-mir-192,PLX4720
+hsa-mir-21,PLX4720
+hsa-mir-2277,PLX4720
+hsa-mir-23a,PLX4720
+hsa-mir-23b,PLX4720
+hsa-mir-24-2,PLX4720
+hsa-mir-27a,PLX4720
+hsa-mir-27b,PLX4720
+hsa-mir-30b,PLX4720
+hsa-mir-30d,PLX4720
+hsa-mir-3187,PLX4720
+hsa-mir-3200,PLX4720
+hsa-mir-320a,PLX4720
+hsa-mir-328,PLX4720
+hsa-mir-331,PLX4720
+hsa-mir-335,PLX4720
+hsa-mir-340,PLX4720
+hsa-mir-361,PLX4720
+hsa-mir-363,PLX4720
+hsa-mir-3651,PLX4720
+hsa-mir-3917,PLX4720
+hsa-mir-409,PLX4720
+hsa-mir-424,PLX4720
+hsa-mir-425,PLX4720
+hsa-mir-4467,PLX4720
+hsa-mir-4473,PLX4720
+hsa-mir-449c,PLX4720
+hsa-mir-4664,PLX4720
+hsa-mir-4745,PLX4720
+hsa-mir-490,PLX4720
+hsa-mir-503,PLX4720
+hsa-mir-504,PLX4720
+hsa-mir-543,PLX4720
+hsa-mir-584,PLX4720
+hsa-mir-660,PLX4720
+hsa-mir-664a,PLX4720
+hsa-mir-7-1,PLX4720
+hsa-mir-760,PLX4720
+hsa-mir-769,PLX4720
+hsa-mir-92a-1,PLX4720
+hsa-mir-96,PLX4720
+hsa-mir-99a,PLX4720
+hsa-mir-26a-1,Cisplatin
+hsa-mir-26a-1,Cisplatin
+hsa-mir-130a,Imatinib
+hsa-mir-17,Paclitaxel
+hsa-mir-193b,Doxorubicin (Adriamycin)
+hsa-mir-221,Melphalan
+hsa-mir-7-1,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-21,Paclitaxel
+hsa-mir-144,Cisplatin
+hsa-mir-101-1,Cisplatin
+hsa-mir-634,Carboplatin
+hsa-mir-634,Cisplatin
+hsa-mir-634,Cisplatin
+hsa-mir-634,Doxorubicin (Adriamycin)
+hsa-mir-143,Paclitaxel
+hsa-mir-181a-2,Cisplatin
+hsa-mir-100,Cisplatin
+hsa-mir-100,Vincristine
+hsa-mir-101-1,Vincristine
+hsa-mir-1247,Vincristine
+hsa-mir-125b-1,Vincristine
+hsa-mir-125b-1,Vincristine
+hsa-mir-126,Vincristine
+hsa-mir-145,Vincristine
+hsa-mir-146a,Vincristine
+hsa-mir-181a-2,Vincristine
+hsa-mir-215,Vincristine
+hsa-mir-218-1,Vincristine
+hsa-mir-3141,Vincristine
+hsa-mir-582,Vincristine
+hsa-mir-675,Vincristine
+hsa-mir-92b,Vincristine
+hsa-mir-302a,Mitoxantrone
+hsa-mir-302b,Mitoxantrone
+hsa-mir-302c,Mitoxantrone
+hsa-mir-302d,Mitoxantrone
+hsa-mir-425,5-Fluorouracil
+hsa-mir-425,Oxaliplatin
+hsa-let-7g,Cisplatin
+hsa-let-7i,Cisplatin
+hsa-mir-122,Sorafenib
+hsa-mir-30a,Cisplatin
+hsa-mir-100,Cisplatin
+hsa-mir-10a,Cisplatin
+hsa-mir-125b-1,Cisplatin
+hsa-mir-1307,Cisplatin
+hsa-mir-181a-2,Cisplatin
+hsa-mir-204,Cisplatin
+hsa-mir-21,Cisplatin
+hsa-mir-222,Cisplatin
+hsa-mir-224,Cisplatin
+hsa-mir-23a,Cisplatin
+hsa-mir-27b,Cisplatin
+hsa-mir-29a,Cisplatin
+hsa-mir-320a,Cisplatin
+hsa-mir-320b-1,Cisplatin
+hsa-mir-423,Cisplatin
+hsa-mir-4521,Cisplatin
+hsa-mir-7-1,Cisplatin
+hsa-mir-92a-1,Cisplatin
+hsa-mir-92b,Cisplatin
+hsa-mir-100,Vemurafenib
+hsa-mir-125b-1,Vemurafenib
+hsa-mir-34a,Vemurafenib
+hsa-mir-202,Bortezomib
+hsa-mir-155,Tamoxifen
+hsa-mir-224,Doxorubicin (Adriamycin)
+hsa-mir-542,Doxorubicin (Adriamycin)
+hsa-mir-101-1,Doxorubicin (Adriamycin)
+hsa-mir-16-1,Temozolomide
