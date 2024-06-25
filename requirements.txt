@@ -1,0 +1,93 @@
+absl-py==2.0.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+brotlipy==0.7.0
+cachetools==5.3.1
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+comm @ file:///work/ci_py311/comm_1677709131612/work
+contourpy==1.1.1
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.12.0
+debugpy @ file:///croot/debugpy_1690905042057/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastBPE==0.1.1
+filelock @ file:///work/ci_py311/filelock_1676823024085/work
+fonttools==4.43.0
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+google-auth==2.23.3
+google-auth-oauthlib==1.0.0
+grpcio==1.59.0
+idna @ file:///work/ci_py311/idna_1676822698822/work
+ipykernel @ file:///croot/ipykernel_1691121631942/work
+ipython @ file:///croot/ipython_1694181358621/work
+jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+joblib==1.3.2
+jupyter_client @ file:///croot/jupyter_client_1680171862562/work
+jupyter_core @ file:///croot/jupyter_core_1679906564508/work
+kiwisolver==1.4.5
+Markdown==3.5
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+matplotlib==3.8.0
+matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+nest-asyncio @ file:///work/ci_py311/nest-asyncio_1676823382924/work
+networkx @ file:///croot/networkx_1690561992265/work
+numpy @ file:///croot/numpy_and_numpy_base_1695830428084/work/dist/numpy-1.26.0-cp311-cp311-linux_x86_64.whl#sha256=184178a893ff0b5e0cb1b0b7a0dddff49dc91424c4e4a01e29bcb05f27a698a6
+oauthlib==3.2.2
+packaging==23.2
+pandas==2.1.1
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///croot/pillow_1695134008276/work
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+prompt-toolkit @ file:///work/ci_py311/prompt-toolkit_1676824857154/work
+protobuf==4.24.4
+psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///croot/pygments_1684279966437/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3.post1
+PyYAML @ file:///work/ci_py311/pyyaml_1676827445582/work
+pyzmq @ file:///croot/pyzmq_1686601365461/work
+rdkit==2023.3.3
+requests @ file:///croot/requests_1690400202158/work
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-learn==1.3.1
+scipy==1.11.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+sympy @ file:///work/ci_py311_2/sympy_1679339311852/work
+tensorboard==2.14.1
+tensorboard-data-server==0.7.1
+tensorboardX==2.6.2.2
+threadpoolctl==3.2.0
+torch==2.1.0
+torch-geometric==2.3.1
+torch-scatter==2.1.2
+torchaudio==2.1.0
+torchvision==0.16.0
+tornado @ file:///croot/tornado_1690848263220/work
+tqdm==4.66.1
+traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
+triton==2.1.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==3.0.0
